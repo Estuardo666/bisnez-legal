@@ -1,4 +1,7 @@
+"use client";
+
 import Image from "next/image";
+import { useEffect, useRef, useState } from "react";
 
 import { cn } from "@/lib/utils";
 
@@ -46,11 +49,76 @@ const CARDS: readonly ApproachCardData[] = [
 const MONO_LABEL =
   "font-[family-name:var(--fileon-font-mono)] text-[14px] leading-[150%] font-normal uppercase tracking-[0em]";
 
+
+/**
+ * Scroll-linked entrance for the three pinned cards, measured off the live site.
+ *
+ * Each card interpolates linearly across exactly one viewport height, staggered
+ * one trigger apart: card 2 runs over `trigger-one`'s range and card 3 over
+ * `trigger-two`'s, so card 1 finishes one viewport before the first trigger.
+ * `opacity` runs 0 -> 1 while `translateY` runs 80px -> 0 (they stay locked as
+ * translateY = 80 * (1 - opacity)). It scrubs with the scroll rather than
+ * firing once, so scrolling back up plays it in reverse.
+ *
+ * The triggers only exist at >=1380px, so below that the cards simply render
+ * settled.
+ */
+function useCardScrollProgress(count: number) {
+  const [progress, setProgress] = useState<readonly number[]>(() =>
+    Array.from({ length: count }, () => 1),
+  );
+  const frame = useRef(0);
+
+  useEffect(() => {
+    const settled = Array.from({ length: count }, () => 1);
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+
+    const measure = () => {
+      const trigger = document.getElementById("trigger-one");
+      const viewport = window.innerHeight;
+      // No trigger column below 1380px, and nothing to scrub without height.
+      if (!trigger || trigger.offsetHeight === 0 || reduceMotion.matches) {
+        setProgress(settled);
+        return;
+      }
+      const firstTriggerTop = trigger.getBoundingClientRect().top + window.scrollY;
+      setProgress(
+        Array.from({ length: count }, (_, index) => {
+          const start = firstTriggerTop + (index - 1) * viewport;
+          const raw = (window.scrollY - start) / viewport;
+          return Math.min(1, Math.max(0, raw));
+        }),
+      );
+    };
+
+    const onScroll = () => {
+      cancelAnimationFrame(frame.current);
+      frame.current = requestAnimationFrame(measure);
+    };
+
+    measure();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
+    reduceMotion.addEventListener("change", measure);
+    return () => {
+      cancelAnimationFrame(frame.current);
+      window.removeEventListener("scroll", onScroll);
+      window.removeEventListener("resize", onScroll);
+      reduceMotion.removeEventListener("change", measure);
+    };
+  }, [count]);
+
+  return progress;
+}
+
 /** .framer-vK7DH.framer-1sv7rdv + variants v-1knwztn (mobile) / v-jx7450 (tablet). */
-function ApproachCard({ card }: { card: ApproachCardData }) {
+function ApproachCard({ card, progress }: { card: ApproachCardData; progress: number }) {
   return (
     // .framer-12cpt28-container / .framer-1ynp1kk-container / .framer-qbkltc-container
-    <div className="relative h-auto w-full flex-none self-start xl:w-auto xl:self-auto">
+    <div
+      className="relative h-auto w-full flex-none self-start will-change-transform xl:w-auto xl:self-auto"
+      style={{ opacity: progress, transform: `translateY(${80 * (1 - progress)}px)` }}
+    >
       <div
         className={cn(
           "relative flex h-min w-full flex-none flex-col items-start overflow-visible",
@@ -153,6 +221,8 @@ function ApproachCard({ card }: { card: ApproachCardData }) {
 }
 
 export function ApproachSection() {
+  const cardProgress = useCardScrollProgress(CARDS.length);
+
   return (
     // .framer-bbtw1p
     <section className="relative z-[1] flex h-min w-full flex-none flex-col items-center justify-center gap-[10px] overflow-visible bg-[var(--fileon-bg-warm)] px-[20px] pt-[80px] pb-[40px] md:px-[30px] md:pt-[100px] md:pb-[50px] xl:pt-[130px] xl:pb-[65px]">
@@ -236,8 +306,12 @@ export function ApproachSection() {
 
             {/* Card Wrapper - .framer-1mh7foo */}
             <div className="relative z-[1] flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0 md:grid md:auto-rows-min md:grid-cols-[repeat(2,minmax(50px,1fr))] md:grid-rows-[repeat(1,min-content)] md:justify-start xl:flex xl:flex-row xl:items-center xl:justify-between">
-              {CARDS.map((card) => (
-                <ApproachCard key={card.title} card={card} />
+              {CARDS.map((card, index) => (
+                <ApproachCard
+                  key={card.title}
+                  card={card}
+                  progress={cardProgress[index] ?? 1}
+                />
               ))}
             </div>
           </div>

@@ -198,8 +198,11 @@ export function ApproachSection() {
             or a `transform`, or the pinning breaks.
           */}
           <div className="sticky top-[40px] z-[1] flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0">
-            {/* Border & Line Wrapper - .framer-1rq0af5 */}
-            <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[35px] overflow-visible p-0">
+            {/*
+              Border & Line Wrapper - .framer-1rq0af5
+              Carries Framer's `hidden-175ozha` gate: desktop-only (>=1380px).
+            */}
+            <div className="relative hidden h-min w-full flex-none flex-col items-start justify-start gap-[35px] overflow-visible p-0 xl:flex">
               {/* Border Wrapper - .framer-1picd6m */}
               <div className="relative flex h-min w-full flex-none flex-row items-center justify-between overflow-visible p-0">
                 {/* Border - .framer-2i02ma */}
@@ -225,7 +228,7 @@ export function ApproachSection() {
             </div>
 
             {/* Card Wrapper - .framer-1mh7foo */}
-            <div className="relative z-[1] flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0 md:grid md:auto-rows-min md:grid-cols-[repeat(2,minmax(50px,1fr))] md:grid-rows-[repeat(1,min-content)] md:justify-start xl:flex xl:flex-row xl:items-center xl:justify-between">
+            <div className="relative z-[1] flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0 xl:flex-row xl:items-center xl:justify-between">
               {CARDS.map((card) => (
                 <ApproachCard key={card.title} card={card} />
               ))}
@@ -238,10 +241,14 @@ export function ApproachSection() {
             wrapper inside Content. They give the column its ~300vh of extra
             height so the sticky wrapper stays pinned for three screens. Purely
             structural: the live site animates nothing off them.
+
+            Carries Framer's `hidden-175ozha` gate: desktop-only (>=1380px).
+            Below 1380px the live site renders no trigger column at all, so the
+            three 100vh spacers must not contribute any height there.
           */}
           <div
             aria-hidden="true"
-            className="relative flex h-min w-full flex-none flex-col items-center justify-center gap-0 overflow-clip p-0"
+            className="relative hidden h-min w-full flex-none flex-col items-center justify-center gap-0 overflow-clip p-0 xl:flex"
           >
             <div
               id="trigger-one"

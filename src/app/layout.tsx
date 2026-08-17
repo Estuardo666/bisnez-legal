@@ -27,8 +27,8 @@ const manrope = Manrope({
 
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  // Routes export their own metadata; this is only the fallback title pattern.
+  title: { default: "Fileon - Law Firm Framer Template", template: "%s" },
 };
 
 export default function RootLayout({

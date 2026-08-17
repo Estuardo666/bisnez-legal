@@ -158,9 +158,9 @@ export function ApproachSection() {
       />
 
       {/* Container - .framer-5lznv2 */}
-      <div className="relative flex h-min w-full max-w-[1300px] flex-none flex-row items-center justify-center gap-[10px] overflow-visible p-0">
+      <div className="relative flex h-min w-full max-w-[1300px] flex-none flex-row overflow-visible p-0">
         {/* Content - .framer-qs1br2 */}
-        <div className="relative z-[1] flex h-min w-px flex-1 shrink-0 basis-0 flex-col items-start justify-start gap-[40px] overflow-visible p-0 md:gap-[50px] xl:gap-[60px]">
+        <div className="relative z-[1] flex h-min w-px shrink-0 grow basis-0 flex-col items-start justify-start gap-[40px] overflow-visible p-0 md:gap-[50px] xl:gap-[60px]">
           {/* Title Wrapper - .framer-38y8v0 */}
           <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] overflow-visible p-0 md:max-w-[550px] xl:max-w-[610px]">
             {/* Section Title 01 - .framer-1gnz6fr */}
@@ -184,7 +184,9 @@ export function ApproachSection() {
             <div className="relative h-auto w-full flex-none [text-wrap:balance]">
               <h2 className="text-left font-[family-name:var(--fileon-font-serif)] text-[38px] leading-[120%] font-normal tracking-[0em] text-[var(--fileon-ink)] md:text-[46px] xl:text-[56px]">
                 Guiding Every Decision With{" "}
-                <span className="text-[var(--fileon-black-50)]">Confidence</span>
+                <span className="text-[var(--fileon-black-50)]">
+                  Confidence
+                </span>
               </h2>
             </div>
           </div>
@@ -229,21 +231,31 @@ export function ApproachSection() {
               ))}
             </div>
           </div>
-        </div>
 
-        {/*
-          Trigger - .framer-1nwoypu
-          Three full-viewport spacers. They give the flex row its ~300vh height so
-          the sticky card column above has travel to pin against. Purely
-          structural, no content.
-        */}
-        <div
-          aria-hidden="true"
-          className="relative flex h-min w-full flex-none flex-col items-center justify-center gap-0 overflow-hidden p-0"
-        >
-          <div className="relative h-screen w-full flex-none overflow-hidden" />
-          <div className="relative h-screen w-full flex-none overflow-hidden" />
-          <div className="relative h-screen w-full flex-none overflow-hidden" />
+          {/*
+            Trigger Column - .framer-1nwoypu
+            Three empty full-viewport spacers, siblings of the sticky card
+            wrapper inside Content. They give the column its ~300vh of extra
+            height so the sticky wrapper stays pinned for three screens. Purely
+            structural: the live site animates nothing off them.
+          */}
+          <div
+            aria-hidden="true"
+            className="relative flex h-min w-full flex-none flex-col items-center justify-center gap-0 overflow-clip p-0"
+          >
+            <div
+              id="trigger-one"
+              className="relative h-screen w-full flex-none"
+            />
+            <div
+              id="trigger-two"
+              className="relative h-screen w-full flex-none"
+            />
+            <div
+              id="trigger-three"
+              className="relative h-screen w-full flex-none"
+            />
+          </div>
         </div>
       </div>
     </section>

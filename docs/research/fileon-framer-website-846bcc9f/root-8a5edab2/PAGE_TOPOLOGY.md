@@ -20,8 +20,8 @@ is template-store chrome, **not part of the design — excluded from the clone**
 | 0 | Hero | 0 | 936 | photo | scroll-driven (entrance transform) |
 | 1 | Brand | 936 | 125 | `#eeece6` | time-driven marquee |
 | 2 | About | 1061 | 1027 | `#f7f7f2` | scroll-driven reveal (image scale/fade) |
-| 3 | Case Studies | 2088 | 3879 | `#eeece6` | scroll-driven, sticky left column (`top: 20px`) |
-| 4 | Approach | 5967 | 2035 | `#eeece6` | scroll-driven sticky card stack (`top: 40px`) |
+| 3 | Approach | 2088 | 3879 | `#eeece6` | scroll-driven, sticky card wrapper (`top: 40px`) at all breakpoints |
+| 4 | Case Studies | 5967 | 2035 | `#eeece6` | scroll-driven sticky title panel (`top: 20px`) + card column (`top: 0`), desktop only |
 | 5 | Service | 8002 | 1135 | `#f7f7f2` | scroll-driven sticky list (`top: 0`) |
 | 6 | Video | 9137 | 750 | `#f7f7f2` | looping muted `<video>` |
 | 7 | Trust Bar | 9887 | 222 | inherits `#f7f7f2` | static three-item row |
@@ -37,3 +37,15 @@ is template-store chrome, **not part of the design — excluded from the clone**
 - Sections 3, 4 and 5 each own an internal sticky element; they must not be wrapped in any
   ancestor with `overflow: hidden` or `transform`, or sticky positioning breaks.
 - Lenis must be initialised once at the page level, not per section.
+
+## Correction: swapped Framer layer names
+Framer's layer names for sections 3 and 4 do not match their content, and the `raw/` captures are named
+after the layer, not the content:
+- `raw/casestudies.*` (layer "Case Studies Section", `.framer-bbtw1p`, top 2088) actually contains the
+  **Our Approach** content — "Guiding Every Decision With Confidence" and its three-card timeline.
+  Built as `ApproachSection.tsx`.
+- `raw/approach.*` (layer "Approach Section", `.framer-1veeev2`, top 5967) actually contains the
+  **Case Studies** content — "Results that Build Trust" and the three case cards.
+  Built as `CaseStudiesSection.tsx`.
+
+Component filenames follow the content. Page order remains DOM order: Approach, then Case Studies.

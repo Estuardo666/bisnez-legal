@@ -10,6 +10,14 @@ const BUTTON_ARROW_ICON = `${ASSETS}/EYDLAZGki3fWmXGqR28GepT0H40.svg`;
 const DISPLAY_ARROW_ICON = `${ASSETS}/1nSGlc9BFW8GOnDZlHhuYvggB5Q.svg`;
 const HERO_IMAGE = `${ASSETS}/ekQrJGgkG0Af5PGzyISVjhyzbM.png`;
 
+/**
+ * The CSS dump encodes the button's label/icon swap as instant `position` swaps
+ * (Framer tweens them from JS, so no duration/easing survives into the stylesheet).
+ * They are re-expressed here as transforms so they can actually animate — same
+ * timing the sibling sections use.
+ */
+const HOVER_MOTION = "transition-transform duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]";
+
 interface HeroSectionProps {
   className?: string;
 }
@@ -120,21 +128,14 @@ export function HeroSection({ className }: HeroSectionProps) {
               >
                 <div
                   data-framer-name="Title Wrapper"
-                  className="relative flex h-min w-min flex-none flex-col items-start justify-start gap-[10px] overflow-hidden"
+                  className="relative flex h-[24px] w-min flex-none flex-col items-start justify-start overflow-hidden"
                 >
-                  <div
-                    data-framer-name="Title"
-                    className="absolute top-[-50px] left-0 z-[1] h-auto w-auto flex-none whitespace-pre group-hover:relative group-hover:top-auto group-hover:left-auto"
-                  >
-                    <p className="text-left text-[16px] leading-[150%] font-medium tracking-[0em] text-[var(--fileon-ink,#191818)] [font-family:var(--fileon-font-sans)]">
+                  {/* The two "Title" copies trade places on hover */}
+                  <div className={cn("flex flex-col -translate-y-[24px] group-hover:translate-y-0", HOVER_MOTION)}>
+                    <p className="h-[24px] text-left text-[16px] leading-[150%] font-medium tracking-[0em] whitespace-pre text-[var(--fileon-ink,#191818)] [font-family:var(--fileon-font-sans)]">
                       Book free consultaion
                     </p>
-                  </div>
-                  <div
-                    data-framer-name="Title"
-                    className="relative h-auto w-auto flex-none whitespace-pre group-hover:absolute group-hover:bottom-[-50px] group-hover:left-0 group-hover:z-[1]"
-                  >
-                    <p className="text-left text-[16px] leading-[150%] font-medium tracking-[0em] text-[var(--fileon-ink,#191818)] [font-family:var(--fileon-font-sans)]">
+                    <p className="h-[24px] text-left text-[16px] leading-[150%] font-medium tracking-[0em] whitespace-pre text-[var(--fileon-ink,#191818)] [font-family:var(--fileon-font-sans)]">
                       Book free consultaion
                     </p>
                   </div>
@@ -144,31 +145,39 @@ export function HeroSection({ className }: HeroSectionProps) {
                   data-framer-name="Icon Wrapper"
                   className="relative flex aspect-square h-[35px] w-[35px] flex-none flex-col items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-[var(--fileon-ink,#191818)]"
                 >
-                  <div
-                    data-framer-name="Icon"
-                    className="absolute bottom-[-20px] left-[-20px] z-[1] aspect-square h-[18px] w-[18px] flex-none overflow-clip group-hover:relative group-hover:bottom-auto group-hover:left-auto"
-                  >
-                    <Image
-                      src={BUTTON_ARROW_ICON}
-                      alt="Icon"
-                      width={18}
-                      height={18}
-                      unoptimized
-                      className="block h-full w-full object-contain object-center"
-                    />
-                  </div>
-                  <div
-                    data-framer-name="Icon"
-                    className="relative aspect-square h-[18px] w-[18px] flex-none overflow-clip group-hover:absolute group-hover:top-[-20px] group-hover:right-[-20px] group-hover:z-[1]"
-                  >
-                    <Image
-                      src={BUTTON_ARROW_ICON}
-                      alt="Icon"
-                      width={18}
-                      height={18}
-                      unoptimized
-                      className="block h-full w-full object-contain object-center"
-                    />
+                  <div className="relative aspect-square h-[18px] w-[18px] flex-none">
+                    {/* parked bottom-left, slides in on hover */}
+                    <span
+                      className={cn(
+                        "absolute inset-0 block -translate-x-[20px] translate-y-[20px] group-hover:translate-x-0 group-hover:translate-y-0",
+                        HOVER_MOTION,
+                      )}
+                    >
+                      <Image
+                        src={BUTTON_ARROW_ICON}
+                        alt="Icon"
+                        width={18}
+                        height={18}
+                        unoptimized
+                        className="block h-full w-full object-contain object-center"
+                      />
+                    </span>
+                    {/* resting arrow, exits top-right on hover */}
+                    <span
+                      className={cn(
+                        "absolute inset-0 block group-hover:translate-x-[20px] group-hover:-translate-y-[20px]",
+                        HOVER_MOTION,
+                      )}
+                    >
+                      <Image
+                        src={BUTTON_ARROW_ICON}
+                        alt="Icon"
+                        width={18}
+                        height={18}
+                        unoptimized
+                        className="block h-full w-full object-contain object-center"
+                      />
+                    </span>
                   </div>
                 </div>
               </Link>

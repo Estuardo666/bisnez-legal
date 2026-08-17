@@ -18,6 +18,14 @@ const HEADING_TEXT =
 const BUTTON_TEXT =
   "font-[family-name:var(--fileon-font-sans)] text-[16px] font-medium leading-[150%] tracking-[0em] text-left text-[var(--fileon-white)] whitespace-pre";
 
+/**
+ * The CSS dump encodes the button's label/icon swap as instant `position` swaps
+ * (Framer tweens them from JS, so no duration/easing survives into the stylesheet).
+ * They are re-expressed here as transforms so they can actually animate — same
+ * timing the sibling sections use.
+ */
+const HOVER_MOTION = "transition-transform duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]";
+
 export function AboutSection() {
   return (
     /* name="About Section" .framer-p81148 */
@@ -60,63 +68,48 @@ export function AboutSection() {
                   href="/about"
                   className="group relative flex h-min w-min cursor-pointer flex-none flex-row items-center justify-center gap-[14px] overflow-hidden rounded-[50px] bg-[var(--fileon-ink)] py-[6px] pr-[6px] pl-[24px] no-underline"
                 >
-                  {/* name="Title Wrapper" .framer-176aqmi */}
-                  <div className="relative flex h-min w-min flex-none flex-col items-start justify-start gap-[10px] overflow-hidden">
-                    {/* name="Title" .framer-yu6vuw — parked above, slides in on hover */}
-                    <div
-                      className={cn(
-                        "absolute top-[-50px] left-0 z-[1] h-auto w-auto flex-none",
-                        "group-hover:relative group-hover:top-auto group-hover:left-auto group-hover:z-auto",
-                      )}
-                    >
-                      <p className={BUTTON_TEXT}>Learn more</p>
-                    </div>
-                    {/* name="Title" .framer-1h58870 — resting label, slides out on hover */}
-                    <div
-                      className={cn(
-                        "relative h-auto w-auto flex-none",
-                        "group-hover:absolute group-hover:bottom-[-50px] group-hover:left-0 group-hover:z-[1]",
-                      )}
-                    >
-                      <p className={BUTTON_TEXT}>Learn more</p>
+                  {/* name="Title Wrapper" .framer-176aqmi (overflow hidden, one line tall) */}
+                  <div className="relative flex h-[24px] w-min flex-none flex-col items-start justify-start overflow-hidden">
+                    {/* .framer-yu6vuw (parked above) and .framer-1h58870 trade places on hover */}
+                    <div className={cn("flex flex-col -translate-y-[24px] group-hover:translate-y-0", HOVER_MOTION)}>
+                      <p className={cn(BUTTON_TEXT, "h-[24px]")}>Learn more</p>
+                      <p className={cn(BUTTON_TEXT, "h-[24px]")}>Learn more</p>
                     </div>
                   </div>
 
                   {/* name="Icon Wrapper" .framer-1d5hfen */}
                   <div className="relative flex h-[35px] w-[35px] flex-none flex-col items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-[var(--fileon-white)]">
-                    {/* name="Icon" .framer-dswrox — parked bottom-left, slides in on hover */}
-                    <div
-                      className={cn(
-                        "absolute bottom-[-20px] left-[-20px] z-[1] h-[18px] w-[18px] flex-none overflow-hidden",
-                        "group-hover:relative group-hover:bottom-auto group-hover:left-auto group-hover:z-auto",
-                      )}
-                    >
-                      <span className="absolute inset-0 rounded-[inherit]">
+                    <div className="relative h-[18px] w-[18px] flex-none">
+                      {/* name="Icon" .framer-dswrox — parked bottom-left, slides in on hover */}
+                      <span
+                        className={cn(
+                          "absolute inset-0 block -translate-x-[20px] translate-y-[20px] group-hover:translate-x-0 group-hover:translate-y-0",
+                          HOVER_MOTION,
+                        )}
+                      >
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
                           src={`${IMAGES}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`}
                           alt="Icon"
                           width={18}
                           height={18}
-                          className="block h-full w-full rounded-[inherit] object-contain object-center"
+                          className="block h-full w-full object-contain object-center"
                         />
                       </span>
-                    </div>
-                    {/* name="Icon" .framer-13sriid — resting arrow, exits top-right on hover */}
-                    <div
-                      className={cn(
-                        "relative h-[18px] w-[18px] flex-none overflow-hidden",
-                        "group-hover:absolute group-hover:top-[-20px] group-hover:right-[-20px] group-hover:z-[1]",
-                      )}
-                    >
-                      <span className="absolute inset-0 rounded-[inherit]">
+                      {/* name="Icon" .framer-13sriid — resting arrow, exits top-right on hover */}
+                      <span
+                        className={cn(
+                          "absolute inset-0 block group-hover:translate-x-[20px] group-hover:-translate-y-[20px]",
+                          HOVER_MOTION,
+                        )}
+                      >
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
                           src={`${IMAGES}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`}
                           alt="Icon"
                           width={18}
                           height={18}
-                          className="block h-full w-full rounded-[inherit] object-contain object-center"
+                          className="block h-full w-full object-contain object-center"
                         />
                       </span>
                     </div>

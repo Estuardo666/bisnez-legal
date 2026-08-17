@@ -61,6 +61,14 @@ const PRESET_BUTTON =
   "font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-medium tracking-[0em]";
 
 /**
+ * The CSS dump encodes the button's label/icon swap as instant `position` swaps
+ * (Framer tweens them from JS, so no duration/easing survives into the stylesheet).
+ * They are re-expressed here as transforms so they can actually animate — same
+ * timing the sibling sections use.
+ */
+const HOVER_MOTION = "transition-transform duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]";
+
+/**
  * The blurred "notch" plate that sits on the top-right corner of every card.
  * Framer emits it as a template `<svg>` referenced through `<use>`; here each
  * card renders its own copy with locally scoped ids.
@@ -199,49 +207,52 @@ export function CaseStudiesSection() {
                 href="/case-studies"
                 className="group relative flex h-min w-min cursor-pointer items-center justify-center gap-[14px] overflow-hidden rounded-[50px] bg-[var(--fileon-ink)] py-[6px] pr-[6px] pl-[24px] no-underline"
               >
-                {/* .framer-176aqmi — title wrapper (masks the label swap) */}
-                <div className="relative flex h-min w-min flex-none flex-col items-start gap-[10px] overflow-hidden">
-                  {/* .framer-yu6vuw — incoming label */}
-                  <p
-                    className={cn(
-                      PRESET_BUTTON,
-                      "absolute top-[-50px] left-0 z-[1] h-auto w-auto flex-none whitespace-pre text-[var(--fileon-white)] group-hover:relative group-hover:top-auto group-hover:left-auto",
-                    )}
-                  >
-                    View all case studies
-                  </p>
-                  {/* .framer-1h58870 — resting label */}
-                  <p
-                    className={cn(
-                      PRESET_BUTTON,
-                      "relative h-auto w-auto flex-none whitespace-pre text-[var(--fileon-white)] group-hover:absolute group-hover:bottom-[-50px] group-hover:left-0 group-hover:z-[1]",
-                    )}
-                  >
-                    View all case studies
-                  </p>
+                {/* .framer-176aqmi — title wrapper (masks the label swap, one line tall) */}
+                <div className="relative flex h-[24px] w-min flex-none flex-col items-start overflow-hidden">
+                  {/* .framer-yu6vuw (incoming) and .framer-1h58870 (resting) trade places */}
+                  <div className={cn("flex flex-col -translate-y-[24px] group-hover:translate-y-0", HOVER_MOTION)}>
+                    <p className={cn(PRESET_BUTTON, "h-[24px] whitespace-pre text-[var(--fileon-white)]")}>
+                      View all case studies
+                    </p>
+                    <p className={cn(PRESET_BUTTON, "h-[24px] whitespace-pre text-[var(--fileon-white)]")}>
+                      View all case studies
+                    </p>
+                  </div>
                 </div>
 
                 {/* .framer-1d5hfen — icon wrapper */}
                 <div className="relative flex h-[35px] w-[35px] flex-none items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-[var(--fileon-white)]">
-                  {/* .framer-dswrox — incoming icon */}
-                  <div className="absolute bottom-[-20px] left-[-20px] z-[1] h-[18px] w-[18px] flex-none overflow-hidden group-hover:relative group-hover:bottom-auto group-hover:left-auto">
-                    <Image
-                      src={`${ASSETS}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`}
-                      alt="Icon"
-                      width={18}
-                      height={18}
-                      className="block h-full w-full object-contain object-center"
-                    />
-                  </div>
-                  {/* .framer-13sriid — resting icon */}
-                  <div className="relative h-[18px] w-[18px] flex-none overflow-hidden group-hover:absolute group-hover:top-[-20px] group-hover:right-[-20px] group-hover:z-[1]">
-                    <Image
-                      src={`${ASSETS}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`}
-                      alt="Icon"
-                      width={18}
-                      height={18}
-                      className="block h-full w-full object-contain object-center"
-                    />
+                  <div className="relative h-[18px] w-[18px] flex-none">
+                    {/* .framer-dswrox — incoming icon */}
+                    <span
+                      className={cn(
+                        "absolute inset-0 block -translate-x-[20px] translate-y-[20px] group-hover:translate-x-0 group-hover:translate-y-0",
+                        HOVER_MOTION,
+                      )}
+                    >
+                      <Image
+                        src={`${ASSETS}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`}
+                        alt="Icon"
+                        width={18}
+                        height={18}
+                        className="block h-full w-full object-contain object-center"
+                      />
+                    </span>
+                    {/* .framer-13sriid — resting icon */}
+                    <span
+                      className={cn(
+                        "absolute inset-0 block group-hover:translate-x-[20px] group-hover:-translate-y-[20px]",
+                        HOVER_MOTION,
+                      )}
+                    >
+                      <Image
+                        src={`${ASSETS}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`}
+                        alt="Icon"
+                        width={18}
+                        height={18}
+                        className="block h-full w-full object-contain object-center"
+                      />
+                    </span>
                   </div>
                 </div>
               </Link>

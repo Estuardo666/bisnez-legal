@@ -26,9 +26,14 @@ const BODY_TEXT =
  * Primary Button 01 / 02 — .framer-1r2Ll.framer-1vlt3ha.
  * Desktop renders the two-copy hover swap (variant v-1vlt3ha); tablet/mobile
  * ship the static variant (v-mpuqe), so the swap is gated behind `xl:`.
- * The CSS dump declares no transition on these variant rules — the swap is a
- * plain position change, exactly as captured.
+ * The CSS dump encodes the swap as instant `position` changes (Framer tweens
+ * them from JS, so no duration/easing survives into the stylesheet). They are
+ * re-expressed here as transforms so they can actually animate — same timing
+ * the sibling sections use.
  */
+const HOVER_MOTION = "transition-transform duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]";
+
+/** Primary Button 01 — pill CTA whose label and arrow swap places on hover (xl only). */
 function GuidanceButton() {
   return (
     <Link
@@ -37,16 +42,13 @@ function GuidanceButton() {
       className="group relative flex h-min w-min cursor-pointer flex-row items-center justify-center gap-[14px] overflow-hidden rounded-[50px] bg-[var(--fileon-white,#ffffff)] py-[6px] pr-[6px] pl-[24px] no-underline"
     >
       {/* Title Wrapper — .framer-176aqmi */}
-      <div className="relative flex h-min w-min flex-none flex-col items-start justify-start gap-[10px] overflow-hidden p-0">
-        {/* Title — .framer-yu6vuw (parked above, slides in on hover) */}
-        <div className="absolute top-[-50px] left-0 z-[1] h-auto w-auto flex-none whitespace-pre xl:group-hover:relative xl:group-hover:top-auto xl:group-hover:left-auto">
-          <p className="text-left font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-medium tracking-[0em] text-black">
+      <div className="relative flex h-[24px] w-min flex-none flex-col items-start justify-start overflow-hidden p-0">
+        {/* .framer-yu6vuw (parked above) and .framer-1h58870 trade places on hover */}
+        <div className={cn("flex flex-col -translate-y-[24px] xl:group-hover:translate-y-0", HOVER_MOTION)}>
+          <p className="h-[24px] text-left font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-medium tracking-[0em] whitespace-pre text-black">
             Get guidance
           </p>
-        </div>
-        {/* Title — .framer-1h58870 (visible copy, slides out on hover) */}
-        <div className="relative h-auto w-auto flex-none whitespace-pre xl:group-hover:absolute xl:group-hover:bottom-[-50px] xl:group-hover:left-0 xl:group-hover:z-[1]">
-          <p className="text-left font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-medium tracking-[0em] text-black">
+          <p className="h-[24px] text-left font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-medium tracking-[0em] whitespace-pre text-black">
             Get guidance
           </p>
         </div>
@@ -54,25 +56,33 @@ function GuidanceButton() {
 
       {/* Icon Wrapper — .framer-1d5hfen */}
       <div className="relative flex aspect-square h-[35px] w-[35px] flex-none flex-col items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-black">
-        {/* Icon — .framer-dswrox */}
-        <div className="absolute bottom-[-20px] left-[-20px] z-[1] aspect-square h-[18px] w-[18px] flex-none overflow-clip xl:group-hover:relative xl:group-hover:bottom-auto xl:group-hover:left-auto">
-          <div className="absolute inset-0 rounded-[inherit]">
+        <div className="relative aspect-square h-[18px] w-[18px] flex-none">
+          {/* Icon — .framer-dswrox (parked bottom-left) */}
+          <span
+            className={cn(
+              "absolute inset-0 block -translate-x-[20px] translate-y-[20px] xl:group-hover:translate-x-0 xl:group-hover:translate-y-0",
+              HOVER_MOTION,
+            )}
+          >
             <img
               src={BUTTON_ARROW_ICON}
               alt="Icon"
-              className="block h-full w-full rounded-[inherit] object-contain object-center"
+              className="block h-full w-full object-contain object-center"
             />
-          </div>
-        </div>
-        {/* Icon — .framer-13sriid */}
-        <div className="relative aspect-square h-[18px] w-[18px] flex-none overflow-clip xl:group-hover:absolute xl:group-hover:top-[-20px] xl:group-hover:right-[-20px] xl:group-hover:z-[1]">
-          <div className="absolute inset-0 rounded-[inherit]">
+          </span>
+          {/* Icon — .framer-13sriid (resting, exits top-right) */}
+          <span
+            className={cn(
+              "absolute inset-0 block xl:group-hover:translate-x-[20px] xl:group-hover:-translate-y-[20px]",
+              HOVER_MOTION,
+            )}
+          >
             <img
               src={BUTTON_ARROW_ICON}
               alt="Icon"
-              className="block h-full w-full rounded-[inherit] object-contain object-center"
+              className="block h-full w-full object-contain object-center"
             />
-          </div>
+          </span>
         </div>
       </div>
     </Link>

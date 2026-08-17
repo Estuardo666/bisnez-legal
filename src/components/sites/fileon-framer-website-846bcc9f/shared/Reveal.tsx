@@ -24,8 +24,9 @@ export function Reveal({ children, className, delay = 0, fromScale = 0.85 }: Rev
     const node = ref.current;
     if (!node) return;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-      setShown(true);
-      return;
+      // Deferred so the reveal is a post-paint state change, not a render-phase one.
+      const frame = requestAnimationFrame(() => setShown(true));
+      return () => cancelAnimationFrame(frame);
     }
 
     const observer = new IntersectionObserver(
@@ -44,7 +45,7 @@ export function Reveal({ children, className, delay = 0, fromScale = 0.85 }: Rev
   return (
     <div
       ref={ref}
-      className={cn("transition-[opacity,transform] duration-700 ease-out will-change-transform", className)}
+      className={cn("transition-[opacity,transform] duration-700 ease-out will-change-transform motion-reduce:transition-none", className)}
       style={{
         opacity: shown ? 1 : 0,
         transform: shown ? "scale(1)" : `scale(${fromScale})`,

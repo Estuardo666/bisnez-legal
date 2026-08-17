@@ -9,6 +9,11 @@ import { ServiceSection } from "@/components/sites/fileon-framer-website-846bcc9
 import { VideoSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/VideoSection";
 import { TrustBarSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/TrustBarSection";
 import { TestimonialSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/TestimonialSection";
+import { ExpertiseSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/ExpertiseSection";
+import { PricingSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/PricingSection";
+import { GuidanceSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/GuidanceSection";
+import { BlogSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/BlogSection";
+import { Footer } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/Footer";
 
 export default function Home() {
   return (
@@ -24,8 +29,13 @@ export default function Home() {
         <ServiceSection />
         <VideoSection />
         <TrustBarSection />
+        <ExpertiseSection />
         <TestimonialSection />
+        <PricingSection />
+        <GuidanceSection />
+        <BlogSection />
       </main>
+      <Footer />
     </div>
   );
 }

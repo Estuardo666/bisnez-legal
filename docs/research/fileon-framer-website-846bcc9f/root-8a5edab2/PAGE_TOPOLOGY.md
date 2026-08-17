@@ -28,7 +28,7 @@ is template-store chrome, **not part of the design — excluded from the clone**
 | 8 | Expertise | 10110 | 990 | `#eeece6` | scroll-driven reveal |
 | 9 | Testimonial | 11100 | 645 | `#eeece6` | scroll-driven reveal |
 | 10 | Pricing | 11745 | 915 | `#f7f7f2` | static + hover |
-| 11 | Guidance (FAQ) | 12660 | 1032 | `#eeece6` | click-driven accordion |
+| 11 | Guidance (CTA) | 12660 | 1032 | `#eeece6` | static + button hover |
 | 12 | Blog | 13692 | 1023 | `#f7f7f2` | static + card hover |
 | — | Footer | 14715 | 702 | dark | static + link hover |
 
@@ -49,3 +49,9 @@ after the layer, not the content:
   Built as `CaseStudiesSection.tsx`.
 
 Component filenames follow the content. Page order remains DOM order: Approach, then Case Studies.
+
+## Correction: section 11 is not an FAQ
+Framer layer name suggested an FAQ accordion. The captured DOM and CSS contain no accordion,
+toggle, or question/answer markup — section 11 is a two-card call-to-action
+("Join us today" / "Ready to discuss your legal matter?" / "98% Matter Resolution Rate" / "Get guidance").
+Built as `GuidanceSection.tsx` accordingly.

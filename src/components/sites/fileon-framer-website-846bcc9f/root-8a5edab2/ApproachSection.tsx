@@ -54,20 +54,26 @@ function ApproachCard({ card }: { card: ApproachCardData }) {
       <div
         className={cn(
           "relative flex h-min w-full flex-none flex-col items-start overflow-visible",
-          // v-1knwztn (mobile): gap 30, padding 20, 1px border, radius 10
-          "gap-[30px] rounded-[10px] border border-solid border-[#a9a9a9] p-[20px]",
-          // v-jx7450 (tablet): gap 40, padding 20, 1px border, radius 10
+          // v-1knwztn (mobile): gap 30, padding 20, radius 10
+          "gap-[30px] rounded-[10px] p-[20px]",
+          // v-jx7450 (tablet): gap 40, padding 20, radius 10
           "md:gap-[40px]",
-          // desktop base: gap 40, width 286, no padding, no border, radius 0
-          "xl:w-[286px] xl:rounded-none xl:border-0 xl:p-0",
+          // desktop base: gap 40, width 286, no padding, no ring, radius 0
+          "xl:w-[286px] xl:rounded-none xl:p-0",
           card.align === "center" && "xl:items-center",
           card.align === "right" && "xl:items-end",
         )}
       >
+        {/* Framer paints the card outline as a [data-border] overlay, so it
+            must stay out of flow — a real border would add 2px to the height. */}
+        <div
+          aria-hidden
+          className="pointer-events-none absolute inset-0 rounded-[inherit] border border-solid border-[#a9a9a9] xl:hidden"
+        />
         {/* Icon Wrapper - .framer-6ijtj3 */}
-        <div className="relative flex h-[70px] w-[60px] flex-none flex-row items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-black p-0 md:h-[70px] md:w-[70px] xl:h-[90px] xl:w-[90px]">
+        <div className="relative flex aspect-square w-[60px] flex-none flex-row items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-black p-0 md:w-[70px] xl:w-[90px]">
           {/* Icon - .framer-mhl4si */}
-          <div className="relative h-[31px] w-[30px] flex-none overflow-hidden md:h-[35px] md:w-[35px] xl:h-[42px] xl:w-[42px]">
+          <div className="relative aspect-square w-[30px] flex-none overflow-hidden md:w-[35px] xl:w-[42px]">
             <Image
               src={card.icon}
               alt="Icon"

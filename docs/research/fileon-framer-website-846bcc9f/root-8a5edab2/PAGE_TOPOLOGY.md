@@ -22,7 +22,7 @@ is template-store chrome, **not part of the design — excluded from the clone**
 | 2 | About | 1061 | 1027 | `#f7f7f2` | scroll-driven reveal (image scale/fade) |
 | 3 | Approach | 2088 | 3879 | `#eeece6` | scroll-driven, sticky card wrapper (`top: 40px`) at all breakpoints |
 | 4 | Case Studies | 5967 | 2035 | `#eeece6` | scroll-driven sticky title panel (`top: 20px`) + card column (`top: 0`), desktop only |
-| 5 | Service | 8002 | 1135 | `#f7f7f2` | scroll-driven sticky list (`top: 0`) |
+| 5 | Service | 8002 | 1135 | `#f7f7f2` | static stacked card list + hover (no sticky) |
 | 6 | Video | 9137 | 750 | `#f7f7f2` | looping muted `<video>` |
 | 7 | Trust Bar | 9887 | 222 | inherits `#f7f7f2` | static three-item row |
 | 8 | Expertise | 10110 | 990 | `#eeece6` | scroll-driven reveal |

@@ -14,7 +14,7 @@
   | Element | Section | `top` | Height |
   |---|---|---|---|
   | `.framer-19fzg5e` | Case Studies | 20px | 600 |
-  | `.framer-1r2muwo` | Case Studies / Service list | 0px | 1840 |
+  | `.framer-1r2muwo` | Case Studies | 0px | 1840 |
   | `.framer-7lwzb0` | Approach | 40px | 452 |
 - **Marquee:** the Brand section logo strip is a continuous time-driven Framer Ticker (no user input).
   The Trust Bar is **not** a marquee — corrected during the build: its DOM capture has no ticker, just a
@@ -32,7 +32,10 @@
 
 ## Per-section interaction models
 See `PAGE_TOPOLOGY.md` for the table. Model determined by scrolling *before* clicking, per skill rules:
-- Case Studies / Approach / Service are **scroll-driven sticky**, not tabbed. The left column pins while
+- Approach and Case Studies are **scroll-driven sticky**, not tabbed. The Service section has **no**
+  sticky element — corrected during the build; all three sticky classes belong to the other two sections,
+  and Service's own container is `overflow: hidden`, which would break a sticky descendant anyway.
+  Case Studies and Approach are The left column pins while
   the right column scrolls past it. Do not build these as click-to-switch tabs.
 - Guidance is the only genuinely **click-driven** section (FAQ accordion).
 - Brand is **time-driven** (marquee), independent of scroll. Trust Bar is **static** (see above).

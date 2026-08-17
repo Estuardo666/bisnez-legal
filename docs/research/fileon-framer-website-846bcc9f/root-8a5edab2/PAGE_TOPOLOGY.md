@@ -24,7 +24,7 @@ is template-store chrome, **not part of the design — excluded from the clone**
 | 4 | Approach | 5967 | 2035 | `#eeece6` | scroll-driven sticky card stack (`top: 40px`) |
 | 5 | Service | 8002 | 1135 | `#f7f7f2` | scroll-driven sticky list (`top: 0`) |
 | 6 | Video | 9137 | 750 | `#f7f7f2` | looping muted `<video>` |
-| 7 | Trust Bar | 9887 | 222 | `#f7f7f2` | time-driven marquee |
+| 7 | Trust Bar | 9887 | 222 | inherits `#f7f7f2` | static three-item row |
 | 8 | Expertise | 10110 | 990 | `#eeece6` | scroll-driven reveal |
 | 9 | Testimonial | 11100 | 645 | `#eeece6` | scroll-driven reveal |
 | 10 | Pricing | 11745 | 915 | `#f7f7f2` | static + hover |

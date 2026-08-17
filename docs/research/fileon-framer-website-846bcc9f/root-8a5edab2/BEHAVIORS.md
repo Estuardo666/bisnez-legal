@@ -16,8 +16,10 @@
   | `.framer-19fzg5e` | Case Studies | 20px | 600 |
   | `.framer-1r2muwo` | Case Studies / Service list | 0px | 1840 |
   | `.framer-7lwzb0` | Approach | 40px | 452 |
-- **Marquees:** 15 marquee/ticker nodes — Brand section logo strip and Trust Bar. Continuous
-  time-driven translation, no user input.
+- **Marquee:** the Brand section logo strip is a continuous time-driven Framer Ticker (no user input).
+  The Trust Bar is **not** a marquee — corrected during the build: its DOM capture has no ticker, just a
+  static three-item flex row with divider lines. The 15 ticker-ish nodes counted during recon were
+  Framer's per-breakpoint variant wrappers, not separate marquees.
 - **Video:** one `<video loop muted>` at `/videos/Aa9VhrfiSGs0BMTmIIWVUTVY.mp4`, no poster.
 
 ## Header
@@ -33,7 +35,7 @@ See `PAGE_TOPOLOGY.md` for the table. Model determined by scrolling *before* cli
 - Case Studies / Approach / Service are **scroll-driven sticky**, not tabbed. The left column pins while
   the right column scrolls past it. Do not build these as click-to-switch tabs.
 - Guidance is the only genuinely **click-driven** section (FAQ accordion).
-- Brand + Trust Bar are **time-driven** (marquee), independent of scroll.
+- Brand is **time-driven** (marquee), independent of scroll. Trust Bar is **static** (see above).
 
 ## Responsive
 Breakpoints are explicit in the Framer CSS and each section's `raw/<name>.css.txt` dump contains all

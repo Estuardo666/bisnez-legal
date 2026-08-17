@@ -1,0 +1,152 @@
+<section name="Guidance Section" .framer-1htzal2>
+  <div name="Container" .framer-8cqs8l>
+    <div name="Content" .framer-1ovlr26>
+      <div name="Title Wrapper" .framer-1vgb9sp>
+        <div>
+          <div .framer-1nb0u5b-container style="will-change:transform;opacity:0;transform:translateX(-80px)">
+            <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+              <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+              <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » Join us today
+        <div>
+          <div .framer-1nb0u5b-container style="opacity:1;transform:none">
+            <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+              <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+              <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » Join us today
+        <div>
+          <div name="Title " .framer-8ko8pp style="transform:none">
+            <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                » Ready
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                » to
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                » discuss
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                » your
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                » legal
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+              <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » matter?
+        <div>
+          <div name="Title " .framer-8ko8pp style="transform:none">
+            <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+              » Ready to discuss your legal
+              <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                » matter?
+      <div name="Card Wrapper" .framer-17h4u94>
+        <div name="Guidance Card 01" .framer-1s0wz9w>
+          <div name="Content Wrapper" .framer-1k0j0mj>
+            <div>
+              <div name="Short Description" .framer-4e06ta style="transform:none">
+                <p .framer-styles-preset-c36khm style="--framer-text-alignment:center;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                  » Schedule a confidential consultation and receive experienced legal guidance tailored to your situation
+            <div>
+              <div name="Short Description" .framer-4e06ta style="transform:none">
+                <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                  » Schedule a confidential consultation and receive experienced legal guidance tailored to your situation
+            <div .framer-ey4kpi>
+              <div name="Text Wrapper" .framer-16ggogz style="will-change:transform;opacity:0;transform:translateY(210px) scale(0.7)">
+                <div name="Title wrapper" .framer-r23w66>
+                  <div name="Round" .framer-1jns2fs>
+                  <div name="Title" .framer-fgiepx style="transform:none">
+                    <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:center;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                      » CASE FILE 024
+                <div name="Title" .framer-yes3i6 style="transform:none">
+                  <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:center;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                    » OPEN
+              <div>
+                <div .framer-15ytg2j style="will-change:transform;opacity:0;transform:translateY(100px) scale(0.7)">
+                  <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                    <img src="https://framerusercontent.com/images/y0aoDt88F21BV1gXi4qELBus.svg?width=217&amp;height=170" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div>
+                <div .framer-15ytg2j style="will-change:transform;opacity:0;transform:translateY(100px) scale(0.7)">
+                  <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                    <img src="https://framerusercontent.com/images/y0aoDt88F21BV1gXi4qELBus.svg?width=217&amp;height=170" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+          <div>
+            <div .framer-1ip0zlr>
+              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                <img src="https://framerusercontent.com/images/K7uBCQ3LbwXzrWYQFm5zt3VusU.png?width=1290&amp;height=632" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+        <div>
+          <div name="Guidance Card 02" .framer-1eg85v3 style="will-change:transform;opacity:0;transform:translateX(71px) translateY(106px) scale(0.2) rotate(19deg) rotateX(40deg) rotateY(-20deg)">
+            <div name="Content Wrapper" .framer-1spep3>
+              <div name="Number &amp; Short Description" .framer-177pfw3>
+                <div name="Number &amp; Icon" .framer-gmuhub>
+                  <div name="Number" .framer-ekl69m style="transform:none">
+                    <h3 .framer-styles-preset-4rqwjt style="--framer-text-alignment:left;--framer-text-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                      » 98%
+                  <div name="Icon" .framer-1owfhnc>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/MfOB64mcIPl4UU1zU4e1ipbMGSs.svg?width=40&amp;height=40" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Short Description" .framer-1dhrivo style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                    » Matter Resolution Rate Focused on practical solutions and favorable outcomes.
+              » !--$-->
+              <div .framer-2shqxh-container style="will-change:transform;opacity:0;transform:translateY(24px) scale(0.8)">
+                » !--$-->
+                <a name="Primary Button 01" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-1vlt3ha.framer-6jvsg7 href="./contact" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+                  <div name="Title Wrapper" .framer-176aqmi>
+                    <div name="Title" .framer-yu6vuw style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Get guidance
+                    <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Get guidance
+                  <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                    <div name="Icon" .framer-dswrox>
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/EYDLAZGki3fWmXGqR28GepT0H40.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                    <div name="Icon" .framer-13sriid>
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/EYDLAZGki3fWmXGqR28GepT0H40.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+              » !--/$-->
+            <div .framer-1gmpozz>
+              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                <img src="https://framerusercontent.com/images/Bj7BRyFPI2wxg0fmPoj7fzHMZY.png?width=1290&amp;height=1092" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+            <div name="Vector " .framer-15l2v9d style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230)) /* {&quot;name&quot;:&quot;Section background&quot;} */;color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230)) /* {&quot;name&quot;:&quot;Section background&quot;} */">
+              <div style="width:100%;height:100%;aspect-ratio:inherit">
+                <svg style="width:100%;height:100%;">
+                    [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 266 42"><use href="#svg-861746129_169"/></svg>
+                  <use href="#svg-861746129_169">
+        <div>
+          <div name="Guidance Card 02" .framer-1eg85v3 style="opacity:1;transform:none">
+            <div name="Content Wrapper" .framer-1spep3>
+              <div name="Number &amp; Short Description" .framer-177pfw3>
+                <div name="Number &amp; Icon" .framer-gmuhub>
+                  <div name="Number" .framer-ekl69m style="transform:none">
+                    <h3 .framer-styles-preset-4rqwjt style="--framer-text-alignment:left;--framer-text-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                      » 98%
+                  <div name="Icon" .framer-1owfhnc>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/MfOB64mcIPl4UU1zU4e1ipbMGSs.svg?width=40&amp;height=40" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Short Description" .framer-1dhrivo style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                    » Matter Resolution Rate Focused on practical solutions and favorable outcomes.
+              » !--$-->
+              <div .framer-2shqxh-container style="opacity:1;transform:none">
+                » !--$-->
+                <a name="Primary Button 02" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-mpuqe.framer-6jvsg7 href="./contact" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+                  <div name="Title Wrapper" .framer-176aqmi>
+                    <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Get guidance
+                  <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                    <div name="Icon" .framer-13sriid>
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/EYDLAZGki3fWmXGqR28GepT0H40.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+              » !--/$-->
+            <div .framer-1gmpozz>
+              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                <img src="https://framerusercontent.com/images/Bj7BRyFPI2wxg0fmPoj7fzHMZY.png?width=1290&amp;height=1092" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+            <div name="Vector " .framer-15l2v9d style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230)) /* {&quot;name&quot;:&quot;Section background&quot;} */;color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230)) /* {&quot;name&quot;:&quot;Section background&quot;} */">
+              <div style="width:100%;height:100%;aspect-ratio:inherit">
+                <svg style="width:100%;height:100%;">
+                    [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 266 42"><use href="#svg-861746129_169"/></svg>
+                  <use href="#svg-861746129_169">

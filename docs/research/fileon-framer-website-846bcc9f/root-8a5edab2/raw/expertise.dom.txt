@@ -1,0 +1,147 @@
+<section name="Expertise Section" .framer-givjni>
+  <div name="Container" .framer-1khnf7p>
+    <div name="Content" .framer-txy3gq>
+      <div name="Content Wrapper" .framer-18dpgu9>
+        <div>
+          <div name="Title &amp; Button Wrapper" .framer-m1z951 style="will-change:transform;opacity:1;transform:translateX(-70px)">
+            <div name="Title Wrapper" .framer-1jglopg>
+              <div .framer-bgflyh-container style="will-change:transform;opacity:0;transform:translateX(-80px)">
+                <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+                  <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                  <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » Why choose us
+              <div name="Title &amp; Sub Title" .framer-psb2fq>
+                <div name="Title " .framer-sldt6v style="transform:none">
+                  <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                    <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                      » Your
+                    <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                      » Trusted
+                    <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                      » Legal
+                    <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                      » Partners
+                    <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                    <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                      <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                        » Always
+                <div name="Short Description" .framer-1gpszmk style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                    » We treat every case as a turning point, not just a file. From first consultation to final outcome, we provide clear guidance and strong strategy
+            » !--$-->
+            <div .framer-1eo2n19-container style="will-change:transform;opacity:0;transform:translateY(24px) scale(0.8)">
+              » !--$-->
+              <a name="Secondary Button 01" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-12ea8fe.framer-6jvsg7 href="./#pricing" style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+                <div name="Title Wrapper" .framer-176aqmi>
+                  <div name="Title" .framer-yu6vuw style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                      » View pricing
+                  <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                      » View pricing
+                <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-dswrox>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                  <div name="Icon" .framer-13sriid>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              » !--/$-->
+            » !--/$-->
+        <div>
+          <div name="Title &amp; Button Wrapper" .framer-m1z951 style="opacity:1;transform:none">
+            <div name="Title Wrapper" .framer-1jglopg>
+              <div .framer-bgflyh-container style="opacity:1;transform:none">
+                <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+                  <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                  <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » Why choose us
+              <div name="Title &amp; Sub Title" .framer-psb2fq>
+                <div name="Title " .framer-sldt6v style="transform:none">
+                  <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                    » Your Trusted Legal Partners
+                    <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                      » Always
+                <div name="Short Description" .framer-1gpszmk style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                    » We treat every case as a turning point, not just a file. From first consultation to final outcome, we provide clear guidance and strong strategy
+            » !--$-->
+            <div .framer-1eo2n19-container style="opacity:1;transform:none">
+              » !--$-->
+              <a name="Secondary Button 02" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-1p3mvgb.framer-6jvsg7 href="./#pricing" style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+                <div name="Title Wrapper" .framer-176aqmi>
+                  <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                      » View pricing
+                <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-13sriid>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              » !--/$-->
+            » !--/$-->
+        <div>
+          <div name="Expertise Card Wrapper" .framer-1rkb943 style="will-change:transform;opacity:1;transform:translateY(70px)">
+            <div name="Expertise Card 01" .framer-by4pyk style="will-change:transform;opacity:0;transform:translateX(-80px)">
+              <div name="Number" .framer-zjgoiq style="transform:none">
+                <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:left;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                  » $24.8M
+              <div name="Title Wrapper" .framer-qwp3ld>
+                <div name="Title" .framer-a78gi5 style="transform:none">
+                  <p .framer-styles-preset-4hunf2 style="--framer-text-alignment:left;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » Value Recovered
+                <div name="Short Description" .framer-ek62vz style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                    » Total compensation secured through successful cases
+            <div name="Expertise Card 02" .framer-1izcb6q style="will-change:transform;opacity:0;transform:translateX(80px)">
+              <div name="Title Wrapper" .framer-ophkwf>
+                <div name="Number" .framer-1c83sex style="transform:none">
+                  <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:center;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » 10k+
+                <div name="Title" .framer-om4hjl style="transform:none">
+                  <p .framer-styles-preset-4hunf2 style="--framer-text-alignment:center;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » Active clients
+              <div .framer-18webn8 style="transform:translateX(-50%)">
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/zoNG0ibxoQksMZwzIIlEHHYDc.svg?width=238&amp;height=132" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <div .framer-1sfp1uo>
+              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                <img src="https://framerusercontent.com/images/K7uBCQ3LbwXzrWYQFm5zt3VusU.png?width=1290&amp;height=632" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+        <div>
+          <div name="Expertise Card Wrapper" .framer-1rkb943 style="opacity:1;transform:none">
+            <div name="Expertise Card 01" .framer-by4pyk style="opacity:1;transform:none">
+              <div name="Number" .framer-zjgoiq style="transform:none">
+                <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:left;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                  » $24.8M
+              <div name="Title Wrapper" .framer-qwp3ld>
+                <div name="Title" .framer-a78gi5 style="transform:none">
+                  <p .framer-styles-preset-4hunf2 style="--framer-text-alignment:left;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » Value Recovered
+                <div name="Short Description" .framer-ek62vz style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                    » Total compensation secured through successful cases
+            <div name="Expertise Card 02" .framer-1izcb6q style="opacity:1;transform:none">
+              <div name="Title Wrapper" .framer-ophkwf>
+                <div name="Number" .framer-1c83sex style="transform:none">
+                  <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:center;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » 10k+
+                <div name="Title" .framer-om4hjl style="transform:none">
+                  <p .framer-styles-preset-4hunf2 style="--framer-text-alignment:center;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » Active clients
+              <div .framer-18webn8 style="transform:translateX(-50%)">
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/zoNG0ibxoQksMZwzIIlEHHYDc.svg?width=238&amp;height=132" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <div .framer-1sfp1uo>
+              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                <img src="https://framerusercontent.com/images/K7uBCQ3LbwXzrWYQFm5zt3VusU.png?width=1290&amp;height=632" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+      <div>
+        <div name="Image Wrapper" .framer-1h30b3z style="will-change:transform;opacity:1;transform:translateX(70px)">
+          <div .framer-1g1ikih style="will-change:transform;opacity:1;transform:perspective(1200px) scale(1.25)">
+            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+              <img src="https://framerusercontent.com/images/88hBRcmrYUi2R6q0IcPzDOWF0A.png?width=1290&amp;height=1592" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center top;object-fit:cover">
+      <div>
+        <div name="Image Wrapper" .framer-1h30b3z style="opacity:1;transform:none">
+          <div .framer-1g1ikih style="opacity:1;transform:none">
+            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+              <img src="https://framerusercontent.com/images/88hBRcmrYUi2R6q0IcPzDOWF0A.png?width=1290&amp;height=1592" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center top;object-fit:cover">

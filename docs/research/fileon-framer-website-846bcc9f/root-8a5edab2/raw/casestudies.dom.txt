@@ -1,0 +1,272 @@
+<section name="Case Studies Section" .framer-bbtw1p>
+  <div name="About Frame" .framer-1y4f0fw>
+  <div name="Container" .framer-5lznv2>
+    <div name="Content" .framer-qs1br2>
+      <div name="Title Wrapper" .framer-38y8v0>
+        <div>
+          <div .framer-1pn3ax0-container style="will-change:transform;opacity:0;transform:translateX(-80px)">
+            <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+              <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+              <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » our approach
+        <div>
+          <div .framer-1pn3ax0-container style="opacity:1;transform:none">
+            <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+              <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+              <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » our approach
+        <div>
+          <div name="Title " .framer-1snoxci style="transform:none">
+            <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                » Guiding
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                » Every
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                » Decision
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                » With
+              <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+              <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » Confidence
+        <div>
+          <div name="Title " .framer-1snoxci style="transform:none">
+            <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+              » Guiding Every Decision With
+              <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                » Confidence
+      <div name="Card Wrapper" .framer-7lwzb0>
+        <div name="Border &amp; Line Wrapper" .framer-1rq0af5>
+          <div name="Border Wrapper" .framer-1picd6m>
+            <div name="Border " .framer-2i02ma>
+            <div name="Round" .framer-szuidx>
+            <div name="Round" .framer-fnyyvx>
+            <div name="Round" .framer-ns4ttk>
+          <div name="Line Wrapper" .framer-tjqjus>
+            <div name="Line" .framer-1sz0m2k>
+            <div name="Line" .framer-wn7p6r>
+            <div name="Line" .framer-ks8gg1>
+        <div name="Card Wrapper" .framer-1mh7foo>
+          <div>
+            <div .framer-12cpt28-container style="will-change:transform;opacity:0;transform:translateY(80px)">
+              <div name="Desktop Approach Card 01" .framer-vK7DH.framer-wCAV8.framer-nkSep.framer-EPYMF.framer-1sv7rdv.framer-v-1sv7rdv style="--border-bottom-width:0px;--border-color:rgba(0, 0, 0, 0);--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-top-right-radius:0px">
+                <div name="Icon Wrapper" .framer-6ijtj3 style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-mhl4si>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/fknRetAySXeP6naCWowim4qvujk.svg?width=42&amp;height=42" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Title &amp; Category Wrapper" .framer-1a2wt5o>
+                  <div name="Title &amp; Short Description" .framer-1e2iof3>
+                    <div name="Title" .framer-anxj1l style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Case Evaluation
+                    <div name="Short Description" .framer-6meb4f style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » We carefully assess every legal matter to understand risks, opportunities, and the best path forward.
+                  <div name="Category Wrapper" .framer-znw453>
+                    <div name="Category Wrapper" .framer-5s61vn style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-zvi886 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Analysis
+                    <div name="Category Wrapper" .framer-xtryf2 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-advrnh style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Strategy
+          <div>
+            <div .framer-12cpt28-container style="opacity:1;transform:none">
+              <div name="Phone Approach Card" .framer-vK7DH.framer-wCAV8.framer-nkSep.framer-EPYMF.framer-1sv7rdv.framer-v-1knwztn style="--border-bottom-width:1px;--border-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                <div name="Icon Wrapper" .framer-6ijtj3 style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-mhl4si>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/fknRetAySXeP6naCWowim4qvujk.svg?width=42&amp;height=42" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Title &amp; Category Wrapper" .framer-1a2wt5o>
+                  <div name="Title &amp; Short Description" .framer-1e2iof3>
+                    <div name="Title" .framer-anxj1l style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Case Evaluation
+                    <div name="Short Description" .framer-6meb4f style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » We carefully assess every legal matter to understand risks, opportunities, and the best path forward.
+                  <div name="Category Wrapper" .framer-znw453>
+                    <div name="Category Wrapper" .framer-5s61vn style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-zvi886 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Analysis
+                    <div name="Category Wrapper" .framer-xtryf2 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-advrnh style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Strategy
+          <div>
+            <div .framer-12cpt28-container style="opacity:1;transform:none">
+              <div name="Tablet Approach Card" .framer-vK7DH.framer-wCAV8.framer-nkSep.framer-EPYMF.framer-1sv7rdv.framer-v-jx7450 style="--border-bottom-width:1px;--border-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                <div name="Icon Wrapper" .framer-6ijtj3 style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-mhl4si>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/fknRetAySXeP6naCWowim4qvujk.svg?width=42&amp;height=42" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Title &amp; Category Wrapper" .framer-1a2wt5o>
+                  <div name="Title &amp; Short Description" .framer-1e2iof3>
+                    <div name="Title" .framer-anxj1l style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Case Evaluation
+                    <div name="Short Description" .framer-6meb4f style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » We carefully assess every legal matter to understand risks, opportunities, and the best path forward.
+                  <div name="Category Wrapper" .framer-znw453>
+                    <div name="Category Wrapper" .framer-5s61vn style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-zvi886 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Analysis
+                    <div name="Category Wrapper" .framer-xtryf2 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-advrnh style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Strategy
+          <div>
+            <div .framer-1ynp1kk-container style="will-change:transform;opacity:0;transform:translateY(80px)">
+              <div name="Desktop Case Study Card 02" .framer-vK7DH.framer-wCAV8.framer-nkSep.framer-EPYMF.framer-1sv7rdv.framer-v-mh51vu style="--border-bottom-width:0px;--border-color:rgba(0, 0, 0, 0);--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-top-right-radius:0px">
+                <div name="Icon Wrapper" .framer-6ijtj3 style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-mhl4si>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/Tuv1uz5knoX4Ax2PdkWHsK0uyqY.svg?width=42&amp;height=42" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Title &amp; Category Wrapper" .framer-1a2wt5o>
+                  <div name="Title &amp; Short Description" .framer-1e2iof3>
+                    <div name="Title" .framer-anxj1l style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Legal Strategy
+                    <div name="Short Description" .framer-6meb4f style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » A tailored legal approach designed to protect interests and support long-term client objectives.
+                  <div name="Category Wrapper" .framer-znw453>
+                    <div name="Category Wrapper" .framer-5s61vn style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-zvi886 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Counsel
+                    <div name="Category Wrapper" .framer-xtryf2 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-advrnh style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Protection
+          <div>
+            <div .framer-1ynp1kk-container style="opacity:1;transform:none">
+              <div name="Phone Approach Card" .framer-vK7DH.framer-wCAV8.framer-nkSep.framer-EPYMF.framer-1sv7rdv.framer-v-1knwztn style="--border-bottom-width:1px;--border-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                <div name="Icon Wrapper" .framer-6ijtj3 style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-mhl4si>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/Tuv1uz5knoX4Ax2PdkWHsK0uyqY.svg?width=42&amp;height=42" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Title &amp; Category Wrapper" .framer-1a2wt5o>
+                  <div name="Title &amp; Short Description" .framer-1e2iof3>
+                    <div name="Title" .framer-anxj1l style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Legal Strategy
+                    <div name="Short Description" .framer-6meb4f style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » A tailored legal approach designed to protect interests and support long-term client objectives.
+                  <div name="Category Wrapper" .framer-znw453>
+                    <div name="Category Wrapper" .framer-5s61vn style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-zvi886 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Counsel
+                    <div name="Category Wrapper" .framer-xtryf2 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-advrnh style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Protection
+          <div>
+            <div .framer-1ynp1kk-container style="opacity:1;transform:none">
+              <div name="Tablet Approach Card" .framer-vK7DH.framer-wCAV8.framer-nkSep.framer-EPYMF.framer-1sv7rdv.framer-v-jx7450 style="--border-bottom-width:1px;--border-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                <div name="Icon Wrapper" .framer-6ijtj3 style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-mhl4si>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/Tuv1uz5knoX4Ax2PdkWHsK0uyqY.svg?width=42&amp;height=42" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Title &amp; Category Wrapper" .framer-1a2wt5o>
+                  <div name="Title &amp; Short Description" .framer-1e2iof3>
+                    <div name="Title" .framer-anxj1l style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Legal Strategy
+                    <div name="Short Description" .framer-6meb4f style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » A tailored legal approach designed to protect interests and support long-term client objectives.
+                  <div name="Category Wrapper" .framer-znw453>
+                    <div name="Category Wrapper" .framer-5s61vn style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-zvi886 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Counsel
+                    <div name="Category Wrapper" .framer-xtryf2 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-advrnh style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Protection
+          <div>
+            <div .framer-qbkltc-container style="will-change:transform;opacity:0;transform:translateY(80px)">
+              <div name="Desktop Case Study Card 03" .framer-vK7DH.framer-wCAV8.framer-nkSep.framer-EPYMF.framer-1sv7rdv.framer-v-4i9df6 style="--border-bottom-width:0px;--border-color:rgba(0, 0, 0, 0);--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;border-top-left-radius:0px;border-top-right-radius:0px">
+                <div name="Icon Wrapper" .framer-6ijtj3 style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-mhl4si>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/wFSgPqwms5Uxc4VrKntBH7ixKL0.svg?width=42&amp;height=42" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Title &amp; Category Wrapper" .framer-1a2wt5o>
+                  <div name="Title &amp; Short Description" .framer-1e2iof3>
+                    <div name="Title" .framer-anxj1l style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:right;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Client Advocacy
+                    <div name="Short Description" .framer-6meb4f style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:right;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » Dedicated representation focused on clear communication, strong preparation, and effective outcomes.
+                  <div name="Category Wrapper" .framer-znw453>
+                    <div name="Category Wrapper" .framer-5s61vn style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-zvi886 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Support
+                    <div name="Category Wrapper" .framer-xtryf2 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-advrnh style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Results
+          <div>
+            <div .framer-qbkltc-container style="opacity:1;transform:none">
+              <div name="Phone Approach Card" .framer-vK7DH.framer-wCAV8.framer-nkSep.framer-EPYMF.framer-1sv7rdv.framer-v-1knwztn style="--border-bottom-width:1px;--border-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                <div name="Icon Wrapper" .framer-6ijtj3 style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-mhl4si>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/wFSgPqwms5Uxc4VrKntBH7ixKL0.svg?width=42&amp;height=42" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Title &amp; Category Wrapper" .framer-1a2wt5o>
+                  <div name="Title &amp; Short Description" .framer-1e2iof3>
+                    <div name="Title" .framer-anxj1l style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Client Advocacy
+                    <div name="Short Description" .framer-6meb4f style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » Dedicated representation focused on clear communication, strong preparation, and effective outcomes.
+                  <div name="Category Wrapper" .framer-znw453>
+                    <div name="Category Wrapper" .framer-5s61vn style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-zvi886 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Support
+                    <div name="Category Wrapper" .framer-xtryf2 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-advrnh style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Results
+          <div>
+            <div .framer-qbkltc-container style="opacity:1;transform:none">
+              <div name="Tablet Approach Card" .framer-vK7DH.framer-wCAV8.framer-nkSep.framer-EPYMF.framer-1sv7rdv.framer-v-jx7450 style="--border-bottom-width:1px;--border-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                <div name="Icon Wrapper" .framer-6ijtj3 style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-mhl4si>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/wFSgPqwms5Uxc4VrKntBH7ixKL0.svg?width=42&amp;height=42" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Title &amp; Category Wrapper" .framer-1a2wt5o>
+                  <div name="Title &amp; Short Description" .framer-1e2iof3>
+                    <div name="Title" .framer-anxj1l style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Client Advocacy
+                    <div name="Short Description" .framer-6meb4f style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » Dedicated representation focused on clear communication, strong preparation, and effective outcomes.
+                  <div name="Category Wrapper" .framer-znw453>
+                    <div name="Category Wrapper" .framer-5s61vn style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-zvi886 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Support
+                    <div name="Category Wrapper" .framer-xtryf2 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:5px;border-bottom-right-radius:5px;border-top-left-radius:5px;border-top-right-radius:5px">
+                      <div name="Category " .framer-advrnh style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Results
+      <div name="Trigger" .framer-1nwoypu>
+        <div name="Trigger-01" .framer-aww3n1>
+        <div name="Trigger-02" .framer-1xlv9xx>
+        <div name="Trigger-03" .framer-objhiz>

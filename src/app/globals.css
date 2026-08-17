@@ -128,3 +128,68 @@
     @apply font-sans;
   }
 }
+/* ---------------------------------------------------------------------------
+   Fileon clone (fileon.framer.website) — route-scoped design tokens.
+   Scoped under .fileon so the shadcn palette used by other routes is untouched.
+   --------------------------------------------------------------------------- */
+.fileon {
+  --fileon-bg: #f7f7f2;
+  --fileon-bg-warm: #eeece6;
+  --fileon-surface-warm: #e4e2dc;
+  --fileon-border: #dad8d2;
+  --fileon-border-strong: #d0cec8;
+  --fileon-line: #d9d9d9;
+  --fileon-ink: #191818;
+  --fileon-ink-soft: #25231e;
+  --fileon-olive: #46462a;
+  --fileon-olive-30: #46462a4d;
+  --fileon-body: #575757;
+  --fileon-muted: #9d9d9d;
+  --fileon-muted-light: #bababa;
+  --fileon-white: #ffffff;
+  --fileon-white-45: #ffffff73;
+  --fileon-white-10: #ffffff1a;
+  --fileon-black-50: rgb(0 0 0 / 50%);
+  --fileon-black-30: rgb(0 0 0 / 30%);
+  --fileon-black-15: rgb(0 0 0 / 15%);
+  --fileon-success: #09d89a;
+  --fileon-alert: #ff2244;
+
+  --fileon-font-serif: var(--font-lora), Lora, serif;
+  --fileon-font-sans: var(--font-manrope), Manrope, sans-serif;
+  --fileon-font-mono: var(--font-geist-mono), "Geist Mono", monospace;
+
+  --fileon-container: 1300px;
+
+  background-color: var(--fileon-bg);
+  color: var(--fileon-ink);
+  font-family: var(--fileon-font-sans);
+}
+
+/* Marquee used by the Brand and Trust Bar sections. */
+@keyframes fileon-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.fileon-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: fileon-marquee var(--fileon-marquee-duration, 30s) linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fileon-marquee-track {
+    animation: none;
+  }
+}
+
+/* Fileon uses Framer's breakpoints: mobile ≤809px, tablet 810–1379px, desktop ≥1380px. */
+@theme {
+  --breakpoint-md: 810px;
+  --breakpoint-xl: 1380px;
+}

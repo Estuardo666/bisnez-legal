@@ -1,0 +1,318 @@
+<section name="Pricing Section" .framer-1c3bnwr>
+  <div name="Container" .framer-1a3h2fr>
+    <div name="Content" .framer-1ufbjls>
+      <div>
+        <div name="Title" .framer-kg6hdi style="transform:none">
+          <p .framer-styles-preset-15wn7d style="--framer-text-alignment:center;--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+            <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+              » Pricing
+      <div>
+        <div name="Title" .framer-kg6hdi style="transform:none">
+          <p .framer-styles-preset-15wn7d style="--framer-text-alignment:left;--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+            » Pricing
+      <div>
+        <div name="Title" .framer-kg6hdi style="transform:none">
+          <p .framer-styles-preset-15wn7d style="--framer-text-alignment:center;--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+            » Pricing
+      <div name="Card Wrapper" .framer-16duk0y>
+        <div>
+          <div name="Pricing Card 01" .framer-3ed4qh-container style="will-change:transform;opacity:0.6;transform:scale(0.4)">
+            <div name="Desktop Pricing Card 01" .framer-k3fIM.framer-B2Dhv.framer-nkSep.framer-1d4neni.framer-v-1d4neni style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));max-width:100%;width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+              <div name="Content Wrapper" .framer-1i1a8ut>
+                <div name="Button &amp; Price" .framer-1p5p26j>
+                  <div name="Button Wrapper" .framer-xjb9l9>
+                    <div .framer-1feo89g-container>
+                      <div name="Pricing Button  03" .framer-45mST.framer-oYnH7.framer-1c0cxv0.framer-v-1lttbr2 style="--border-bottom-width:1px;--border-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:45px;border-bottom-right-radius:45px;border-top-left-radius:45px;border-top-right-radi">
+                        <div name="Title" .framer-4cym5i style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                            » Basic plan
+                    <div .framer-fofeck-container>
+                      <div name="Pricing Button  01" .framer-45mST.framer-oYnH7.framer-1c0cxv0.framer-v-1c0cxv0 style="--border-bottom-width:1px;--border-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-2994410f-e656-4942-8360-f0cae7bde7d3, rgb(247, 247, 242));border-bottom-left-radius:45px;border-bottom-right-radius:45px;border-top-left-radius:45px;border-top-right-r">
+                        <div name="Title" .framer-4cym5i style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                            » Premium
+                  <div name="Price &amp; Month" .framer-zd7jbq>
+                    <div name="Price" .framer-1pj4fe style="--extracted-a0htzi:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h3 .framer-styles-preset-4rqwjt style="--framer-text-alignment:left;--framer-text-color:var(--extracted-a0htzi, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » $2,500
+                    <div name="Month" .framer-11fkyqe style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » / Monthly plan
+                <div name="Short Description" .framer-9g2gaz style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                    » Every project is unique, but our pricing stays clear, flexible, and aligned with real business goals, combining strategy, design, and creativity into one focused solution
+              <div name="Line" .framer-cw0fdv style="background-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190))">
+              <div name="List &amp; Button Wrapper" .framer-khb8rh>
+                <div name="List Wrapper" .framer-1i94p6s>
+                  <div .framer-11t1jeh-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Court filing assistance included
+                  <div .framer-1d6tvlk-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Basic legal consultation plan
+                  <div .framer-17fvp4y-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Document review and drafting
+                  <div .framer-uxapti-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Case evaluation and guidance
+                  <div .framer-1rtz3er-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Email and phone support
+                » !--$-->
+                <div .framer-1bgub4v-container style="will-change:transform;opacity:0;transform:translateY(24px) scale(0.8)">
+                  » !--$-->
+                  <a name="Secondary Button 01" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-12ea8fe.framer-6jvsg7 href="./contact" style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+                    <div name="Title Wrapper" .framer-176aqmi>
+                      <div name="Title" .framer-yu6vuw style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                          » Start today
+                      <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                          » Start today
+                    <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                      <div name="Icon" .framer-dswrox>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Icon" .framer-13sriid>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                  » !--/$-->
+                » !--/$-->
+        <div>
+          <div name="Pricing Card 01" .framer-3ed4qh-container style="opacity:1;transform:none">
+            <div name="Phone Pricing Card 01" .framer-k3fIM.framer-B2Dhv.framer-nkSep.framer-1d4neni.framer-v-xo7j3x style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+              <div name="Content Wrapper" .framer-1i1a8ut>
+                <div name="Button &amp; Price" .framer-1p5p26j>
+                  <div name="Button Wrapper" .framer-xjb9l9>
+                    <div .framer-1feo89g-container>
+                      <div name="Pricing Button  03" .framer-45mST.framer-oYnH7.framer-1c0cxv0.framer-v-1lttbr2 style="--border-bottom-width:1px;--border-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:45px;border-bottom-right-radius:45px;border-top-left-radius:45px;border-top-right-radi">
+                        <div name="Title" .framer-4cym5i style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                            » Basic plan
+                    <div .framer-fofeck-container>
+                      <div name="Pricing Button  02" .framer-45mST.framer-oYnH7.framer-1c0cxv0.framer-v-3qd3k4 style="--border-bottom-width:1px;--border-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-2994410f-e656-4942-8360-f0cae7bde7d3, rgb(247, 247, 242));border-bottom-left-radius:45px;border-bottom-right-radius:45px;border-top-left-radius:45px;border-top-right-r">
+                        <div name="Title" .framer-4cym5i style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                            » Premium
+                  <div name="Price &amp; Month" .framer-zd7jbq>
+                    <div name="Price" .framer-1pj4fe style="--extracted-a0htzi:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h3 .framer-styles-preset-4rqwjt style="--framer-text-alignment:left;--framer-text-color:var(--extracted-a0htzi, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » $2,500
+                    <div name="Month" .framer-11fkyqe style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » / Monthly plan
+                <div name="Short Description" .framer-9g2gaz style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                    » Every project is unique, but our pricing stays clear, flexible, and aligned with real business goals, combining strategy, design, and creativity into one focused solution
+              <div name="Line" .framer-cw0fdv style="background-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190))">
+              <div name="List &amp; Button Wrapper" .framer-khb8rh>
+                <div name="List Wrapper" .framer-1i94p6s>
+                  <div .framer-11t1jeh-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Court filing assistance included
+                  <div .framer-1d6tvlk-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Basic legal consultation plan
+                  <div .framer-17fvp4y-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Document review and drafting
+                  <div .framer-uxapti-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Case evaluation and guidance
+                  <div .framer-1rtz3er-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Email and phone support
+                » !--$-->
+                <div .framer-1bgub4v-container style="opacity:1;transform:none">
+                  » !--$-->
+                  <a name="Secondary Button 02" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-1p3mvgb.framer-6jvsg7 href="./contact" style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+                    <div name="Title Wrapper" .framer-176aqmi>
+                      <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                          » Start today
+                    <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                      <div name="Icon" .framer-13sriid>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                  » !--/$-->
+                » !--/$-->
+        <div>
+          <div name="Pricing Card 01" .framer-3ed4qh-container style="opacity:1;transform:none">
+            <div name="Tablet Pricing Card 01" .framer-k3fIM.framer-B2Dhv.framer-nkSep.framer-1d4neni.framer-v-1lugim0 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+              <div name="Content Wrapper" .framer-1i1a8ut>
+                <div name="Button &amp; Price" .framer-1p5p26j>
+                  <div name="Button Wrapper" .framer-xjb9l9>
+                    <div .framer-1feo89g-container>
+                      <div name="Pricing Button  03" .framer-45mST.framer-oYnH7.framer-1c0cxv0.framer-v-1lttbr2 style="--border-bottom-width:1px;--border-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:45px;border-bottom-right-radius:45px;border-top-left-radius:45px;border-top-right-radi">
+                        <div name="Title" .framer-4cym5i style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                            » Basic plan
+                    <div .framer-fofeck-container>
+                      <div name="Pricing Button  02" .framer-45mST.framer-oYnH7.framer-1c0cxv0.framer-v-3qd3k4 style="--border-bottom-width:1px;--border-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-2994410f-e656-4942-8360-f0cae7bde7d3, rgb(247, 247, 242));border-bottom-left-radius:45px;border-bottom-right-radius:45px;border-top-left-radius:45px;border-top-right-r">
+                        <div name="Title" .framer-4cym5i style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:center;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                            » Premium
+                  <div name="Price &amp; Month" .framer-zd7jbq>
+                    <div name="Price" .framer-1pj4fe style="--extracted-a0htzi:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h3 .framer-styles-preset-4rqwjt style="--framer-text-alignment:left;--framer-text-color:var(--extracted-a0htzi, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » $2,500
+                    <div name="Month" .framer-11fkyqe style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                        » / Monthly plan
+                <div name="Short Description" .framer-9g2gaz style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                    » Every project is unique, but our pricing stays clear, flexible, and aligned with real business goals, combining strategy, design, and creativity into one focused solution
+              <div name="Line" .framer-cw0fdv style="background-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190))">
+              <div name="List &amp; Button Wrapper" .framer-khb8rh>
+                <div name="List Wrapper" .framer-1i94p6s>
+                  <div .framer-11t1jeh-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Court filing assistance included
+                  <div .framer-1d6tvlk-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Basic legal consultation plan
+                  <div .framer-17fvp4y-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Document review and drafting
+                  <div .framer-uxapti-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Case evaluation and guidance
+                  <div .framer-1rtz3er-container>
+                    <div name="Pricing List 01" .framer-fe5M5.framer-nkSep.framer-1ob9wwr.framer-v-1ob9wwr style="width:100%">
+                      <div name="Icon" .framer-1h59sfi style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/He0tgRAwqMsefFs28LL4LqExkTc.svg?width=20&amp;height=20" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1k9ywo5 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                          » Email and phone support
+                » !--$-->
+                <div .framer-1bgub4v-container style="opacity:1;transform:none">
+                  » !--$-->
+                  <a name="Secondary Button 02" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-1p3mvgb.framer-6jvsg7 href="./contact" style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+                    <div name="Title Wrapper" .framer-176aqmi>
+                      <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                          » Start today
+                    <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                      <div name="Icon" .framer-13sriid>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                  » !--/$-->
+                » !--/$-->
+        <div>
+          <div name="Pricing Card 02" .framer-1wrjzfo style="will-change:transform;opacity:0.2;transform:translateX(190px) scale(0.6) rotateY(80deg)">
+            <div name="Content Wrapper" .framer-genzu7>
+              <div name="Title Wrapper" .framer-1lnjv2h>
+                <div name="Title" .framer-15cs5dq style="transform:none">
+                  <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » Custom Plan
+                <div name="Short Description" .framer-1sqfdk6 style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                    » Custom legal plans tailored to your specific case needs, offering flexible support, strategy, and representation for complex or ongoing matters
+              <div name="Contact Number" .framer-n9lfmt>
+                <div name="Text" .framer-n2cl4e style="transform:none">
+                  <p .framer-styles-preset-4hunf2 style="--framer-text-alignment:left;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » Call us :
+                <div name="Number" .framer-ipxrlk style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                    » !--$-->
+                    <a .framer-styles-preset-1kyr8x0 href="tel:+1 (415) 555-0123">
+                      » +1 (415) 555-0123
+                    » !--/$-->
+            <div .framer-443prm>
+              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                <img src="https://framerusercontent.com/images/K7uBCQ3LbwXzrWYQFm5zt3VusU.png?width=1290&amp;height=632" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+        <div>
+          <div name="Pricing Card 02" .framer-1wrjzfo style="opacity:1;transform:none">
+            <div name="Content Wrapper" .framer-genzu7>
+              <div name="Title Wrapper" .framer-1lnjv2h>
+                <div name="Title" .framer-15cs5dq style="transform:none">
+                  <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » Custom Plan
+                <div name="Short Description" .framer-1sqfdk6 style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                    » Custom legal plans tailored to your specific case needs, offering flexible support, strategy, and representation for complex or ongoing matters
+              <div name="Contact Number" .framer-n9lfmt>
+                <div name="Text" .framer-n2cl4e style="transform:none">
+                  <p .framer-styles-preset-4hunf2 style="--framer-text-alignment:left;--framer-text-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0))">
+                    » Call us :
+                <div name="Number" .framer-ipxrlk style="transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                    » !--$-->
+                    <a .framer-styles-preset-1kyr8x0 href="tel:+1 (415) 555-0123">
+                      » +1 (415) 555-0123
+                    » !--/$-->
+            <div .framer-443prm>
+              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                <img src="https://framerusercontent.com/images/K7uBCQ3LbwXzrWYQFm5zt3VusU.png?width=1290&amp;height=632" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">

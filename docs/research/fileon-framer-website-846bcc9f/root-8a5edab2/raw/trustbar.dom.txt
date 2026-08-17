@@ -1,0 +1,87 @@
+<section name="Trust Bar Section" .framer-1my1ltf>
+  <div name="Container" .framer-1oszn7i>
+    <div name="Content" .framer-1ihtcs2>
+      <div name="List Wrapper" .framer-1qltu0w>
+        <div>
+          <div .framer-rb1rqv-container style="will-change:transform;opacity:0;transform:translateY(70px)">
+            <div name="Trust Bar List 01" .framer-jg5Lc.framer-wCAV8.framer-d1nh7a.framer-v-d1nh7a>
+              <div name="Icon" .framer-drp12o>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/i5lSt1InIvAyoekYqU1hMKkvE7o.svg?width=30&amp;height=30" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div name="Title" .framer-145svc style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » Client-first advocacy
+        <div>
+          <div .framer-rb1rqv-container style="opacity:1;transform:none">
+            <div name="Trust Bar List 03" .framer-jg5Lc.framer-wCAV8.framer-d1nh7a.framer-v-sndz9g style="width:100%">
+              <div name="Icon" .framer-drp12o>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/i5lSt1InIvAyoekYqU1hMKkvE7o.svg?width=30&amp;height=30" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div name="Title" .framer-145svc style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » Client-first advocacy
+        <div>
+          <div .framer-rb1rqv-container style="opacity:1;transform:none">
+            <div name="Trust Bar List 02" .framer-jg5Lc.framer-wCAV8.framer-d1nh7a.framer-v-6pcyco>
+              <div name="Icon" .framer-drp12o>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/i5lSt1InIvAyoekYqU1hMKkvE7o.svg?width=30&amp;height=30" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div name="Title" .framer-145svc style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » Client-first advocacy
+        <div name="Line" .framer-1npm06c>
+        <div>
+          <div .framer-1ba6jab-container style="will-change:transform;opacity:0;transform:translateY(70px)">
+            <div name="Trust Bar List 01" .framer-jg5Lc.framer-wCAV8.framer-d1nh7a.framer-v-d1nh7a>
+              <div name="Icon" .framer-drp12o>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/i5lSt1InIvAyoekYqU1hMKkvE7o.svg?width=30&amp;height=30" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div name="Title" .framer-145svc style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » $50M+ settlements secured
+        <div>
+          <div .framer-1ba6jab-container style="opacity:1;transform:none">
+            <div name="Trust Bar List 03" .framer-jg5Lc.framer-wCAV8.framer-d1nh7a.framer-v-sndz9g style="width:100%">
+              <div name="Icon" .framer-drp12o>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/i5lSt1InIvAyoekYqU1hMKkvE7o.svg?width=30&amp;height=30" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div name="Title" .framer-145svc style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » $50M+ settlements secured
+        <div>
+          <div .framer-1ba6jab-container style="opacity:1;transform:none">
+            <div name="Trust Bar List 02" .framer-jg5Lc.framer-wCAV8.framer-d1nh7a.framer-v-6pcyco>
+              <div name="Icon" .framer-drp12o>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/i5lSt1InIvAyoekYqU1hMKkvE7o.svg?width=30&amp;height=30" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div name="Title" .framer-145svc style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » $50M+ settlements secured
+        <div name="Line" .framer-158yf9r>
+        <div>
+          <div .framer-acythk-container style="will-change:transform;opacity:0;transform:translateY(70px)">
+            <div name="Trust Bar List 01" .framer-jg5Lc.framer-wCAV8.framer-d1nh7a.framer-v-d1nh7a>
+              <div name="Icon" .framer-drp12o>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/i5lSt1InIvAyoekYqU1hMKkvE7o.svg?width=30&amp;height=30" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div name="Title" .framer-145svc style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » Cross-border representation
+        <div>
+          <div .framer-acythk-container style="opacity:1;transform:none">
+            <div name="Trust Bar List 03" .framer-jg5Lc.framer-wCAV8.framer-d1nh7a.framer-v-sndz9g style="width:100%">
+              <div name="Icon" .framer-drp12o>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/i5lSt1InIvAyoekYqU1hMKkvE7o.svg?width=30&amp;height=30" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div name="Title" .framer-145svc style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » Cross-border representation
+        <div>
+          <div .framer-acythk-container style="opacity:1;transform:none">
+            <div name="Trust Bar List 02" .framer-jg5Lc.framer-wCAV8.framer-d1nh7a.framer-v-6pcyco>
+              <div name="Icon" .framer-drp12o>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/i5lSt1InIvAyoekYqU1hMKkvE7o.svg?width=30&amp;height=30" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <div name="Title" .framer-145svc style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                  » Cross-border representation

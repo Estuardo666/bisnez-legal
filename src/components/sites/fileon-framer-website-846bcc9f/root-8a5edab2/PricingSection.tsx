@@ -201,10 +201,20 @@ function PricingPill({
         data-framer-name={`Pricing Button ${label}`}
         className={cn(
           "relative flex h-min w-min cursor-pointer flex-row items-center justify-center gap-[10px]",
-          "overflow-hidden rounded-[45px] border border-solid px-[20px] py-[8px]",
+          "overflow-hidden rounded-[45px] px-[20px] py-[8px]",
           className,
         )}
       >
+        {/*
+          Framer paints the 1px ring as a `[data-border]` overlay, not as a real
+          border, so `.framer-1c0cxv0` measures 40px tall (8 + 24 + 8) — a real
+          border would add 2px. `className` still supplies the border *colour*.
+        */}
+        <div
+          data-border
+          aria-hidden
+          className="pointer-events-none absolute inset-0 rounded-[inherit] border border-solid border-inherit"
+        />
         {/* Title — .framer-4cym5i */}
         <div className="relative h-auto w-auto flex-none whitespace-pre">
           <p className={cn(PILL_TEXT, "text-center")}>{label}</p>
@@ -291,13 +301,15 @@ function StartTodayButton() {
 /** `Pricing Card 02` — `.framer-1wrjzfo`, white panel stacked over a full-bleed photo. */
 function CustomPlanCard() {
   return (
-    <Reveal className="w-full xl:w-px xl:flex-1" fromScale={0.85}>
+    // `.framer-1wrjzfo` carries `flex:1 0 0; width:1px; max-width:460px` — the cap
+    // has to live on the flex child itself, otherwise Card 01 never reaches 830.
+    <Reveal className="w-full xl:w-px xl:max-w-[460px] xl:flex-1" fromScale={0.85}>
       <div
         data-framer-name="Pricing Card 02"
         className={cn(
           "relative flex h-min w-full flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[10px] p-[20px]",
           "md:flex-row md:p-[50px]",
-          "xl:w-full xl:max-w-[460px] xl:gap-[10px] xl:p-[30px]",
+          "xl:w-full xl:gap-[10px] xl:p-[30px]",
         )}
       >
         {/* Content Wrapper — .framer-genzu7, gap 30 → 60 → 149 */}

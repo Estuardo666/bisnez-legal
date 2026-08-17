@@ -188,7 +188,8 @@ export function ExpertiseSection() {
             <div
               className={cn(
                 "relative flex h-min w-full flex-none flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[10px] p-[30px]",
-                "xl:flex-row xl:gap-[10px]",
+                "md:flex-row",
+                "xl:gap-[10px]",
               )}
             >
               {/* name="Expertise Card 01" .framer-by4pyk */}

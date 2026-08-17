@@ -234,7 +234,7 @@ function BlogCard({ post }: { post: BlogPost }) {
         <div
           className={cn(
             "relative aspect-[1.59091] w-full flex-none overflow-hidden rounded-t-[10px]",
-            "md:aspect-auto md:h-[300px] xl:h-[350px] xl:group-hover:h-[378px]",
+            "md:aspect-[1.42333] xl:aspect-[1.22] xl:group-hover:aspect-auto xl:group-hover:h-[378px]",
             "transition-[height] duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]",
           )}
         >

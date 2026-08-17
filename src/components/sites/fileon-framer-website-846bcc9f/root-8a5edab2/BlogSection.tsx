@@ -224,11 +224,17 @@ function BlogCard({ post }: { post: BlogPost }) {
     >
       {/* Image Wrapper — .framer-101bcmv */}
       <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] overflow-hidden rounded-t-[10px]">
-        {/* .framer-10fkup1 — 220 → 300 → 350 (→ 378 on desktop hover) */}
+        {/*
+          .framer-10fkup1 — the phone variant sizes the cover from
+          `aspect-ratio:1.59091` (the 220px in the rule is only the
+          `--framer-aspect-ratio-supported` fallback), so the cover shrinks with
+          the card instead of staying pinned at 220px. Tablet/desktop keep the
+          fixed heights they already render at.
+        */}
         <div
           className={cn(
-            "relative h-[220px] w-full flex-none overflow-hidden rounded-t-[10px]",
-            "md:h-[300px] xl:h-[350px] xl:group-hover:h-[378px]",
+            "relative aspect-[1.59091] w-full flex-none overflow-hidden rounded-t-[10px]",
+            "md:aspect-auto md:h-[300px] xl:h-[350px] xl:group-hover:h-[378px]",
             "transition-[height] duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]",
           )}
         >

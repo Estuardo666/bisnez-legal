@@ -200,7 +200,8 @@ export function ApproachSection() {
           <div className="sticky top-[40px] z-[1] flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0">
             {/*
               Border & Line Wrapper - .framer-1rq0af5
-              Carries Framer's `hidden-175ozha` gate: desktop-only (>=1380px).
+              Desktop-only (>=1380px): the tablet/mobile Framer variants drop
+              this node entirely, so the sticky wrapper is just the card grid.
             */}
             <div className="relative hidden h-min w-full flex-none flex-col items-start justify-start gap-[35px] overflow-visible p-0 xl:flex">
               {/* Border Wrapper - .framer-1picd6m */}
@@ -228,7 +229,7 @@ export function ApproachSection() {
             </div>
 
             {/* Card Wrapper - .framer-1mh7foo */}
-            <div className="relative z-[1] flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0 xl:flex-row xl:items-center xl:justify-between">
+            <div className="relative z-[1] flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0 md:grid md:auto-rows-min md:grid-cols-[repeat(2,minmax(50px,1fr))] md:grid-rows-[repeat(1,min-content)] md:justify-start xl:flex xl:flex-row xl:items-center xl:justify-between">
               {CARDS.map((card) => (
                 <ApproachCard key={card.title} card={card} />
               ))}
@@ -241,10 +242,6 @@ export function ApproachSection() {
             wrapper inside Content. They give the column its ~300vh of extra
             height so the sticky wrapper stays pinned for three screens. Purely
             structural: the live site animates nothing off them.
-
-            Carries Framer's `hidden-175ozha` gate: desktop-only (>=1380px).
-            Below 1380px the live site renders no trigger column at all, so the
-            three 100vh spacers must not contribute any height there.
           */}
           <div
             aria-hidden="true"

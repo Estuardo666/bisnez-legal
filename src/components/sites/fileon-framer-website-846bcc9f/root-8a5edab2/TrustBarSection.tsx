@@ -53,7 +53,7 @@ export function TrustBarSection({ className }: { className?: string }) {
                   /* Line */
                   <div
                     aria-hidden
-                    className="relative h-[32px] w-px flex-none overflow-clip bg-black"
+                    className="relative hidden h-[32px] w-px flex-none overflow-clip bg-black md:block"
                   />
                 ) : null}
                 <TrustBarItem title={title} />

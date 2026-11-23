@@ -1,0 +1,3422 @@
+{
+  "url": "http://localhost:3001/services",
+  "records": [
+    {
+      "label": "t0",
+      "scrollY": 0,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Servicios legales para negociosSeguridad jurídica para avanzar con decisión",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Seguridad jurídica para avanzar con decisión",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "De registrar tu marca a blindar tu operación.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.16046142578125,
+            "y": 954.479736328125,
+            "width": 625.7728271484375,
+            "height": 209.524169921875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 800.9531860351562,
+            "y": 878.419921875,
+            "width": 566.1718139648438,
+            "height": 479.14453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 1491.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 4895.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "0",
+            "transform": "matrix(1, 0, 0, 1, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 0,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t120",
+      "scrollY": 0,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Servicios legales para negociosSeguridad jurídica para avanzar con decisión",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Seguridad jurídica para avanzar con decisión",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "De registrar tu marca a blindar tu operación.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.16046142578125,
+            "y": 954.479736328125,
+            "width": 625.7728271484375,
+            "height": 209.524169921875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 800.9531860351562,
+            "y": 878.419921875,
+            "width": 566.1718139648438,
+            "height": 479.14453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 1491.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 4883.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 2.04075e-08)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 699.9790000046371,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t360",
+      "scrollY": 0,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Servicios legales para negociosSeguridad jurídica para avanzar con decisión",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Seguridad jurídica para avanzar con decisión",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "De registrar tu marca a blindar tu operación.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.16046142578125,
+            "y": 954.479736328125,
+            "width": 625.7728271484375,
+            "height": 209.524169921875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 800.9531860351562,
+            "y": 878.419921875,
+            "width": 566.1718139648438,
+            "height": 479.14453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 1491.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 4883.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t900",
+      "scrollY": 0,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Servicios legales para negociosSeguridad jurídica para avanzar con decisión",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Seguridad jurídica para avanzar con decisión",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "De registrar tu marca a blindar tu operación.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.16046142578125,
+            "y": 954.479736328125,
+            "width": 625.7728271484375,
+            "height": 209.524169921875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 800.9531860351562,
+            "y": 878.419921875,
+            "width": 566.1718139648438,
+            "height": 479.14453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 1491.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 4883.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t1800",
+      "scrollY": 0,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Servicios legales para negociosSeguridad jurídica para avanzar con decisión",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Seguridad jurídica para avanzar con decisión",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "De registrar tu marca a blindar tu operación.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.16046142578125,
+            "y": 954.479736328125,
+            "width": 625.7728271484375,
+            "height": 209.524169921875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 800.9531860351562,
+            "y": 878.419921875,
+            "width": 566.1718139648438,
+            "height": 479.14453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 1491.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 4883.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-500-early",
+      "scrollY": 500,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Servicios legales para negociosSeguridad jurídica para avanzar con decisión",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": -500,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": -500,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Seguridad jurídica para avanzar con decisión",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": -188.3125,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 220,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "De registrar tu marca a blindar tu operación.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 71.25772094726562,
+            "y": 446.2607727050781,
+            "width": 629.578369140625,
+            "height": 210.79843139648438
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 800.9531860351562,
+            "y": 378.419921875,
+            "width": 566.1718139648438,
+            "height": 479.14453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 991.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Lo que tu negocio necesita para crecer protegido.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 1173.984375,
+            "width": 760,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 71.25772094726562,
+              "y": 408.4119873046875,
+              "width": 629.578369140625,
+              "height": 404.711181640625
+            },
+            "opacity": "0.602052",
+            "transform": "matrix(0.99602, 0, 0, 0.99602, 0, 4.77538)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.64100000499084,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 71.25772094726562,
+              "y": 408.4119873046875,
+              "width": 629.578369140625,
+              "height": 404.711181640625
+            },
+            "opacity": "0.602052",
+            "transform": "matrix(0.99602, 0, 0, 0.99602, 0, 4.77538)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.64100000499084,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "MeikerClaro · estratégico · empresarial",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 800.9531860351562,
+              "y": 378.419921875,
+              "width": 566.1718139648438,
+              "height": 479.14453125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.64100000499084,
+          "timing": {
+            "delay": 120,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "MeikerClaro · estratégico · empresarial",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 800.9531860351562,
+              "y": 378.419921875,
+              "width": 566.1718139648438,
+              "height": 479.14453125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.64100000499084,
+          "timing": {
+            "delay": 120,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 4383.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-500-settled",
+      "scrollY": 500,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Servicios legales para negociosSeguridad jurídica para avanzar con decisión",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": -500,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": -500,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Seguridad jurídica para avanzar con decisión",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": -188.3125,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 220,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "De registrar tu marca a blindar tu operación.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 440.828125,
+            "width": 632.09375,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 798.09375,
+            "y": 364,
+            "width": 571.890625,
+            "height": 483.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 991.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Lo que tu negocio necesita para crecer protegido.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 1173.984375,
+            "width": 760,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 4383.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-900-early",
+      "scrollY": 900,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": -180,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "De registrar tu marca a blindar tu operación.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 40.828125,
+            "width": 632.09375,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 798.09375,
+            "y": -36,
+            "width": 571.890625,
+            "height": 483.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 591.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Lo que tu negocio necesita para crecer protegido.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 773.984375,
+            "width": 760,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 3983.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-900-settled",
+      "scrollY": 900,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": -180,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "De registrar tu marca a blindar tu operación.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 40.828125,
+            "width": 632.09375,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 798.09375,
+            "y": -36,
+            "width": 571.890625,
+            "height": 483.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 591.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Lo que tu negocio necesita para crecer protegido.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 773.984375,
+            "width": 760,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 3983.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-1400-early",
+      "scrollY": 1400,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": -680,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 91.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Lo que tu negocio necesita para crecer protegido.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 273.984375,
+            "width": 760,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "A medida que crecesLa protección también evoluciona.Sumamos soluciones cuando tu negocio las necesita: prevención, defensa y orden para tus activos y relaciones comerciales.Convers",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-brisa)] ",
+          "rect": {
+            "x": 0,
+            "y": 1438.3125,
+            "width": 1440,
+            "height": 720.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(216, 239, 255)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "01↗Servicio principalRegistro de marcaGestionamos el proceso completo ante el SENADI para que tu nombre, logo e identidad sean legalmente tuyos.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 70.47465515136719,
+              "y": 641.3671875,
+              "width": 421.7069091796875,
+              "height": 319.28125
+            },
+            "opacity": "0.775394",
+            "transform": "matrix(0.997754, 0, 0, 0.997754, 0, 2.69528)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 100.0030000003056,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "01↗Servicio principalRegistro de marcaGestionamos el proceso completo ante el SENADI para que tu nombre, logo e identidad sean legalmente tuyos.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 70.47465515136719,
+              "y": 641.3671875,
+              "width": 421.7069091796875,
+              "height": 319.28125
+            },
+            "opacity": "0.775394",
+            "transform": "matrix(0.997754, 0, 0, 0.997754, 0, 2.69528)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 100.0030000003056,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "02↗Defensa de marcaCese de usoActuamos cuando alguien usa tu nombre sin autorización y ponemos límites antes de que afecte tu negocio.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 510.32623291015625,
+              "y": 649.0592041015625,
+              "width": 419.3319091796875,
+              "height": 317.47137451171875
+            },
+            "opacity": "0.209799",
+            "transform": "matrix(0.992098, 0, 0, 0.992098, 0, 9.48241)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 100.0030000003056,
+          "timing": {
+            "delay": 80,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "02↗Defensa de marcaCese de usoActuamos cuando alguien usa tu nombre sin autorización y ponemos límites antes de que afecte tu negocio.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 510.32623291015625,
+              "y": 649.0592041015625,
+              "width": 419.3319091796875,
+              "height": 317.47137451171875
+            },
+            "opacity": "0.209799",
+            "transform": "matrix(0.992098, 0, 0, 0.992098, 0, 9.48241)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 100.0030000003056,
+          "timing": {
+            "delay": 80,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "03↗Estructura empresarialConstitución S.A.S.Formaliza tu empresa con la estructura correcta para crecer, contratar y tomar decisiones con seguridad.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 949.44140625,
+              "y": 651.9124755859375,
+              "width": 418.4296875,
+              "height": 316.800048828125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 100.0030000003056,
+          "timing": {
+            "delay": 160,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "03↗Estructura empresarialConstitución S.A.S.Formaliza tu empresa con la estructura correcta para crecer, contratar y tomar decisiones con seguridad.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 949.44140625,
+              "y": 651.9124755859375,
+              "width": 418.4296875,
+              "height": 316.800048828125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 100.0030000003056,
+          "timing": {
+            "delay": 160,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 3483.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-1400-settled",
+      "scrollY": 1400,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Lo que hacemosDe registrar tu marca a blindar tu operación.Meiker combina propiedad intelectual y soluciones legales empresariales para que puedas concentrarte en hacer crecer tu n",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": -680,
+            "width": 1440,
+            "height": 771.984375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 91.984375,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Lo que tu negocio necesita para crecer protegido.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 273.984375,
+            "width": 760,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "A medida que crecesLa protección también evoluciona.Sumamos soluciones cuando tu negocio las necesita: prevención, defensa y orden para tus activos y relaciones comerciales.Convers",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-brisa)] ",
+          "rect": {
+            "x": 0,
+            "y": 1438.3125,
+            "width": 1440,
+            "height": 720.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(216, 239, 255)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 3483.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-2200-early",
+      "scrollY": 2200,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": -708.015625,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "A medida que crecesLa protección también evoluciona.Sumamos soluciones cuando tu negocio las necesita: prevención, defensa y orden para tus activos y relaciones comerciales.Convers",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-brisa)] ",
+          "rect": {
+            "x": 0,
+            "y": 638.3125,
+            "width": 1440,
+            "height": 720.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(216, 239, 255)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "La protección también evoluciona.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 820.3125,
+            "width": 421.390625,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "Da el siguiente pasoProtege hoy lo que construiste.Agenda tu asesoría gratuita y descubre qué necesita tu negocio para operar y crecer con seguridad jurídica.Quiero mi asesoría gra",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-cacao)] text-[var(--fileon-arena)] ",
+          "rect": {
+            "x": 0,
+            "y": 1358.984375,
+            "width": 1440,
+            "height": 515.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "04↗Operación diariaContratos empresarialesTérminos y condiciones, confidencialidad, uso de imagen y cesión de derechos para relaciones más claras.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 72.11328125,
+              "y": 187.91250610351562,
+              "width": 418.4296875,
+              "height": 316.8000183105469
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.29900000412226,
+          "timing": {
+            "delay": 240,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "04↗Operación diariaContratos empresarialesTérminos y condiciones, confidencialidad, uso de imagen y cesión de derechos para relaciones más claras.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 72.11328125,
+              "y": 187.91250610351562,
+              "width": 418.4296875,
+              "height": 316.8000183105469
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.29900000412226,
+          "timing": {
+            "delay": 240,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "05↗Protección estratégicaActivos intangiblesProtegemos metodologías, manuales, procesos, bases de clientes y otros activos que hacen único a tu negocio.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 510.76959228515625,
+              "y": 187.91250610351562,
+              "width": 418.44512939453125,
+              "height": 316.8000183105469
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.29900000412226,
+          "timing": {
+            "delay": 320,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "05↗Protección estratégicaActivos intangiblesProtegemos metodologías, manuales, procesos, bases de clientes y otros activos que hacen único a tu negocio.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 510.76959228515625,
+              "y": 187.91250610351562,
+              "width": 418.44512939453125,
+              "height": 316.8000183105469
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.29900000412226,
+          "timing": {
+            "delay": 320,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Oposición y vigilanciaDetectamos riesgos y defendemos tu marca frente a solicitudes o usos que puedan confundirte con terceros.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 588.567138671875,
+              "y": 787.0806274414062,
+              "width": 780.25634765625,
+              "height": 106.27325439453125
+            },
+            "opacity": "0.699343",
+            "transform": "matrix(0.996993, 0, 0, 0.996993, 0, 3.60788)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.29900000412226,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Oposición y vigilanciaDetectamos riesgos y defendemos tu marca frente a solicitudes o usos que puedan confundirte con terceros.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 588.567138671875,
+              "y": 787.0806274414062,
+              "width": 780.25634765625,
+              "height": 106.27325439453125
+            },
+            "opacity": "0.699343",
+            "transform": "matrix(0.996993, 0, 0, 0.996993, 0, 3.60788)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.29900000412226,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 2683.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-2200-settled",
+      "scrollY": 2200,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "ServiciosLo que tu negocio necesita para crecer protegido.Empezamos por lo esencial y construimos contigo una protección legal que puede escalar.05 soluciones01↗Servicio principalR",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": -708.015625,
+            "width": 1440,
+            "height": 1346.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "A medida que crecesLa protección también evoluciona.Sumamos soluciones cuando tu negocio las necesita: prevención, defensa y orden para tus activos y relaciones comerciales.Convers",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-brisa)] ",
+          "rect": {
+            "x": 0,
+            "y": 638.3125,
+            "width": 1440,
+            "height": 720.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(216, 239, 255)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "La protección también evoluciona.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 820.3125,
+            "width": 421.390625,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "Da el siguiente pasoProtege hoy lo que construiste.Agenda tu asesoría gratuita y descubre qué necesita tu negocio para operar y crecer con seguridad jurídica.Quiero mi asesoría gra",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-cacao)] text-[var(--fileon-arena)] ",
+          "rect": {
+            "x": 0,
+            "y": 1358.984375,
+            "width": 1440,
+            "height": 515.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 2683.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-4556-early",
+      "scrollY": 4556,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Preguntas frecuentesAntes de empezar, resolvamos lo importante.Te explicamos el proceso y el alcance para que tomes decisiones con información completa.¿Qué incluye el registro de ",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] ",
+          "rect": {
+            "x": 0,
+            "y": -481.578125,
+            "width": 1440,
+            "height": 680.875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Antes de empezar, resolvamos lo importante.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": -299.578125,
+            "width": 433.4375,
+            "height": 282.1875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 327.296875,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "¿Qué incluye el registro de marca?+Revisamos la viabilidad, preparamos la solicitud, gestionamos el trámite ante el SENADI y te acompañamos durante el proceso hasta su resolución.¿",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 600.96923828125,
+              "y": -332.02630615234375,
+              "width": 767.4990234375,
+              "height": 391.31304931640625
+            },
+            "opacity": "0.602431",
+            "transform": "matrix(0.996024, 0, 0, 0.996024, 0, 4.77083)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.69900000793838,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "¿Qué incluye el registro de marca?+Revisamos la viabilidad, preparamos la solicitud, gestionamos el trámite ante el SENADI y te acompañamos durante el proceso hasta su resolución.¿",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 600.96923828125,
+              "y": -332.02630615234375,
+              "width": 767.4990234375,
+              "height": 391.31304931640625
+            },
+            "opacity": "0.602431",
+            "transform": "matrix(0.996024, 0, 0, 0.996024, 0, 4.77083)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.69900000793838,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 327.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-4556-settled",
+      "scrollY": 4556,
+      "pageHeight": 5556,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Preguntas frecuentesAntes de empezar, resolvamos lo importante.Te explicamos el proceso y el alcance para que tomes decisiones con información completa.¿Qué incluye el registro de ",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] ",
+          "rect": {
+            "x": 0,
+            "y": -481.578125,
+            "width": 1440,
+            "height": 680.875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Antes de empezar, resolvamos lo importante.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": -299.578125,
+            "width": 433.4375,
+            "height": 282.1875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 327.296875,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 327.296875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

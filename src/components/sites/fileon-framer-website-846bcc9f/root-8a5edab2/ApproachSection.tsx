@@ -1,345 +1,97 @@
 "use client";
 
-import Image from "next/image";
-import { useEffect, useRef, useState } from "react";
+import { BriefcaseBusiness, MessageCircleMore, ShieldCheck } from "lucide-react";
+import { motion, useReducedMotion } from "motion/react";
 
-import { cn } from "@/lib/utils";
+const EASE_OUT = [0.22, 1, 0.36, 1] as const;
 
-const IMAGE_BASE = "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/images";
-
-type CardAlign = "left" | "center" | "right";
-
-interface ApproachCardData {
-  readonly icon: string;
-  readonly title: string;
-  readonly description: string;
-  readonly categories: readonly [string, string];
-  /** Desktop-only (>=1380px) alignment variant. Tablet/mobile are always left. */
-  readonly align: CardAlign;
-}
-
-const CARDS: readonly ApproachCardData[] = [
+const CARDS = [
   {
-    icon: `${IMAGE_BASE}/fknRetAySXeP6naCWowim4qvujk.svg`,
-    title: "Case Evaluation",
-    description:
-      "We carefully assess every legal matter to understand risks, opportunities, and the best path forward.",
-    categories: ["Analysis", "Strategy"],
-    align: "left",
+    icon: BriefcaseBusiness,
+    title: "Procesos claros",
+    description: "Sabes exactamente qué incluye tu servicio, cuánto cuesta y cuándo estará listo, sin costos ocultos ni cobros extra.",
+    categories: ["Claridad", "Confianza"],
+    tone: "brisa",
   },
   {
-    icon: `${IMAGE_BASE}/Tuv1uz5knoX4Ax2PdkWHsK0uyqY.svg`,
-    title: "Legal Strategy",
-    description:
-      "A tailored legal approach designed to protect interests and support long-term client objectives.",
-    categories: ["Counsel", "Protection"],
-    align: "center",
+    icon: MessageCircleMore,
+    title: "Hablamos tu idioma",
+    description: "Entiendes cada paso y cada decisión, para que protejas tu negocio con total claridad.",
+    categories: ["Simple", "Cercano"],
+    tone: "coral",
   },
   {
-    icon: `${IMAGE_BASE}/wFSgPqwms5Uxc4VrKntBH7ixKL0.svg`,
-    title: "Client Advocacy",
-    description:
-      "Dedicated representation focused on clear communication, strong preparation, and effective outcomes.",
-    categories: ["Support", "Results"],
-    align: "right",
+    icon: ShieldCheck,
+    title: "Nos encargamos de todo",
+    description: "Gestionamos cada proceso legal de principio a fin, para que no tengas que preocuparte por trámites.",
+    categories: ["Integral", "Preventivo"],
+    tone: "brisa",
   },
-];
+] as const;
 
-/** .framer-styles-preset-n4ys0b - Geist Mono 14px / 150%, uppercase. */
-const MONO_LABEL =
-  "font-[family-name:var(--fileon-font-mono)] text-[14px] leading-[150%] font-normal uppercase tracking-[0em]";
+function ApproachCard({ card, index }: { card: (typeof CARDS)[number]; index: number }) {
+  const reduceMotion = Boolean(useReducedMotion());
+  const Icon = card.icon;
+  const alignment = index === 0 ? "xl:items-start xl:text-left" : index === 1 ? "xl:items-center xl:text-center" : "xl:items-end xl:text-right";
 
-
-/**
- * Scroll-linked entrance for the three pinned cards, measured off the live site.
- *
- * Each card interpolates linearly across exactly one viewport height, staggered
- * one trigger apart: card 2 runs over `trigger-one`'s range and card 3 over
- * `trigger-two`'s, so card 1 finishes one viewport before the first trigger.
- * `opacity` runs 0 -> 1 while `translateY` runs 80px -> 0 (they stay locked as
- * translateY = 80 * (1 - opacity)). It scrubs with the scroll rather than
- * firing once, so scrolling back up plays it in reverse.
- *
- * The triggers only exist at >=1380px, so below that the cards simply render
- * settled.
- */
-function useCardScrollProgress(count: number) {
-  const [progress, setProgress] = useState<readonly number[]>(() =>
-    Array.from({ length: count }, () => 1),
-  );
-  const frame = useRef(0);
-
-  useEffect(() => {
-    const settled = Array.from({ length: count }, () => 1);
-    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
-
-    const measure = () => {
-      const trigger = document.getElementById("trigger-one");
-      const viewport = window.innerHeight;
-      // No trigger column below 1380px, and nothing to scrub without height.
-      if (!trigger || trigger.offsetHeight === 0 || reduceMotion.matches) {
-        setProgress(settled);
-        return;
-      }
-      const firstTriggerTop = trigger.getBoundingClientRect().top + window.scrollY;
-      setProgress(
-        Array.from({ length: count }, (_, index) => {
-          const start = firstTriggerTop + (index - 1) * viewport;
-          const raw = (window.scrollY - start) / viewport;
-          return Math.min(1, Math.max(0, raw));
-        }),
-      );
-    };
-
-    const onScroll = () => {
-      cancelAnimationFrame(frame.current);
-      frame.current = requestAnimationFrame(measure);
-    };
-
-    measure();
-    window.addEventListener("scroll", onScroll, { passive: true });
-    window.addEventListener("resize", onScroll);
-    reduceMotion.addEventListener("change", measure);
-    return () => {
-      cancelAnimationFrame(frame.current);
-      window.removeEventListener("scroll", onScroll);
-      window.removeEventListener("resize", onScroll);
-      reduceMotion.removeEventListener("change", measure);
-    };
-  }, [count]);
-
-  return progress;
-}
-
-/** .framer-vK7DH.framer-1sv7rdv + variants v-1knwztn (mobile) / v-jx7450 (tablet). */
-function ApproachCard({ card, progress }: { card: ApproachCardData; progress: number }) {
   return (
-    // .framer-12cpt28-container / .framer-1ynp1kk-container / .framer-qbkltc-container
-    <div
-      className="relative h-auto w-full flex-none self-start will-change-transform xl:w-auto xl:self-auto"
-      style={{ opacity: progress, transform: `translateY(${80 * (1 - progress)}px)` }}
+    <motion.article
+      initial={reduceMotion ? false : { opacity: 0, y: 18 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, amount: 0.15 }}
+      transition={{ duration: reduceMotion ? 0 : 0.5, delay: reduceMotion ? 0 : index * 0.08, ease: EASE_OUT }}
+      className={`flex min-h-[340px] flex-col gap-7 rounded-[36px] border border-white/70 p-7 text-[var(--fileon-cacao)] shadow-[0_12px_30px_rgba(70,19,18,0.07)] md:p-8 xl:min-h-[340px] ${alignment} ${card.tone === "coral" ? "bg-[var(--fileon-coral)]" : "bg-[var(--fileon-brisa)]"}`}
     >
-      <div
-        className={cn(
-          "relative flex h-min w-full flex-none flex-col items-start overflow-visible",
-          // v-1knwztn (mobile): gap 30, padding 20, radius 10
-          "gap-[30px] rounded-[10px] p-[20px]",
-          // v-jx7450 (tablet): gap 40, padding 20, radius 10
-          "md:gap-[40px]",
-          // desktop base: gap 40, width 286, no padding, no ring, radius 0
-          "xl:w-[286px] xl:rounded-none xl:p-0",
-          card.align === "center" && "xl:items-center",
-          card.align === "right" && "xl:items-end",
-        )}
-      >
-        {/* Framer paints the card outline as a [data-border] overlay, so it
-            must stay out of flow — a real border would add 2px to the height. */}
-        <div
-          aria-hidden
-          className="pointer-events-none absolute inset-0 rounded-[inherit] border border-solid border-[#a9a9a9] xl:hidden"
-        />
-        {/* Icon Wrapper - .framer-6ijtj3 */}
-        <div className="relative flex aspect-square w-[60px] flex-none flex-row items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-black p-0 md:w-[70px] xl:w-[90px]">
-          {/* Icon - .framer-mhl4si */}
-          <div className="relative aspect-square w-[30px] flex-none overflow-hidden md:w-[35px] xl:w-[42px]">
-            <Image
-              src={card.icon}
-              alt="Icon"
-              fill
-              sizes="42px"
-              className="block h-full w-full rounded-[inherit] object-contain object-center"
-            />
-          </div>
-        </div>
-
-        {/* Title & Category Wrapper - .framer-1a2wt5o */}
-        <div
-          className={cn(
-            "relative flex h-min w-full flex-none flex-col items-start justify-start gap-[15px] overflow-visible p-0 md:gap-[20px]",
-            (card.align === "center" || card.align === "right") &&
-              "xl:items-center",
-          )}
-        >
-          {/* Title & Short Description - .framer-1e2iof3 */}
-          <div
-            className={cn(
-              "relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] overflow-visible p-0 md:gap-[14px]",
-              card.align === "right" && "xl:items-end",
-            )}
-          >
-            {/* Title - .framer-anxj1l / preset-1hf31ua */}
-            <h6
-              className={cn(
-                "relative h-auto w-full flex-none font-[family-name:var(--fileon-font-serif)] text-[22px] leading-[135%] font-normal tracking-[0em] break-words text-black xl:text-[24px]",
-                card.align === "center" && "xl:text-center",
-                card.align === "right" && "xl:text-right",
-              )}
-            >
-              {card.title}
-            </h6>
-            {/* Short Description - .framer-6meb4f / preset-c36khm */}
-            <p
-              className={cn(
-                "relative h-auto w-full flex-none font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-normal tracking-[0em] break-words text-[var(--fileon-body)]",
-                card.align === "center" && "xl:text-center",
-                card.align === "right" && "xl:text-right",
-              )}
-            >
-              {card.description}
-            </p>
-          </div>
-
-          {/* Category Wrapper - .framer-znw453 */}
-          <div
-            className={cn(
-              "relative flex h-min w-full flex-none flex-row flex-wrap items-center justify-start gap-[10px] overflow-visible p-0 md:flex-nowrap",
-              card.align === "center" && "xl:justify-center",
-              card.align === "right" && "xl:justify-end",
-            )}
-          >
-            {card.categories.map((category) => (
-              // .framer-5s61vn / .framer-xtryf2
-              <div
-                key={category}
-                className="relative flex h-min w-min flex-none flex-row items-center justify-start gap-[10px] overflow-visible rounded-[5px] bg-[var(--fileon-white)] px-[20px] py-[8px]"
-              >
-                <p
-                  className={cn(
-                    MONO_LABEL,
-                    "relative h-auto w-auto flex-none text-left whitespace-pre text-black",
-                  )}
-                >
-                  {category}
-                </p>
-              </div>
-            ))}
-          </div>
+      <div className={`grid h-[74px] w-[74px] shrink-0 place-items-center ${card.tone === "coral" ? "text-white" : "text-[var(--fileon-cacao)]"}`}>
+        <Icon aria-hidden="true" size={44} strokeWidth={1.6} />
+      </div>
+      <div className="flex flex-1 flex-col">
+        <h3 className="text-[24px] font-semibold leading-[1.1] tracking-[-0.035em]">{card.title}</h3>
+        <p className="mt-4 text-[16px] leading-[1.5]">{card.description}</p>
+        <div className={`mt-auto flex flex-wrap gap-2 pt-6 ${index === 1 ? "xl:justify-center" : index === 2 ? "xl:justify-end" : ""}`}>
+          {card.categories.map((category) => (
+            <span key={category} className="rounded-full bg-white px-4 py-2 text-[12px] font-semibold uppercase tracking-[0.05em]">
+              {category}
+            </span>
+          ))}
         </div>
       </div>
-    </div>
+    </motion.article>
   );
 }
 
 export function ApproachSection() {
-  const cardProgress = useCardScrollProgress(CARDS.length);
-
   return (
-    // .framer-bbtw1p
-    <section className="relative z-[1] flex h-min w-full flex-none flex-col items-center justify-center gap-[10px] overflow-visible bg-[var(--fileon-bg-warm)] px-[20px] pt-[80px] pb-[40px] md:px-[30px] md:pt-[100px] md:pb-[50px] xl:pt-[130px] xl:pb-[65px]">
-      {/* About Frame - .framer-1y4f0fw (scroll anchor) */}
-      <div
-        id="about"
-        aria-hidden="true"
-        className="absolute top-0 left-0 z-[1] h-[100px] w-full flex-none scroll-mt-[100px] overflow-hidden"
-      />
+    <section id="about" className="bg-[var(--fileon-bg)] px-5 pt-20 pb-12 scroll-mt-[90px] md:px-[30px] md:pt-28 md:pb-16 xl:pt-32">
+      <div className="mx-auto w-full max-w-[1300px]">
+        <div className="max-w-[610px]">
+          <p className="flex items-center gap-2.5 font-[family-name:var(--fileon-font-mono)] text-[13px] uppercase text-[var(--fileon-cacao)]">
+            <span aria-hidden="true" className="h-2.5 w-2.5 bg-[var(--fileon-coral)]" />
+            por qué elegir Meiker
+          </p>
+          <h2 className="mt-4 text-[clamp(2.5rem,4.4vw,3.5rem)] leading-[1.08] font-semibold tracking-[-0.045em] text-[var(--fileon-heading)]">
+            Claridad para<br />cada <span className="text-[var(--fileon-cacao)]/50">decisión</span>
+          </h2>
+        </div>
 
-      {/* Container - .framer-5lznv2 */}
-      <div className="relative flex h-min w-full max-w-[1300px] flex-none flex-row overflow-visible p-0">
-        {/* Content - .framer-qs1br2 */}
-        <div className="relative z-[1] flex h-min w-px shrink-0 grow basis-0 flex-col items-start justify-start gap-[40px] overflow-visible p-0 md:gap-[50px] xl:gap-[60px]">
-          {/* Title Wrapper - .framer-38y8v0 */}
-          <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] overflow-visible p-0 md:max-w-[550px] xl:max-w-[610px]">
-            {/* Section Title 01 - .framer-1gnz6fr */}
-            <div className="relative flex h-min w-min flex-none flex-row items-center justify-start gap-[10px] overflow-visible p-0">
-              {/* Icon - .framer-18gvpqs */}
-              <div className="relative h-[10px] w-[10px] flex-none overflow-hidden bg-[var(--fileon-ink)]" />
-              {/* Title - .framer-uioks9 */}
-              <div className="relative h-auto w-auto flex-none">
-                <p
-                  className={cn(
-                    MONO_LABEL,
-                    "text-left whitespace-pre text-black",
-                  )}
-                >
-                  our approach
-                </p>
-              </div>
-            </div>
-
-            {/* Title - .framer-1snoxci / preset-1x3pol9 */}
-            <div className="relative h-auto w-full flex-none [text-wrap:balance]">
-              <h2 className="text-left font-[family-name:var(--fileon-font-serif)] text-[38px] leading-[120%] font-normal tracking-[0em] text-[var(--fileon-ink)] md:text-[46px] xl:text-[56px]">
-                Guiding Every Decision With{" "}
-                <span className="text-[var(--fileon-black-50)]">
-                  Confidence
+        <div aria-hidden="true" className="relative mt-14 hidden h-[92px] xl:block">
+          <div className="absolute top-[10px] right-[calc((100%_-_3rem)_/_6)] left-[calc((100%_-_3rem)_/_6)] h-[2px] bg-[color:rgb(70_19_18_/_18%)]">
+            <div className="h-full w-full bg-[linear-gradient(90deg,transparent,var(--fileon-coral),transparent)] opacity-50" />
+          </div>
+          <div className="relative grid h-full grid-cols-3 gap-6">
+            {[0, 1, 2].map((point) => (
+              <div key={point} className="flex flex-col items-center">
+                <span className="relative grid h-[22px] w-[22px] place-items-center rounded-full border-[3px] border-[var(--fileon-brisa)] bg-[var(--fileon-bg)] shadow-[0_0_0_5px_var(--fileon-bg)]">
+                  <span className="h-1.5 w-1.5 rounded-full bg-[var(--fileon-coral)]" />
                 </span>
-              </h2>
-            </div>
-          </div>
-
-          {/*
-            Card Wrapper - .framer-7lwzb0
-            position: sticky; top: 40px at every breakpoint (the CSS dump has no
-            media override for it). No ancestor here may take `overflow: hidden`
-            or a `transform`, or the pinning breaks.
-          */}
-          <div className="sticky top-[40px] z-[1] flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0">
-            {/*
-              Border & Line Wrapper - .framer-1rq0af5
-              Desktop-only (>=1380px): the tablet/mobile Framer variants drop
-              this node entirely, so the sticky wrapper is just the card grid.
-            */}
-            <div className="relative hidden h-min w-full flex-none flex-col items-start justify-start gap-[35px] overflow-visible p-0 xl:flex">
-              {/* Border Wrapper - .framer-1picd6m */}
-              <div className="relative flex h-min w-full flex-none flex-row items-center justify-between overflow-visible p-0">
-                {/* Border - .framer-2i02ma */}
-                <div className="absolute top-[calc(50%-7px)] left-0 z-[1] h-[14px] w-full flex-none overflow-hidden rounded-[30px] bg-[var(--fileon-line)]" />
-                {/* Round x3 - .framer-szuidx / .framer-fnyyvx / .framer-ns4ttk */}
-                {[0, 1, 2].map((index) => (
-                  <div
-                    key={index}
-                    className="relative z-[3] aspect-square h-auto w-[20px] flex-none overflow-hidden rounded-[100px] bg-black"
-                  />
-                ))}
+                <span className="h-[70px] w-px bg-[linear-gradient(to_bottom,rgba(70,19,18,0.28),transparent)]" />
               </div>
-              {/* Line Wrapper - .framer-tjqjus */}
-              <div className="relative flex h-min w-full flex-none flex-row items-center justify-between overflow-visible p-0">
-                {/* Line x3 - .framer-1sz0m2k / .framer-wn7p6r / .framer-ks8gg1 */}
-                {[0, 1, 2].map((index) => (
-                  <div
-                    key={index}
-                    className="relative h-[72px] w-px flex-none overflow-hidden bg-[#a9a9a9]"
-                  />
-                ))}
-              </div>
-            </div>
-
-            {/* Card Wrapper - .framer-1mh7foo */}
-            <div className="relative z-[1] flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0 md:grid md:auto-rows-min md:grid-cols-[repeat(2,minmax(50px,1fr))] md:grid-rows-[repeat(1,min-content)] md:justify-start xl:flex xl:flex-row xl:items-center xl:justify-between">
-              {CARDS.map((card, index) => (
-                <ApproachCard
-                  key={card.title}
-                  card={card}
-                  progress={cardProgress[index] ?? 1}
-                />
-              ))}
-            </div>
+            ))}
           </div>
+        </div>
 
-          {/*
-            Trigger Column - .framer-1nwoypu
-            Three empty full-viewport spacers, siblings of the sticky card
-            wrapper inside Content. They give the column its ~300vh of extra
-            height so the sticky wrapper stays pinned for three screens. Purely
-            structural: the live site animates nothing off them.
-          */}
-          <div
-            aria-hidden="true"
-            className="relative hidden h-min w-full flex-none flex-col items-center justify-center gap-0 overflow-clip p-0 xl:flex"
-          >
-            <div
-              id="trigger-one"
-              className="relative h-screen w-full flex-none"
-            />
-            <div
-              id="trigger-two"
-              className="relative h-screen w-full flex-none"
-            />
-            <div
-              id="trigger-three"
-              className="relative h-screen w-full flex-none"
-            />
-          </div>
+        <div className="mt-8 grid grid-cols-1 gap-5 md:grid-cols-2 xl:mt-5 xl:grid-cols-3 xl:gap-6">
+          {CARDS.map((card, index) => <ApproachCard key={card.title} card={card} index={index} />)}
         </div>
       </div>
     </section>

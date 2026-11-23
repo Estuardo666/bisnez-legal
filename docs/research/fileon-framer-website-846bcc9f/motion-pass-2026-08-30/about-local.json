@@ -1,0 +1,3398 @@
+{
+  "url": "http://localhost:3001/about",
+  "records": [
+    {
+      "label": "t0",
+      "scrollY": 0,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Meiker · registro de marca en EcuadorProtegemos lo que hace crecer tu negocio",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Protegemos lo que hace crecer tu negocio",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Abogados que sí saben de negocios.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.25076293945312,
+            "y": 1142.34765625,
+            "width": 643.65478515625,
+            "height": 139.682861328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 6621.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "0.225279",
+            "transform": "matrix(1, 0, 0, 1, 0, 9.29666)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 99.99599999999998,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t120",
+      "scrollY": 0,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Meiker · registro de marca en EcuadorProtegemos lo que hace crecer tu negocio",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Protegemos lo que hace crecer tu negocio",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Abogados que sí saben de negocios.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.25076293945312,
+            "y": 1142.34765625,
+            "width": 643.65478515625,
+            "height": 139.682861328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 6612.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t360",
+      "scrollY": 0,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Meiker · registro de marca en EcuadorProtegemos lo que hace crecer tu negocio",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Protegemos lo que hace crecer tu negocio",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Abogados que sí saben de negocios.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.25076293945312,
+            "y": 1142.34765625,
+            "width": 643.65478515625,
+            "height": 139.682861328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 6612.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t900",
+      "scrollY": 0,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Meiker · registro de marca en EcuadorProtegemos lo que hace crecer tu negocio",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Protegemos lo que hace crecer tu negocio",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Abogados que sí saben de negocios.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.25076293945312,
+            "y": 1142.34765625,
+            "width": 643.65478515625,
+            "height": 139.682861328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 6612.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t1800",
+      "scrollY": 0,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContactoInicioNosotrosServiciosContactoEquipoRegistro de marca",
+          "className": "relative z-30 h-[70px] bg-[var(--fileon-bg)] px-5 md:absolute md:left-0 md:top-0 md:w-full md:bg-[color:rgb(70_19_18_/_62%)] md:px-[70px] md:text-white md:backdrop-blur-[8px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 70
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(70, 19, 18, 0.62)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-7 w-7",
+          "rect": {
+            "x": 70,
+            "y": 21,
+            "width": 28,
+            "height": 28
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Meiker · registro de marca en EcuadorProtegemos lo que hace crecer tu negocio",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Protegemos lo que hace crecer tu negocio",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": 311.6875,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Abogados que sí saben de negocios.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 73.25076293945312,
+            "y": 1142.34765625,
+            "width": 643.65478515625,
+            "height": 139.682861328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 6612.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-500-early",
+      "scrollY": 500,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Meiker · registro de marca en EcuadorProtegemos lo que hace crecer tu negocio",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": -500,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": -500,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Protegemos lo que hace crecer tu negocio",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": -188.3125,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 220,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Abogados que sí saben de negocios.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 71.2911376953125,
+            "y": 634.5840454101562,
+            "width": 647.573974609375,
+            "height": 140.5333251953125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "Por qué MeikerEntendemos la estrategia detrás de tu marca.No solo ingresamos un trámite. Conectamos la protección legal con las decisiones que sostienen tu negocio.Procesos clarosS",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 1245.4375,
+            "width": 1440,
+            "height": 1191.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 72.58859252929688,
+            "y": 1405.9541015625,
+            "width": 512.54150390625,
+            "height": 894.294921875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 71.2911376953125,
+              "y": 596.7349853515625,
+              "width": 647.573974609375,
+              "height": 250.78118896484375
+            },
+            "opacity": "0.602816",
+            "transform": "matrix(0.996028, 0, 0, 0.996028, 0, 4.76621)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.75799999140963,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 71.2911376953125,
+              "y": 596.7349853515625,
+              "width": 647.573974609375,
+              "height": 250.78118896484375
+            },
+            "opacity": "0.602816",
+            "transform": "matrix(0.996028, 0, 0, 0.996028, 0, 4.76621)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.75799999140963,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Nuestra razón de serConvertimos procesos legales complejos en decisiones simples y estratégicas.Marcas registradas en Ecuador+150",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none h-full",
+            "rect": {
+              "x": 818.9254760742188,
+              "y": 378.396240234375,
+              "width": 548.3052368164062,
+              "height": 474.45751953125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.75799999140963,
+          "timing": {
+            "delay": 120,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Nuestra razón de serConvertimos procesos legales complejos en decisiones simples y estratégicas.Marcas registradas en Ecuador+150",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none h-full",
+            "rect": {
+              "x": 818.9254760742188,
+              "y": 378.396240234375,
+              "width": 548.3052368164062,
+              "height": 474.45751953125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.75799999140963,
+          "timing": {
+            "delay": 120,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 6112.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-500-settled",
+      "scrollY": 500,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Meiker · registro de marca en EcuadorProtegemos lo que hace crecer tu negocio",
+          "className": "relative flex min-h-[560px] w-full items-end overflow-hidden bg-[var(--fileon-cacao)] px-5 pb-10 pt-36 text-white md:min-h-[660px] md:px-[30px] md:pb-14 xl:min-h-[720px] xl:pb-20",
+          "rect": {
+            "x": 0,
+            "y": -500,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(70, 19, 18)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover object-center opacity-80",
+          "rect": {
+            "x": 0,
+            "y": -500,
+            "width": 1440,
+            "height": 720
+          },
+          "opacity": "0.8",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Protegemos lo que hace crecer tu negocio",
+          "className": "max-w-[900px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(3rem,8vw,7.75rem)] font-medium leading-[0.95] tracking-[-0.065em]",
+          "rect": {
+            "x": 70,
+            "y": -188.3125,
+            "width": 900,
+            "height": 328.3125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "115.2px",
+          "lineHeight": "109.44px"
+        },
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": 220,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Abogados que sí saben de negocios.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 629.46875,
+            "width": 650.15625,
+            "height": 141.09375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "Por qué MeikerEntendemos la estrategia detrás de tu marca.No solo ingresamos un trámite. Conectamos la protección legal con las decisiones que sostienen tu negocio.Procesos clarosS",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 1245.4375,
+            "width": 1440,
+            "height": 1191.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 72.58859252929688,
+            "y": 1405.9541015625,
+            "width": 512.54150390625,
+            "height": 894.294921875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 6112.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-900-early",
+      "scrollY": 900,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": -180,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Abogados que sí saben de negocios.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 229.46875,
+            "width": 650.15625,
+            "height": 141.09375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "Por qué MeikerEntendemos la estrategia detrás de tu marca.No solo ingresamos un trámite. Conectamos la protección legal con las decisiones que sostienen tu negocio.Procesos clarosS",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 845.4375,
+            "width": 1440,
+            "height": 1191.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 72.58859252929688,
+            "y": 1005.9541015625,
+            "width": 512.54150390625,
+            "height": 894.294921875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Entendemos la estrategia detrás de tu marca.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 683.71875,
+            "y": 1178.9375,
+            "width": 686.28125,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "MisiónOfrecer servicios legales especializados en propiedad intelectual y soluciones para operar y escalar con seguridad jurídica.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 70.81912231445312,
+              "y": 573.2863159179688,
+              "width": 410.36175537109375,
+              "height": 132.65789794921875
+            },
+            "opacity": "0.602372",
+            "transform": "matrix(0.996024, 0, 0, 0.996024, 0, 4.77153)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68999999111946,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "MisiónOfrecer servicios legales especializados en propiedad intelectual y soluciones para operar y escalar con seguridad jurídica.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 70.81912231445312,
+              "y": 573.2863159179688,
+              "width": 410.36175537109375,
+              "height": 132.65789794921875
+            },
+            "opacity": "0.602372",
+            "transform": "matrix(0.996024, 0, 0, 0.996024, 0, 4.77153)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68999999111946,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "VisiónSer la referencia en Ecuador para proteger marcas y activos empresariales, conectando el negocio tradicional con la economía digital.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 516.0599975585938,
+              "y": 580.9159545898438,
+              "width": 407.8800048828125,
+              "height": 131.8555908203125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68999999111946,
+          "timing": {
+            "delay": 80,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "VisiónSer la referencia en Ecuador para proteger marcas y activos empresariales, conectando el negocio tradicional con la economía digital.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 516.0599975585938,
+              "y": 580.9159545898438,
+              "width": 407.8800048828125,
+              "height": 131.8555908203125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68999999111946,
+          "timing": {
+            "delay": 80,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "ValorDecirte lo importante antes de que se convierta en una pérdida, con una comunicación clara y accionable.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 960.0599975585938,
+              "y": 580.9159545898438,
+              "width": 407.87994384765625,
+              "height": 131.8555908203125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68999999111946,
+          "timing": {
+            "delay": 160,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "ValorDecirte lo importante antes de que se convierta en una pérdida, con una comunicación clara y accionable.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 960.0599975585938,
+              "y": 580.9159545898438,
+              "width": 407.87994384765625,
+              "height": 131.8555908203125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68999999111946,
+          "timing": {
+            "delay": 160,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 5712.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-900-settled",
+      "scrollY": 900,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": -180,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Abogados que sí saben de negocios.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 229.46875,
+            "width": 650.15625,
+            "height": 141.09375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "Por qué MeikerEntendemos la estrategia detrás de tu marca.No solo ingresamos un trámite. Conectamos la protección legal con las decisiones que sostienen tu negocio.Procesos clarosS",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 845.4375,
+            "width": 1440,
+            "height": 1191.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 72.58859252929688,
+            "y": 1005.9541015625,
+            "width": 512.54150390625,
+            "height": 894.294921875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Entendemos la estrategia detrás de tu marca.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 683.71875,
+            "y": 1178.9375,
+            "width": 686.28125,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 5712.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-1400-early",
+      "scrollY": 1400,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": -680,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Por qué MeikerEntendemos la estrategia detrás de tu marca.No solo ingresamos un trámite. Conectamos la protección legal con las decisiones que sostienen tu negocio.Procesos clarosS",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 345.4375,
+            "width": 1440,
+            "height": 1191.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 70.77801513671875,
+            "y": 494.4017028808594,
+            "width": 516.1627197265625,
+            "height": 900.613037109375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Entendemos la estrategia detrás de tu marca.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 683.71875,
+            "y": 678.9375,
+            "width": 686.28125,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 70.77801513671875,
+              "y": 494.4017028808594,
+              "width": 516.1627197265625,
+              "height": 900.613037109375
+            },
+            "opacity": "0.699442",
+            "transform": "matrix(0.996994, 0, 0, 0.996994, 0, 3.6067)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.31800000127565,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 70.77801513671875,
+              "y": 494.4017028808594,
+              "width": 516.1627197265625,
+              "height": 900.613037109375
+            },
+            "opacity": "0.699442",
+            "transform": "matrix(0.996994, 0, 0, 0.996994, 0, 3.6067)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.31800000127565,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 5212.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-1400-settled",
+      "scrollY": 1400,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Quiénes somosAbogados que sí saben de negocios.Meiker ayuda a empresas en crecimiento a proteger su marca y los activos que le dan valor a su negocio, para que operen y crezcan con",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-arena)] overflow-hidden",
+          "rect": {
+            "x": 0,
+            "y": -680,
+            "width": 1440,
+            "height": 1025.4375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 234, 202)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Por qué MeikerEntendemos la estrategia detrás de tu marca.No solo ingresamos un trámite. Conectamos la protección legal con las decisiones que sostienen tu negocio.Procesos clarosS",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": 345.4375,
+            "width": 1440,
+            "height": 1191.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 70,
+            "y": 489.4375,
+            "width": 517.71875,
+            "height": 903.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Entendemos la estrategia detrás de tu marca.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 683.71875,
+            "y": 678.9375,
+            "width": 686.28125,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 5212.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-2200-early",
+      "scrollY": 2200,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Por qué MeikerEntendemos la estrategia detrás de tu marca.No solo ingresamos un trámite. Conectamos la protección legal con las decisiones que sostienen tu negocio.Procesos clarosS",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": -454.5625,
+            "width": 1440,
+            "height": 1191.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 70,
+            "y": -310.5625,
+            "width": 517.71875,
+            "height": 903.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Entendemos la estrategia detrás de tu marca.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 683.71875,
+            "y": -121.0625,
+            "width": 686.28125,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "Nuestro equipoPersonas que entienden tu negocio.Un equipo que combina propiedad intelectual, visión empresarial y comunicación para cuidar lo que estás construyendo.Conoce al equip",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-brisa)] ",
+          "rect": {
+            "x": 0,
+            "y": 736.765625,
+            "width": 1440,
+            "height": 1201.078125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(216, 239, 255)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Personas que entienden tu negocio.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 918.765625,
+            "width": 760,
+            "height": 141.09375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover transition-transform duration-700 group-hover:scale-[1.04]",
+          "rect": {
+            "x": 72.09999084472656,
+            "y": 1227.453369140625,
+            "width": 415.800048828125,
+            "height": 486.87890625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover transition-transform duration-700 group-hover:scale-[1.04]",
+          "rect": {
+            "x": 512.0999755859375,
+            "y": 1227.453369140625,
+            "width": 415.800048828125,
+            "height": 486.87890625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover transition-transform duration-700 group-hover:scale-[1.04]",
+          "rect": {
+            "x": 952.0999755859375,
+            "y": 1227.453369140625,
+            "width": 415.800048828125,
+            "height": 486.87890625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "Procesos clarosSabes qué sigue, cuánto tarda y qué necesitas en cada etapa.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 685.0833129882812,
+              "y": 209.17581176757812,
+              "width": 683.5521850585938,
+              "height": 69.2236328125
+            },
+            "opacity": "0.602333",
+            "transform": "matrix(0.996023, 0, 0, 0.996023, 0, 4.772)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68400000098629,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Procesos clarosSabes qué sigue, cuánto tarda y qué necesitas en cada etapa.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 685.0833129882812,
+              "y": 209.17581176757812,
+              "width": 683.5521850585938,
+              "height": 69.2236328125
+            },
+            "opacity": "0.602333",
+            "transform": "matrix(0.996023, 0, 0, 0.996023, 0, 4.772)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68400000098629,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Hablamos tu idiomaTraducimos la ley a decisiones que puedes usar en tu negocio.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 687.150146484375,
+              "y": 286.1131286621094,
+              "width": 679.41845703125,
+              "height": 68.80499267578125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68400000098629,
+          "timing": {
+            "delay": 90,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Hablamos tu idiomaTraducimos la ley a decisiones que puedes usar en tu negocio.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 687.150146484375,
+              "y": 286.1131286621094,
+              "width": 679.41845703125,
+              "height": 68.80499267578125
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68400000098629,
+          "timing": {
+            "delay": 90,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Nos encargamos de todoAcompañamos el proceso para que puedas concentrarte en crecer.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 687.150146484375,
+              "y": 355.7506103515625,
+              "width": 679.41845703125,
+              "height": 96.030029296875
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68400000098629,
+          "timing": {
+            "delay": 180,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "Nos encargamos de todoAcompañamos el proceso para que puedas concentrarte en crecer.",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 687.150146484375,
+              "y": 355.7506103515625,
+              "width": 679.41845703125,
+              "height": 96.030029296875
+            },
+            "opacity": "0",
+            "transform": "matrix(0.99, 0, 0, 0.99, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 66.68400000098629,
+          "timing": {
+            "delay": 180,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 4412.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-2200-settled",
+      "scrollY": 2200,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Por qué MeikerEntendemos la estrategia detrás de tu marca.No solo ingresamos un trámite. Conectamos la protección legal con las decisiones que sostienen tu negocio.Procesos clarosS",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": -454.5625,
+            "width": 1440,
+            "height": 1191.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-auto w-full object-cover",
+          "rect": {
+            "x": 70,
+            "y": -310.5625,
+            "width": 517.71875,
+            "height": 903.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Entendemos la estrategia detrás de tu marca.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 683.71875,
+            "y": -121.0625,
+            "width": 686.28125,
+            "height": 211.640625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "section",
+          "text": "Nuestro equipoPersonas que entienden tu negocio.Un equipo que combina propiedad intelectual, visión empresarial y comunicación para cuidar lo que estás construyendo.Conoce al equip",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-brisa)] ",
+          "rect": {
+            "x": 0,
+            "y": 736.765625,
+            "width": 1440,
+            "height": 1201.078125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(216, 239, 255)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Personas que entienden tu negocio.",
+          "className": "text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.35rem,5vw,5rem)] font-medium leading-[0.98] tracking-[-0.055em] text-[var(--fileon-cacao)]",
+          "rect": {
+            "x": 70,
+            "y": 918.765625,
+            "width": 760,
+            "height": 141.09375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "72px",
+          "lineHeight": "70.56px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover transition-transform duration-700 group-hover:scale-[1.04]",
+          "rect": {
+            "x": 72.09999084472656,
+            "y": 1227.453369140625,
+            "width": 415.800048828125,
+            "height": 486.87890625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover transition-transform duration-700 group-hover:scale-[1.04]",
+          "rect": {
+            "x": 512.0999755859375,
+            "y": 1227.453369140625,
+            "width": 415.800048828125,
+            "height": 486.87890625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover transition-transform duration-700 group-hover:scale-[1.04]",
+          "rect": {
+            "x": 952.0999755859375,
+            "y": 1227.453369140625,
+            "width": 415.800048828125,
+            "height": 486.87890625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 4412.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-6285-early",
+      "scrollY": 6285,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "FAQLo esencial, explicado claro.Si no encuentras tu respuesta, conversemos sobre lo que necesita tu negocio.Agenda una asesoría↗¿Qué protege Meiker?+Ayudamos a emprendedores y empr",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": -490.953125,
+            "width": 1440,
+            "height": 690.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 327.375,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "¿Qué protege Meiker?+Ayudamos a emprendedores y empresas a proteger sus marcas y activos intangibles, y a operar con soluciones legales claras y estratégicas.¿Por qué registrar una",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 600.594970703125,
+              "y": -342.74383544921875,
+              "width": 768.24755859375,
+              "height": 401.1194763183594
+            },
+            "opacity": "0.699586",
+            "transform": "matrix(0.996996, 0, 0, 0.996996, 0, 3.60496)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.34600000069692,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "¿Qué protege Meiker?+Ayudamos a emprendedores y empresas a proteger sus marcas y activos intangibles, y a operar con soluciones legales claras y estratégicas.¿Por qué registrar una",
+            "className": "transition-[opacity,transform] duration-[400ms] ease-[cubic-bezier(0.23,1,0.32,1)] will-change-transform motion-reduce:transition-none",
+            "rect": {
+              "x": 600.594970703125,
+              "y": -342.74383544921875,
+              "width": 768.24755859375,
+              "height": 401.1194763183594
+            },
+            "opacity": "0.699586",
+            "transform": "matrix(0.996996, 0, 0, 0.996996, 0, 3.60496)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 83.34600000069692,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 400,
+            "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+            "endDelay": 0,
+            "fill": "backwards",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "transform": "translateY(12px) scale(0.99)",
+              "easing": "linear"
+            },
+            {
+              "offset": 1,
+              "transform": "translateY(0px) scale(1)",
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 327.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-6285-settled",
+      "scrollY": 6285,
+      "pageHeight": 7285,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "FAQLo esencial, explicado claro.Si no encuentras tu respuesta, conversemos sobre lo que necesita tu negocio.Agenda una asesoría↗¿Qué protege Meiker?+Ayudamos a emprendedores y empr",
+          "className": "px-5 py-20 md:px-[30px] md:py-28 xl:py-36 bg-[var(--fileon-bg)] ",
+          "rect": {
+            "x": 0,
+            "y": -490.953125,
+            "width": 1440,
+            "height": 690.328125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 327.375,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 327.375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

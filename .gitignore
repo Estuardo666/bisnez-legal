@@ -50,3 +50,15 @@ temp/
 
 # Agent worktrees
 .claude/worktrees/
+
+.env*.local
+
+# Local browser profiles and test artifacts
+.chrome*/
+.edge*/
+chrome-test.pdf
+edge-shot.png
+screenshot-test*.png
+
+# Original team photo used as AI reference (kept local, repo is public)
+docs/design-references/hero-team-reference.png

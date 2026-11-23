@@ -7,9 +7,9 @@ const IMAGE_BASE = "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/images";
 const ICON_SRC = `${IMAGE_BASE}/i5lSt1InIvAyoekYqU1hMKkvE7o.svg`;
 
 const ITEMS: readonly string[] = [
-  "Client-first advocacy",
-  "$50M+ settlements secured",
-  "Cross-border representation",
+  "+150 marcas registradas en Ecuador",
+  "Asesoría inicial gratis",
+  "Si tu marca no se registra, no cobramos honorarios",
 ];
 
 function TrustBarItem({ title }: { title: string }) {
@@ -25,7 +25,7 @@ function TrustBarItem({ title }: { title: string }) {
       </div>
       {/* Title */}
       <div className="relative w-px min-w-0 flex-1 break-words md:h-auto md:w-auto md:flex-none">
-        <h6 className="text-[22px] leading-[1.35] font-normal tracking-[0em] text-black [font-family:var(--fileon-font-serif)] md:whitespace-pre xl:text-[24px]">
+        <h6 className="text-[22px] leading-[1.35] font-normal tracking-[0em] text-[var(--fileon-heading)] [font-family:var(--fileon-font-serif)] md:whitespace-pre xl:text-[24px]">
           {title}
         </h6>
       </div>
@@ -53,7 +53,7 @@ export function TrustBarSection({ className }: { className?: string }) {
                   /* Line */
                   <div
                     aria-hidden
-                    className="relative hidden h-[32px] w-px flex-none overflow-clip bg-black md:block"
+                    className="relative hidden h-[32px] w-px flex-none overflow-clip bg-[var(--fileon-cacao)] md:block"
                   />
                 ) : null}
                 <TrustBarItem title={title} />

@@ -9,25 +9,25 @@ import { cn } from "@/lib/utils";
 const ASSETS = "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/images";
 const STAR_FULL = `${ASSETS}/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg`;
 const STAR_HALF = `${ASSETS}/ofLbu5mL76J5YREgU64729IO7F8.svg`;
-const AVATAR = `${ASSETS}/amzAiW9uC662kw3FTeOzQFBAhlE.png`;
+const AVATAR = "/meiker/images/founder-portrait.jpg";
 const QUOTE_MARK = `${ASSETS}/c7l9SnoBhlRXHwyD9o41pd04tw.svg`;
 
-const AUTHOR_NAME = "Michael Reynolds";
-const AUTHOR_ROLE = "Founder, Reynolds Holdings";
-const RATING_LABEL = "4.8/5 Verified Rating";
+const AUTHOR_NAME = "Augusto Abendaño";
+const AUTHOR_ROLE = "Socio fundador, Meiker";
+const RATING_LABEL = "4.8/5 Calificación verificada";
 
 /** Desktop / tablet slideshow — three distinct quotes, 992px cards. */
 const WIDE_QUOTES: readonly string[] = [
-  "From consultation to resolution, the firm's professionalism and attention to detail exceeded our expectations. Their advice helped us make informed decisions and achieve a favorable outcome",
-  "We were impressed by the firm's responsiveness, legal expertise, and professionalism, helping us make informed decisions and move forward with confidence throughout every step.",
-  "Every interaction reflected the firm's commitment to excellence, attention to detail, strategic guidance, and client satisfaction, giving us confidence throughout the entire process.",
+  "Meiker convirtió un proceso legal complejo en pasos claros. Hoy nuestra marca está protegida y podemos crecer con tranquilidad.",
+  "Entendimos qué debíamos proteger, cuánto costaba y qué iba a pasar en cada etapa. Una asesoría realmente cercana y estratégica.",
+  "Su enfoque preventivo nos ayudó a tomar decisiones antes de perder valor. Se nota que son abogados que sí saben de negocios.",
 ];
 
 /** Mobile slideshow — the short quote, repeated exactly as the live site emits it. */
 const NARROW_QUOTES: readonly string[] = [
-  "Professional guidance delivered informed decisions and favorable legal outcomes.",
-  "Professional guidance delivered informed decisions and favorable legal outcomes.",
-  "Professional guidance delivered informed decisions and favorable legal outcomes.",
+  "Protección legal clara para negocios que quieren crecer.",
+  "Protección legal clara para negocios que quieren crecer.",
+  "Protección legal clara para negocios que quieren crecer.",
 ];
 
 const WIDE_CARD_WIDTH = 992;
@@ -47,7 +47,7 @@ function StarRow() {
           <div className="absolute inset-0 rounded-[inherit]">
             <img
               src={src}
-              alt="Icon"
+              alt=""
               className="block h-full w-full rounded-[inherit] object-contain object-center"
             />
           </div>
@@ -98,7 +98,7 @@ function AuthorBlock({ narrow }: { narrow: boolean }) {
       {/* Author Name & Designation */}
       <div className="relative flex h-min w-px flex-1 flex-col items-start gap-[5px] overflow-hidden p-0">
         <div className="relative h-auto w-full flex-none [text-wrap:balance]">
-          <h6 className="text-left font-[family-name:var(--fileon-font-serif)] text-[22px] leading-[135%] font-normal text-black xl:text-[24px]">
+          <h6 className="text-left font-[family-name:var(--fileon-font-serif)] text-[22px] leading-[135%] font-normal text-[var(--fileon-heading)] xl:text-[24px]">
             {AUTHOR_NAME}
           </h6>
         </div>
@@ -130,7 +130,7 @@ function TestimonialCard({ quote, narrow = false }: TestimonialCardProps) {
       <div className="relative h-auto w-full flex-none [text-wrap:balance]">
         <h4
           className={cn(
-            "text-left font-[family-name:var(--fileon-font-serif)] leading-[125%] font-normal text-[var(--fileon-ink)]",
+            "text-left font-[family-name:var(--fileon-font-serif)] leading-[125%] font-normal text-[var(--fileon-heading)]",
             narrow ? "text-[32px]" : "text-[36px] xl:text-[40px]",
           )}
         >
@@ -150,7 +150,7 @@ function TestimonialCard({ quote, narrow = false }: TestimonialCardProps) {
         <RatingBlock narrow={narrow} />
         {!narrow && (
           // Line
-          <div className="relative h-[60px] w-px flex-none overflow-hidden bg-[#a9a9a9]" />
+          <div className="relative h-[60px] w-px flex-none overflow-hidden bg-[color:rgb(70_19_18_/_24%)]" />
         )}
         <AuthorBlock narrow={narrow} />
       </div>
@@ -249,7 +249,7 @@ export function TestimonialSection({ className }: TestimonialSectionProps) {
     <section
       className={cn(
         "relative flex w-full flex-none flex-col items-center justify-start gap-[10px] overflow-hidden",
-        "bg-[var(--fileon-bg-warm)]",
+        "bg-[var(--fileon-brisa)]",
         "px-[20px] pt-[40px] pb-[80px]",
         "md:px-[30px] md:pt-[50px] md:pb-[100px]",
         "xl:pt-[65px] xl:pb-[130px]",
@@ -264,11 +264,11 @@ export function TestimonialSection({ className }: TestimonialSectionProps) {
           <Reveal className="h-auto w-auto flex-none" fromScale={1}>
             <div className="relative flex h-min w-min flex-row items-center justify-start gap-[10px] p-0">
               {/* Icon */}
-              <div className="relative h-[10px] w-[10px] flex-none overflow-hidden bg-[var(--fileon-ink)]" />
+              <div className="relative h-[10px] w-[10px] flex-none overflow-hidden bg-[var(--fileon-coral)]" />
               {/* Title */}
               <div className="relative h-auto w-auto flex-none whitespace-pre">
                 <p className="text-left font-[family-name:var(--fileon-font-mono)] text-[14px] leading-[150%] font-normal tracking-normal text-[var(--fileon-ink)] uppercase">
-                  Clients review
+                  Lo que dicen nuestros clientes
                 </p>
               </div>
             </div>

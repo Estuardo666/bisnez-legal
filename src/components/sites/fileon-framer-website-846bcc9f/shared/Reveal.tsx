@@ -10,13 +10,15 @@ interface RevealProps {
   delay?: number;
   /** Scale the element starts at before it enters the viewport. */
   fromScale?: number;
+  /** Compact editorial reveal used by internal pages. Home keeps the original scale reveal. */
+  subtle?: boolean;
 }
 
 /**
  * Scroll-reveal used across the Fileon page: elements fade and scale up once
  * they cross into the viewport, then stay settled (the original never replays).
  */
-export function Reveal({ children, className, delay = 0, fromScale = 0.85 }: RevealProps) {
+export function Reveal({ children, className, delay = 0, fromScale = 0.94, subtle = false }: RevealProps) {
   const ref = useRef<HTMLDivElement>(null);
   const [shown, setShown] = useState(false);
 
@@ -36,7 +38,7 @@ export function Reveal({ children, className, delay = 0, fromScale = 0.85 }: Rev
           observer.disconnect();
         }
       },
-      { rootMargin: "0px 0px -15% 0px", threshold: 0.15 },
+      { rootMargin: "0px 0px 8% 0px", threshold: 0.08 },
     );
     observer.observe(node);
     return () => observer.disconnect();
@@ -45,10 +47,15 @@ export function Reveal({ children, className, delay = 0, fromScale = 0.85 }: Rev
   return (
     <div
       ref={ref}
-      className={cn("transition-[opacity,transform] duration-700 ease-out will-change-transform motion-reduce:transition-none", className)}
+      className={cn(
+        subtle
+          ? "meiker-reveal transition-[opacity,transform] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] will-change-transform"
+          : "meiker-reveal transition-[opacity,transform] duration-[620ms] ease-[cubic-bezier(0.22,1,0.36,1)] will-change-transform",
+        className,
+      )}
       style={{
         opacity: shown ? 1 : 0,
-        transform: shown ? "scale(1)" : `scale(${fromScale})`,
+        transform: shown ? "translateY(0) scale(1)" : subtle ? "translateY(14px) scale(0.99)" : `translateY(12px) scale(${fromScale})`,
         transitionDelay: `${delay}ms`,
       }}
     >

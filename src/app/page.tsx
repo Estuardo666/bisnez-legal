@@ -1,15 +1,13 @@
 import type { Metadata } from "next";
 
 import { SmoothScroll } from "@/components/sites/fileon-framer-website-846bcc9f/shared/SmoothScroll";
-import { Header } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/Header";
+import { EditorialHeader } from "@/components/sites/fileon-framer-website-846bcc9f/shared/EditorialHeader";
 import { HeroSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/HeroSection";
 import { BrandSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/BrandSection";
 import { AboutSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/AboutSection";
 import { ApproachSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/ApproachSection";
 import { CaseStudiesSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/CaseStudiesSection";
 import { ServiceSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/ServiceSection";
-import { VideoSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/VideoSection";
-import { TrustBarSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/TrustBarSection";
 import { TestimonialSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/TestimonialSection";
 import { ExpertiseSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/ExpertiseSection";
 import { PricingSection } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/PricingSection";
@@ -18,26 +16,25 @@ import { BlogSection } from "@/components/sites/fileon-framer-website-846bcc9f/r
 import { Footer } from "@/components/sites/fileon-framer-website-846bcc9f/root-8a5edab2/Footer";
 
 export const metadata: Metadata = {
-  title: "Fileon - Law Firm Framer Template",
+  title: "Meiker · Registro de Marca en Ecuador",
   description:
-    "Fileon is a professional Framer template designed for law firms, legal advisors, and attorneys to showcase legal services, expertise, and client trust with a clean and authoritative online presence.",
+    "Abogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu negocio en Ecuador.",
   icons: {
-    icon: "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/seo/favicon.png",
-    apple: "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/seo/apple-touch-icon.png",
+    icon: "/meiker/favico.png",
   },
   openGraph: {
     type: "website",
-    title: "Fileon - Law Firm Framer Template",
+    title: "Meiker · Registro de Marca en Ecuador",
     description:
-      "Fileon is a professional Framer template designed for law firms, legal advisors, and attorneys to showcase legal services, expertise, and client trust with a clean and authoritative online presence.",
-    images: ["/sites/fileon-framer-website-846bcc9f/root-8a5edab2/seo/og-image.png"],
+      "Registro de marca, constitución S.A.S. y contratos empresariales para negocios que quieren crecer con seguridad jurídica.",
+    images: ["/opengraph-image"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Fileon - Law Firm Framer Template",
+    title: "Meiker · Registro de Marca en Ecuador",
     description:
-      "Fileon is a professional Framer template designed for law firms, legal advisors, and attorneys to showcase legal services, expertise, and client trust with a clean and authoritative online presence.",
-    images: ["/sites/fileon-framer-website-846bcc9f/root-8a5edab2/seo/og-image.png"],
+      "Registro de marca, constitución S.A.S. y contratos empresariales para negocios que quieren crecer con seguridad jurídica.",
+    images: ["/opengraph-image"],
   },
 };
 
@@ -45,7 +42,7 @@ export default function Home() {
   return (
     <div className="fileon relative w-full">
       <SmoothScroll />
-      <Header />
+      <EditorialHeader />
       <main>
         <HeroSection />
         <BrandSection />
@@ -53,8 +50,6 @@ export default function Home() {
         <ApproachSection />
         <CaseStudiesSection />
         <ServiceSection />
-        <VideoSection />
-        <TrustBarSection />
         <ExpertiseSection />
         <TestimonialSection />
         <PricingSection />

@@ -1,13 +1,10 @@
 /* eslint-disable @next/next/no-img-element */
-import Link from "next/link";
-
 import { Reveal } from "@/components/sites/fileon-framer-website-846bcc9f/shared/Reveal";
+import { MotionArrowButton } from "@/components/sites/fileon-framer-website-846bcc9f/shared/MotionArrowButton";
 import { cn } from "@/lib/utils";
 
 const ASSETS = "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/images";
 
-/** `SZd9EedUwnpfottuX47mDHqgqXQ.svg` — arrow inside the "View all blogs" button. */
-const ARROW_BUTTON = `${ASSETS}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`;
 /** `CekQhoySyk4yvSOaCWN8WNaPKqk.svg` — dark arrow on the light desktop badge (Blog Icon 01). */
 const ARROW_CARD_DESKTOP = `${ASSETS}/CekQhoySyk4yvSOaCWN8WNaPKqk.svg`;
 /** `PGYGVLmyGTP0EPMngjG7vljuTs.svg` — light arrow on the black tablet/phone badge (Blog Icon 02). */
@@ -28,32 +25,32 @@ type BlogPost = {
 
 const POSTS: readonly BlogPost[] = [
   {
-    slug: "understanding-contract-risks-before-signing-agreements",
-    title: "Understanding contract risks before signing agreements",
-    author: "Olivia Bennett",
-    date: "January 1, 2026",
-    image: `${ASSETS}/5KMN0unxlWFjDSiBlujYK0I1V4.png`,
+    slug: "entender-riesgos-contractuales-antes-de-firmar",
+    title: "Qué revisar antes de registrar tu marca",
+    author: "Equipo Meiker",
+    date: "1 de enero de 2026",
+    image: "/meiker/images/agreement.jpg",
   },
   {
-    slug: "protecting-business-interests-through-legal-planning",
-    title: "Protecting business interests through legal planning",
-    author: "Michael Carter",
-    date: "February 17, 2026",
-    image: `${ASSETS}/BODlVlNXnbQ0PJhZCOMVc48x8.png`,
+    slug: "proteger-intereses-empresariales-con-planificacion-legal",
+    title: "Cómo proteger los activos de tu negocio",
+    author: "Augusto Abendaño",
+    date: "17 de febrero de 2026",
+    image: "/meiker/images/founders.jpg",
   },
   {
-    slug: "managing-legal-challenges-with-strategic-guidance",
-    title: "Managing legal challenges with strategic guidance",
-    author: "Amelia Brooks",
-    date: "February 22, 2026",
-    image: `${ASSETS}/aQ5R4aV6rdcY8okvLRUjvHNsvY.png`,
+    slug: "gestionar-desafios-legales-con-asesoria-estrategica",
+    title: "Contratos claros para crecer con seguridad",
+    author: "Gustavo Tapia",
+    date: "22 de febrero de 2026",
+    image: "/meiker/images/legal-team.jpg",
   },
   {
-    slug: "navigating-corporate-disputes-with-effective-legal-strategies",
-    title: "Navigating corporate disputes with effective legal strategies",
-    author: "Sophia Bennett",
-    date: "March 15, 2026",
-    image: `${ASSETS}/94vQ2MMtTlhPfCbUnLo8w42XqIg.png`,
+    slug: "decisiones-legales-para-negocios-en-crecimiento",
+    title: "Decisiones legales para negocios en crecimiento",
+    author: "Sofia Jaramillo",
+    date: "15 de marzo de 2026",
+    image: "/meiker/images/team-meeting.jpg",
     tabletOnly: true,
   },
 ];
@@ -64,18 +61,18 @@ const POSTS: readonly BlogPost[] = [
  * They are re-expressed here as transforms so they can actually animate — same
  * timing the sibling sections use.
  */
-const HOVER_MOTION = "transition-transform duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]";
 
 /** Framer preset `c36khm` — Manrope 16 / 150% / #575757. */
 const PRESET_BODY =
-  "text-left font-[family-name:var(--fileon-font-sans,Manrope,sans-serif)] text-[16px] leading-[150%] font-normal tracking-[0em] text-[var(--fileon-body,#575757)]";
+  "text-left font-[family-name:var(--fileon-font-sans,Manrope,sans-serif)] text-[16px] leading-[150%] font-normal tracking-[0em] text-[var(--fileon-body,#614c49)]";
 
 export function BlogSection() {
   return (
     // Blog Section — .framer-1918kbp : padding 80/20 → 100/30 → 130/30, overflow hidden
     <section
+      id="blog"
       data-framer-name="Blog Section"
-      className="relative flex w-full flex-none items-center justify-center gap-[10px] overflow-hidden bg-[var(--fileon-bg,#f7f7f2)] px-[20px] py-[80px] md:px-[30px] md:py-[100px] xl:py-[130px]"
+      className="relative flex w-full flex-none items-center justify-center gap-[10px] overflow-hidden bg-[var(--fileon-bg,#fffaf4)] px-[20px] py-[80px] md:px-[30px] md:py-[100px] xl:py-[130px]"
     >
       {/* Container — .framer-1m336pp */}
       <div className="relative flex h-min w-px max-w-[1300px] flex-1 items-center justify-center gap-[10px]">
@@ -89,11 +86,11 @@ export function BlogSection() {
               <Reveal className="relative h-auto w-auto flex-none" fromScale={1}>
                 <div className="relative flex h-min w-min flex-none items-center justify-start gap-[10px]">
                   {/* Icon — .framer-18gvpqs */}
-                  <div className="relative h-[10px] w-[10px] flex-none bg-[var(--fileon-ink,#191818)]" />
+                  <div className="relative h-[10px] w-[10px] flex-none bg-[var(--fileon-coral)]" />
                   {/* Title — .framer-uioks9 + preset n4ys0b */}
                   <div className="relative h-auto w-auto flex-none whitespace-pre">
-                    <p className="text-left font-[family-name:var(--fileon-font-mono,'Geist_Mono',monospace)] text-[14px] leading-[150%] font-normal tracking-[0em] text-black uppercase">
-                      our blogs
+                    <p className="text-left font-[family-name:var(--fileon-font-mono,'Geist_Mono',monospace)] text-[14px] leading-[150%] font-normal tracking-[0em] text-[var(--fileon-cacao)] uppercase">
+                      recursos para tu negocio
                     </p>
                   </div>
                 </div>
@@ -101,9 +98,9 @@ export function BlogSection() {
 
               {/* Title — .framer-1hs35zk + preset 1x3pol9 (38 → 46 → 56) */}
               <div className="relative h-auto w-full flex-none [text-wrap:balance]">
-                <h2 className="text-left font-[family-name:var(--fileon-font-serif,Lora,serif)] text-[38px] leading-[120%] font-normal tracking-[0em] text-[var(--fileon-ink,#191818)] md:text-[46px] xl:text-[56px]">
-                  Legal Updates And{" "}
-                  <span className="text-[rgba(0,0,0,0.5)]">Perspectives</span>
+                <h2 className="text-left font-[family-name:var(--fileon-font-serif,Lora,serif)] text-[38px] leading-[120%] font-normal tracking-[0em] text-[var(--fileon-heading)] md:text-[46px] xl:text-[56px]">
+                  Ideas legales para{" "}
+                  <span className="text-[rgba(0,0,0,0.5)]">crecer</span>
                 </h2>
               </div>
             </div>
@@ -129,7 +126,7 @@ export function BlogSection() {
                 >
                   {/* .framer-r7sjv6-container */}
                   <Reveal className="relative h-auto w-px flex-1" fromScale={0.7} delay={index * 90}>
-                    <BlogCard post={post} />
+                    <BlogCard post={post} index={index} />
                   </Reveal>
                 </div>
               ))}
@@ -142,65 +139,7 @@ export function BlogSection() {
 }
 
 function ViewAllBlogsButton() {
-  return (
-    <Link
-      href="/blogs"
-      data-framer-name="Secondary Button 01"
-      className={cn(
-        "group relative flex h-min w-min flex-none cursor-pointer items-center justify-center gap-[14px]",
-        "overflow-hidden rounded-[50px] bg-[var(--fileon-ink,#191818)] py-[6px] pr-[6px] pl-[24px] no-underline",
-      )}
-    >
-      {/* Title Wrapper — .framer-176aqmi (overflow hidden, one line tall) */}
-      <div className="relative flex h-[24px] w-min flex-none flex-col items-start justify-start overflow-hidden">
-        {/* .framer-yu6vuw (top:-50px) and .framer-1h58870 trade places on hover */}
-        <div className={cn("flex flex-col group-hover:-translate-y-[24px]", HOVER_MOTION)}>
-          <p className="h-[24px] text-left font-[family-name:var(--fileon-font-sans,Manrope,sans-serif)] text-[16px] leading-[150%] font-medium tracking-[0em] whitespace-pre text-white">
-            View all blogs
-          </p>
-          <p className="h-[24px] text-left font-[family-name:var(--fileon-font-sans,Manrope,sans-serif)] text-[16px] leading-[150%] font-medium tracking-[0em] whitespace-pre text-white">
-            View all blogs
-          </p>
-        </div>
-      </div>
-
-      {/* Icon Wrapper — .framer-1d5hfen */}
-      <div className="relative flex h-[35px] w-[35px] flex-none flex-col items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-white">
-        <div className="relative h-[18px] w-[18px] flex-none">
-          {/* .framer-dswrox — parked at bottom:-20px / left:-20px, slides in on hover */}
-          <span
-            className={cn(
-              "absolute inset-0 block -translate-x-[20px] translate-y-[20px] group-hover:translate-x-0 group-hover:translate-y-0",
-              HOVER_MOTION,
-            )}
-          >
-            <img
-              src={ARROW_BUTTON}
-              alt="Icon"
-              width={18}
-              height={18}
-              className="block h-full w-full object-contain object-center"
-            />
-          </span>
-          {/* .framer-13sriid — in place, exits to top:-20px / right:-20px on hover */}
-          <span
-            className={cn(
-              "absolute inset-0 block group-hover:translate-x-[20px] group-hover:-translate-y-[20px]",
-              HOVER_MOTION,
-            )}
-          >
-            <img
-              src={ARROW_BUTTON}
-              alt="Icon"
-              width={18}
-              height={18}
-              className="block h-full w-full object-contain object-center"
-            />
-          </span>
-        </div>
-      </div>
-    </Link>
-  );
+  return <MotionArrowButton href="/servicios" variant="coral">Ver soluciones legales</MotionArrowButton>;
 }
 
 /**
@@ -211,19 +150,27 @@ function ViewAllBlogsButton() {
  * duration/easing; the shared 400ms `cubic-bezier(0.44,0,0.56,1)` used by the
  * sibling sections is applied here.
  */
-function BlogCard({ post }: { post: BlogPost }) {
+function BlogCard({ post, index }: { post: BlogPost; index: number }) {
+  const tone = index % 3;
+  const surface = tone === 1
+    ? "bg-[var(--fileon-brisa)]"
+    : tone === 2
+      ? "bg-[var(--fileon-coral)]"
+      : "bg-[var(--fileon-white,#ffffff)]";
+  const metadataTone = tone === 2 ? "text-[var(--fileon-cacao)]" : "text-[var(--fileon-body,#614c49)]";
+
   return (
-    <Link
-      href={`/blogs/${post.slug}`}
+    <article
       data-framer-name="Blog Card"
       className={cn(
         // .framer-v-1ny2zzt (phone) → .framer-v-1tts9tm (tablet) → .framer-v-a4obmy (desktop)
         "group relative flex h-min w-full cursor-pointer flex-col items-start justify-start gap-[5px] overflow-hidden",
-        "rounded-[10px] bg-[var(--fileon-white,#ffffff)] p-0 no-underline md:gap-0",
+        "meiker-hover-lift rounded-[32px] p-0 no-underline shadow-[0_10px_28px_rgba(70,19,18,0.045)] hover:shadow-[0_18px_38px_rgba(70,19,18,0.09)] md:gap-0",
+        surface,
       )}
     >
       {/* Image Wrapper — .framer-101bcmv */}
-      <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] overflow-hidden rounded-t-[10px]">
+        <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] overflow-hidden rounded-t-[32px]">
         {/*
           .framer-10fkup1 — the phone variant sizes the cover from
           `aspect-ratio:1.59091` (the 220px in the rule is only the
@@ -233,15 +180,14 @@ function BlogCard({ post }: { post: BlogPost }) {
         */}
         <div
           className={cn(
-            "relative aspect-[1.59091] w-full flex-none overflow-hidden rounded-t-[10px]",
-            "md:aspect-[1.42333] xl:aspect-[1.22] xl:group-hover:aspect-auto xl:group-hover:h-[378px]",
-            "transition-[height] duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]",
+            "relative aspect-[1.59091] w-full flex-none overflow-hidden rounded-t-[32px]",
+            "meiker-blog-image-frame md:aspect-[1.42333] xl:aspect-auto xl:h-[350px]",
           )}
         >
           <img
             src={post.image}
-            alt="Image"
-            className="absolute inset-0 block h-full w-full rounded-[inherit] object-cover object-center"
+            alt={`Imagen ilustrativa: ${post.title}`}
+            className="meiker-image-zoom absolute inset-0 block h-full w-full rounded-[inherit] object-cover object-center"
           />
         </div>
       </div>
@@ -250,7 +196,7 @@ function BlogCard({ post }: { post: BlogPost }) {
       <div className="relative z-[3] flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] px-[10px] pt-[10px] pb-[20px] md:gap-[12px] md:px-[20px] md:pt-[20px] md:pb-[30px] xl:gap-[14px] xl:px-[25px] xl:pt-[25px] xl:pb-[60px]">
         {/* Title — .framer-vpd1rt + preset 1hf31ua (22 → 22 → 24) */}
         <div className="relative h-auto w-full flex-none [text-wrap:balance]">
-          <h6 className="text-left font-[family-name:var(--fileon-font-serif,Lora,serif)] text-[22px] leading-[135%] font-normal tracking-[0em] text-black xl:text-[24px]">
+          <h6 className="text-left font-[family-name:var(--fileon-font-serif,Lora,serif)] text-[22px] leading-[135%] font-normal tracking-[0em] text-[var(--fileon-heading)] xl:text-[24px]">
             {post.title}
           </h6>
         </div>
@@ -259,13 +205,13 @@ function BlogCard({ post }: { post: BlogPost }) {
         <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[3px] md:flex-row md:items-center md:gap-[10px]">
           {/* Author Name — .framer-tf7e0c */}
           <div className="relative h-auto w-full flex-none [text-wrap:balance] md:w-auto">
-            <p className={PRESET_BODY}>{post.author}</p>
+            <p className={cn(PRESET_BODY, metadataTone)}>{post.author}</p>
           </div>
           {/* Line — .framer-1ehwsty (absent from the phone variant) */}
-          <div className="relative hidden h-px w-[12px] flex-none overflow-hidden bg-[var(--fileon-body,#575757)] md:block" />
+          <div className="relative hidden h-px w-[12px] flex-none overflow-hidden bg-[var(--fileon-body,#614c49)] md:block" />
           {/* Date — .framer-1wmb1i5 */}
           <div className="relative h-auto w-full flex-none [text-wrap:balance] md:w-px md:flex-1">
-            <p className={PRESET_BODY}>{post.date}</p>
+            <p className={cn(PRESET_BODY, metadataTone)}>{post.date}</p>
           </div>
         </div>
       </div>
@@ -273,7 +219,7 @@ function BlogCard({ post }: { post: BlogPost }) {
       {/* Blog Icon — .framer-ypozyw-container : 30 → 35 → 48, inset 20 → 20 → 25 */}
       <div className="absolute right-[20px] bottom-[20px] z-[5] h-[30px] w-[30px] flex-none md:h-[35px] md:w-[35px] xl:right-[25px] xl:bottom-[25px] xl:h-[48px] xl:w-[48px]">
         {/* Blog Icon 02 (black) below 1380px, Blog Icon 01 (#eeece6) on desktop */}
-        <div className="relative flex h-full w-full flex-col items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-black xl:bg-[var(--fileon-bg-warm,#eeece6)]">
+        <div className="relative flex h-full w-full flex-col items-center justify-center gap-[10px] overflow-hidden rounded-[30px] bg-[var(--fileon-brisa)]">
           {/* Icon — .framer-1t1ntqc */}
           <div className="relative h-[20px] w-[20px] flex-none overflow-hidden">
             <img
@@ -293,6 +239,6 @@ function BlogCard({ post }: { post: BlogPost }) {
           </div>
         </div>
       </div>
-    </Link>
+    </article>
   );
 }

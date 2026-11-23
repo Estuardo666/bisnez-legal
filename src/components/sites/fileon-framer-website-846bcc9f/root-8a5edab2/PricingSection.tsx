@@ -1,40 +1,40 @@
 /* eslint-disable @next/next/no-img-element */
 
+import { Check } from "lucide-react";
+
 import { Reveal } from "@/components/sites/fileon-framer-website-846bcc9f/shared/Reveal";
+import { MotionArrowButton } from "@/components/sites/fileon-framer-website-846bcc9f/shared/MotionArrowButton";
 import { cn } from "@/lib/utils";
 
 const ASSETS = "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/images";
 
-/** `He0tgRAwqMsefFs28LL4LqExkTc.svg` — 20×20 bullet in front of every feature row. */
-const LIST_ICON = `${ASSETS}/He0tgRAwqMsefFs28LL4LqExkTc.svg`;
-/** `SZd9EedUwnpfottuX47mDHqgqXQ.svg` — 18×18 arrow inside the "Start today" button. */
-const ARROW_ICON = `${ASSETS}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`;
+/** `SZd9EedUwnpfottuX47mDHqgqXQ.svg` — 18×18 arrow inside the CTA button. */
 /** `K7uBCQ3LbwXzrWYQFm5zt3VusU.png` — full-bleed backdrop behind the Custom Plan card. */
-const CUSTOM_PLAN_IMAGE = `${ASSETS}/K7uBCQ3LbwXzrWYQFm5zt3VusU.png`;
+const CUSTOM_PLAN_IMAGE = "/meiker/images/legal-team.jpg";
 
 const FEATURES: readonly string[] = [
-  "Court filing assistance included",
-  "Basic legal consultation plan",
-  "Document review and drafting",
-  "Case evaluation and guidance",
-  "Email and phone support",
+  "Informe de registrabilidad incluido",
+  "Gestión completa ante el SENADI",
+  "Seguimiento directo de tu trámite",
+  "Vigilancia marcaria por 10 años",
+  "Acompañamiento por correo electrónico y teléfono",
 ];
 
-const PHONE_NUMBER = "+1 (415) 555-0123";
+const PHONE_NUMBER = "099 356 0952";
 
 /**
  * `.framer-nkSep .framer-styles-preset-c36khm` — Manrope 16 / 400 / 150%, `#575757`.
  * Used by the month label, both short descriptions and every feature row.
  */
 const BODY_TEXT =
-  "text-left font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-normal tracking-[0em] text-[var(--fileon-body,#575757)]";
+  "text-left font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-normal tracking-[0em] text-[var(--fileon-body,#614c49)]";
 
 /**
  * `.framer-oYnH7 .framer-styles-preset-1pwzd39` — Manrope 16 / 500 / 150%.
  * Used by the two pricing pills and the "Start today" label.
  */
 const PILL_TEXT =
-  "font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-medium tracking-[0em]";
+  "font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-semibold tracking-[-0.01em]";
 
 /**
  * The CSS dump encodes the "Secondary Button" hover as instant `position` swaps
@@ -42,17 +42,13 @@ const PILL_TEXT =
  * the stylesheet carries no duration). They are re-expressed here as transforms,
  * matching the easing the rest of the page uses.
  */
-const HOVER_MOTION =
-  "transition-transform duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]";
 
 interface PricingSectionProps {
   className?: string;
 }
 
 /**
- * "Pricing Section" — oversized `Pricing` wordmark above two cards: the white
- * `Basic plan` card (price, feature list, CTA) and the image-backed
- * `Custom Plan` card.
+ * Pricing options with a concise section heading and two plan cards.
  */
 export function PricingSection({ className }: PricingSectionProps) {
   return (
@@ -61,7 +57,7 @@ export function PricingSection({ className }: PricingSectionProps) {
       data-framer-name="Pricing Section"
       className={cn(
         "relative flex w-full flex-none flex-row items-center justify-center gap-[10px] overflow-hidden",
-        "bg-[var(--fileon-bg,#f7f7f2)]",
+        "bg-[var(--fileon-brisa)]",
         "px-[20px] py-[80px] md:px-[30px] md:py-[100px] xl:py-[130px]",
         className,
       )}
@@ -69,14 +65,20 @@ export function PricingSection({ className }: PricingSectionProps) {
       {/* Container — .framer-1a3h2fr */}
       <div className="relative flex h-min w-px max-w-[1300px] flex-1 flex-row items-center justify-center gap-[10px] p-0">
         {/* Content — .framer-1ufbjls, gap 40 → 50 → 0 */}
-        <div className="relative flex h-min w-px flex-1 flex-col items-start justify-start gap-[40px] p-0 md:gap-[50px] xl:gap-0">
-          {/* Title — .framer-kg6hdi + preset 15wn7d (60 → 120 → 230) */}
+        <div className="relative flex h-min w-px flex-1 flex-col items-start justify-start gap-[40px] p-0 md:gap-[50px] xl:gap-[44px]">
           <Reveal className="w-full" fromScale={1}>
-            <div className="relative h-auto w-full flex-none break-words whitespace-pre-wrap">
-              <p className="text-left font-[family-name:var(--fileon-font-serif)] text-[60px] leading-[90%] font-medium tracking-[0em] text-[rgba(0,0,0,0.5)] uppercase md:text-center md:text-[120px] xl:text-[230px]">
-                Pricing
+            <header className="max-w-[900px]">
+              <p className="mb-4 flex items-center gap-[10px] font-[family-name:var(--fileon-font-mono)] text-[13px] font-normal leading-[150%] tracking-[0.08em] text-[var(--fileon-ink)] uppercase md:text-[14px]">
+                <span aria-hidden="true" className="h-[10px] w-[10px] flex-none bg-[var(--fileon-coral)]" />
+                Registro de marca
               </p>
-            </div>
+              <h1 className="meiker-section-title max-w-[820px] text-balance font-[family-name:var(--fileon-font-sans)] text-[clamp(2.75rem,5vw,4.25rem)] font-medium leading-[1.02] tracking-[-0.055em] text-[var(--fileon-heading)]">
+                Protege tu marca <span className="text-[var(--fileon-coral)]">con claridad.</span>
+              </h1>
+              <p className="mt-5 max-w-[680px] text-[16px] leading-[1.6] text-[var(--fileon-body)] md:text-[18px]">
+                Elige el acompañamiento legal adecuado para registrar y cuidar el activo que distingue tu negocio.
+              </p>
+            </header>
           </Reveal>
 
           {/* Card Wrapper — .framer-16duk0y, column until 1380px */}
@@ -103,7 +105,7 @@ function BasicPlanCard() {
           "relative flex h-min w-full flex-col items-start justify-start gap-[30px] overflow-hidden p-[20px]",
           "md:flex-row md:items-end md:justify-start md:gap-[42px] md:p-[30px]",
           "xl:gap-[50px]",
-          "rounded-[10px] bg-[var(--fileon-white,#ffffff)]",
+          "rounded-[36px] border border-[color:rgb(255_91_53_/_28%)] bg-[var(--fileon-white,#ffffff)] shadow-[0_16px_40px_rgba(70,19,18,0.075)]",
         )}
       >
         {/* Content Wrapper — .framer-1i1a8ut, gap 20 → 50 → 120 */}
@@ -113,12 +115,8 @@ function BasicPlanCard() {
             {/* Button Wrapper — .framer-xjb9l9 */}
             <div className="relative flex h-min w-full flex-none flex-row items-center justify-start gap-[10px] p-0">
               <PricingPill
-                label="Basic plan"
-                className="border-[#a9a9a9] bg-[var(--fileon-ink,#191818)] text-[var(--fileon-white,#ffffff)]"
-              />
-              <PricingPill
-                label="Premium"
-                className="border-[#eeece6] bg-[var(--fileon-bg,#f7f7f2)] text-black"
+                label="Esencial"
+                className="border-[color:rgb(255_91_53_/_28%)] bg-[var(--fileon-coral)] text-white"
               />
             </div>
 
@@ -126,13 +124,17 @@ function BasicPlanCard() {
             <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-0 p-0">
               {/* Price — .framer-1pj4fe + preset 4rqwjt (36 → 40 → 48) */}
               <div className="relative h-auto w-full flex-none break-words whitespace-pre-wrap">
-                <h3 className="text-left font-[family-name:var(--fileon-font-serif)] text-[36px] leading-[120%] font-normal tracking-[0em] text-black md:text-[40px] xl:text-[48px]">
-                  $2,500
+                <h3 className="text-left font-[family-name:var(--fileon-font-serif)] text-[36px] leading-[120%] font-normal tracking-[0em] text-[var(--fileon-heading)] md:text-[40px] xl:text-[48px]">
+                  <span aria-hidden="true" className="mr-3 align-middle text-[0.55em] text-[var(--fileon-muted)] line-through decoration-[var(--fileon-coral)]">$690</span>
+
+                  <span className="sr-only">Antes $690, ahora </span>
+
+                  $460
                 </h3>
               </div>
               {/* Month — .framer-11fkyqe */}
               <div className="relative h-auto w-full flex-none break-words whitespace-pre-wrap">
-                <p className={BODY_TEXT}>/ Monthly plan</p>
+                <p className={BODY_TEXT}>/ Registro de marca</p>
               </div>
             </div>
           </div>
@@ -140,15 +142,14 @@ function BasicPlanCard() {
           {/* Short Description — .framer-9g2gaz */}
           <div className="relative h-auto w-full flex-none [text-wrap:balance]">
             <p className={BODY_TEXT}>
-              Every project is unique, but our pricing stays clear, flexible, and
-              aligned with real business goals, combining strategy, design, and
-              creativity into one focused solution
+              Servicio valorado en $690. Escríbenos hoy y accede al plan con descuento:
+              precio fijo, sin costos ocultos.
             </p>
           </div>
         </div>
 
         {/* Line — .framer-cw0fdv : 100%×1 → 1×257 → 1×286 */}
-        <div className="relative h-px w-full flex-none overflow-hidden bg-[#bebebe] md:h-[257px] md:w-px xl:h-[286px]" />
+        <div className="relative h-px w-full flex-none overflow-hidden bg-[color:rgb(70_19_18_/_24%)] md:h-[257px] md:w-px xl:h-[286px]" />
 
         {/* List & Button Wrapper — .framer-khb8rh, gap 25 → 50 → 75 */}
         <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[25px] p-0 md:w-px md:flex-1 md:gap-[50px] xl:gap-[75px]">
@@ -159,14 +160,8 @@ function BasicPlanCard() {
               <div key={feature} className="relative h-auto w-full flex-none">
                 <div className="relative flex h-min w-full flex-row items-center justify-start gap-[10px] p-0">
                   {/* Icon — .framer-1h59sfi */}
-                  <div className="relative h-[20px] w-[20px] flex-none overflow-hidden rounded-[100px]">
-                    <div className="absolute inset-0 rounded-[inherit]">
-                      <img
-                        src={LIST_ICON}
-                        alt="Icon"
-                        className="block h-full w-full rounded-[inherit] object-contain object-center"
-                      />
-                    </div>
+                  <div className="grid h-[22px] w-[22px] flex-none place-items-center rounded-full bg-[var(--fileon-coral)] text-white">
+                    <Check aria-hidden="true" size={14} strokeWidth={2.8} />
                   </div>
                   {/* Title — .framer-1k9ywo5 */}
                   <div className="relative h-auto w-px flex-1 [text-wrap:balance]">
@@ -226,76 +221,7 @@ function PricingPill({
 
 /** `Secondary Button 01/02` — `.framer-1r2Ll.framer-1vlt3ha`, label + icon swap on hover. */
 function StartTodayButton() {
-  return (
-    <a
-      href="/contact"
-      data-framer-name="Secondary Button 01"
-      className={cn(
-        "group relative flex h-min w-min flex-none cursor-pointer flex-row items-center justify-center gap-[14px]",
-        "overflow-hidden rounded-[50px] bg-[var(--fileon-ink,#191818)] py-[6px] pr-[6px] pl-[24px] no-underline",
-      )}
-    >
-      {/* Title Wrapper — .framer-176aqmi (overflow hidden, one line tall) */}
-      <div className="relative flex h-[24px] w-min flex-none flex-col items-start justify-start overflow-hidden">
-        {/* .framer-yu6vuw (top:-50px) and .framer-1h58870 swap places on hover */}
-        <div
-          className={cn(
-            "flex flex-col group-hover:-translate-y-[24px]",
-            HOVER_MOTION,
-          )}
-        >
-          <p
-            className={cn(
-              PILL_TEXT,
-              "h-[24px] text-left whitespace-pre text-[var(--fileon-white,#ffffff)]",
-            )}
-          >
-            Start today
-          </p>
-          <p
-            className={cn(
-              PILL_TEXT,
-              "h-[24px] text-left whitespace-pre text-[var(--fileon-white,#ffffff)]",
-            )}
-          >
-            Start today
-          </p>
-        </div>
-      </div>
-
-      {/* Icon Wrapper — .framer-1d5hfen */}
-      <div className="relative flex aspect-square h-[35px] w-[35px] flex-none flex-col items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-[var(--fileon-white,#ffffff)]">
-        <div className="relative h-[18px] w-[18px] flex-none">
-          {/* .framer-dswrox — parked at bottom:-20px / left:-20px, slides in on hover */}
-          <span
-            className={cn(
-              "absolute inset-0 block -translate-x-[20px] translate-y-[20px] group-hover:translate-x-0 group-hover:translate-y-0",
-              HOVER_MOTION,
-            )}
-          >
-            <img
-              src={ARROW_ICON}
-              alt="Icon"
-              className="block h-full w-full object-contain object-center"
-            />
-          </span>
-          {/* .framer-13sriid — in place, exits to top:-20px / right:-20px on hover */}
-          <span
-            className={cn(
-              "absolute inset-0 block group-hover:translate-x-[20px] group-hover:-translate-y-[20px]",
-              HOVER_MOTION,
-            )}
-          >
-            <img
-              src={ARROW_ICON}
-              alt="Icon"
-              className="block h-full w-full object-contain object-center"
-            />
-          </span>
-        </div>
-      </div>
-    </a>
-  );
+  return <MotionArrowButton href="/contacto" variant="coral">Quiero aplicar al descuento</MotionArrowButton>;
 }
 
 /** `Pricing Card 02` — `.framer-1wrjzfo`, white panel stacked over a full-bleed photo. */
@@ -307,27 +233,26 @@ function CustomPlanCard() {
       <div
         data-framer-name="Pricing Card 02"
         className={cn(
-          "relative flex h-min w-full flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[10px] p-[20px]",
+          "relative flex h-min w-full flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[36px] border border-white/60 p-[20px] shadow-[0_16px_40px_rgba(70,19,18,0.12)]",
           "md:flex-row md:p-[50px]",
           "xl:w-full xl:gap-[10px] xl:p-[30px]",
         )}
       >
         {/* Content Wrapper — .framer-genzu7, gap 30 → 60 → 149 */}
-        <div className="relative z-[3] flex h-min w-full flex-none flex-col items-start justify-start gap-[30px] rounded-[10px] bg-[var(--fileon-white,#ffffff)] p-[20px] md:w-px md:flex-1 md:gap-[60px] md:p-[30px] xl:gap-[149px]">
+        <div className="relative z-[3] flex h-min w-full flex-none flex-col items-start justify-start gap-[30px] rounded-[32px] border border-[color:rgb(70_19_18_/_7%)] bg-[var(--fileon-white,#ffffff)] p-[20px] shadow-[0_12px_34px_rgba(70,19,18,0.08)] md:w-px md:flex-1 md:gap-[60px] md:p-[30px] xl:gap-[149px]">
           {/* Title Wrapper — .framer-1lnjv2h, gap 10 → 14 */}
           <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] p-0 md:gap-[14px]">
             {/* Title — .framer-15cs5dq + preset 1lcxu9v (24 → 28 → 32) */}
             <div className="relative h-auto w-full flex-none break-words whitespace-pre-wrap">
-              <h5 className="text-left font-[family-name:var(--fileon-font-serif)] text-[24px] leading-[130%] font-normal tracking-[0em] text-black md:text-[28px] xl:text-[32px]">
-                Custom Plan
+              <h5 className="text-left font-[family-name:var(--fileon-font-serif)] text-[24px] leading-[130%] font-normal tracking-[0em] text-[var(--fileon-heading)] md:text-[28px] xl:text-[32px]">
+                Plan a medida
               </h5>
             </div>
             {/* Short Description — .framer-1sqfdk6 */}
             <div className="relative h-auto w-full flex-none [text-wrap:balance]">
               <p className={BODY_TEXT}>
-                Custom legal plans tailored to your specific case needs, offering
-                flexible support, strategy, and representation for complex or
-                ongoing matters
+                Diseñamos un plan legal a la medida de tu negocio, con soporte flexible, estrategia y representación
+                para asuntos complejos o continuos.
               </p>
             </div>
           </div>
@@ -336,16 +261,16 @@ function CustomPlanCard() {
           <div className="relative flex h-min w-full flex-none flex-row items-center justify-start gap-[10px] p-0">
             {/* Text — .framer-n2cl4e + preset 4hunf2 */}
             <div className="relative h-auto w-auto flex-none [text-wrap:balance]">
-              <p className="text-left font-[family-name:var(--fileon-font-sans)] text-[18px] leading-[150%] font-medium tracking-[0em] text-black">
-                Call us :
+              <p className="text-left font-[family-name:var(--fileon-font-sans)] text-[18px] leading-[150%] font-medium tracking-[0em] text-[var(--fileon-cacao)]">
+                Llámanos:
               </p>
             </div>
             {/* Number — .framer-ipxrlk, link preset 1kyr8x0 */}
             <div className="relative h-auto w-px flex-1 [text-wrap:balance]">
               <p className={BODY_TEXT}>
                 <a
-                  href={`tel:${PHONE_NUMBER}`}
-                  className="text-[var(--fileon-body,#575757)] no-underline transition-colors duration-300 ease-[cubic-bezier(0.44,0,0.56,1)] hover:text-black"
+                  href="tel:+593993560952"
+                  className="text-[var(--fileon-body,#614c49)] no-underline transition-colors duration-300 ease-[cubic-bezier(0.44,0,0.56,1)] hover:text-[var(--fileon-cacao)]"
                 >
                   {PHONE_NUMBER}
                 </a>
@@ -355,7 +280,7 @@ function CustomPlanCard() {
         </div>
 
         {/* .framer-443prm — full-bleed backdrop */}
-        <div className="absolute top-0 left-0 z-[1] h-full w-full flex-none overflow-hidden rounded-[10px]">
+        <div className="absolute top-0 left-0 z-[1] h-full w-full flex-none overflow-hidden rounded-[36px]">
           <div className="absolute inset-0 rounded-[inherit]">
             <img
               src={CUSTOM_PLAN_IMAGE}

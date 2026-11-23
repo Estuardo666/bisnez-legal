@@ -1,0 +1,98 @@
+[
+  {
+    "route": "/services",
+    "viewport": {
+      "name": "desktop-audit",
+      "width": 1440,
+      "height": 1000
+    },
+    "status": 200,
+    "title": "Servicios legales para empresas | Meiker",
+    "pageHeight": 5556,
+    "errors": []
+  },
+  {
+    "route": "/services",
+    "viewport": {
+      "name": "mobile-audit",
+      "width": 390,
+      "height": 844
+    },
+    "status": 200,
+    "title": "Servicios legales para empresas | Meiker",
+    "pageHeight": 7079,
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "viewport": {
+      "name": "desktop-audit",
+      "width": 1440,
+      "height": 1000
+    },
+    "status": 200,
+    "title": "Contacto | Meiker",
+    "pageHeight": 4029,
+    "errors": []
+  },
+  {
+    "route": "/contact",
+    "viewport": {
+      "name": "mobile-audit",
+      "width": 390,
+      "height": 844
+    },
+    "status": 200,
+    "title": "Contacto | Meiker",
+    "pageHeight": 4580,
+    "errors": []
+  },
+  {
+    "route": "/teams/amelia-brooks",
+    "viewport": {
+      "name": "desktop-audit",
+      "width": 1440,
+      "height": 1000
+    },
+    "status": 200,
+    "title": "Augusto Abendaño | Meiker",
+    "pageHeight": 3113,
+    "errors": []
+  },
+  {
+    "route": "/teams/amelia-brooks",
+    "viewport": {
+      "name": "mobile-audit",
+      "width": 390,
+      "height": 844
+    },
+    "status": 200,
+    "title": "Augusto Abendaño | Meiker",
+    "pageHeight": 4103,
+    "errors": []
+  },
+  {
+    "route": "/services/corporate-legal-advisory-copy-4",
+    "viewport": {
+      "name": "desktop-audit",
+      "width": 1440,
+      "height": 1000
+    },
+    "status": 200,
+    "title": "Registro de marca | Meiker",
+    "pageHeight": 3278,
+    "errors": []
+  },
+  {
+    "route": "/services/corporate-legal-advisory-copy-4",
+    "viewport": {
+      "name": "mobile-audit",
+      "width": 390,
+      "height": 844
+    },
+    "status": 200,
+    "title": "Registro de marca | Meiker",
+    "pageHeight": 4313,
+    "errors": []
+  }
+]

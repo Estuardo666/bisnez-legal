@@ -1,48 +1,57 @@
 import Image from "next/image";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
+import { MotionArrowButton } from "@/components/sites/fileon-framer-website-846bcc9f/shared/MotionArrowButton";
 
 const ASSETS = "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/images";
 
 interface CaseStudy {
   /** Slug used for the link target and for scoping the inline SVG ids. */
   slug: string;
+  href: string;
   eyebrow: string;
   title: string;
   description: string;
   image: string;
+  tone: "coral" | "brisa";
   width: number;
   height: number;
 }
 
 const CASE_STUDIES: readonly CaseStudy[] = [
   {
-    slug: "corporate-dispute",
-    eyebrow: "1/ Corporate Law",
-    title: "Corporate Dispute",
+    slug: "disputa-empresarial",
+    href: "/servicios/registro-de-marca",
+    eyebrow: "1/ Propiedad intelectual",
+    title: "Registro de marca",
     description:
-      "Represented a growing business in a complex commercial dispute, securing a favorable resolution while protecting long-term business interests.",
-    image: `${ASSETS}/1cHrjp5K6KglQzCNss20hhllKs.png`,
+      "Acompañamos a un negocio en crecimiento a proteger su nombre, logo e identidad ante el SENADI.",
+    image: "/meiker/images/agreement.jpg",
+    tone: "coral",
     width: 812,
     height: 568,
   },
   {
-    slug: "real-estate-law",
-    eyebrow: "2/ Corporate Law",
-    title: "Real Estate Law",
+    slug: "derecho-inmobiliario",
+    href: "/servicios/constitucion-sas",
+    eyebrow: "2/ Derecho societario",
+    title: "Constitución S.A.S.",
     description:
-      "Successfully resolved a property ownership conflict through strategic legal representation and careful case preparation.",
-    image: `${ASSETS}/L4RmATyJykuXVAMJnBgwKowz29k.png`,
+      "Formalizamos la empresa con la estructura correcta para operar y escalar con seguridad jurídica.",
+    image: "/meiker/images/team-meeting.jpg",
+    tone: "brisa",
     width: 812,
     height: 568,
   },
   {
-    slug: "employment-law",
-    eyebrow: "3/ Corporate Law",
-    title: "Employment Law",
+    slug: "derecho-laboral",
+    href: "/servicios/contratos-empresariales",
+    eyebrow: "3/ Contratos empresariales",
+    title: "Contratos empresariales",
     description:
-      "Provided legal guidance in a workplace dispute, helping the client achieve a fair, good and favorable outcome for all ages and culture",
-    image: `${ASSETS}/mxgPf2wfnMIMiICGG7TLPGuxpo4.png`,
+      "Blindamos términos y condiciones, confidencialidad, uso de imagen y cesión de derechos.",
+    image: "/meiker/images/founders.jpg",
+    tone: "coral",
     width: 812,
     height: 568,
   },
@@ -66,7 +75,6 @@ const PRESET_BUTTON =
  * They are re-expressed here as transforms so they can actually animate — same
  * timing the sibling sections use.
  */
-const HOVER_MOTION = "transition-transform duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]";
 
 /**
  * The blurred "notch" plate that sits on the top-right corner of every card.
@@ -115,8 +123,8 @@ function CaseStudyCard({ study }: { study: CaseStudy }) {
     <div className="relative z-[1] h-auto w-px flex-[1_0_0]">
       {/* .framer-1sv8yk3 — the card link */}
       <Link
-        href={`/case-studies/${study.slug}`}
-        className="relative flex w-full cursor-pointer flex-col items-start gap-[256px] overflow-hidden rounded-[10px] p-0 no-underline"
+        href={study.href}
+        className="meiker-hover-lift group relative flex w-full cursor-pointer flex-col items-start gap-[256px] overflow-hidden rounded-[34px] p-0 no-underline shadow-[0_8px_28px_rgba(70,19,18,0.06)] hover:shadow-[0_20px_48px_rgba(70,19,18,0.18)]"
       >
         {/* .framer-1d75bo1 — cover image */}
         <div className="relative w-full flex-none overflow-hidden rounded-[inherit] h-[300px] md:h-auto md:aspect-[1.66667] xl:aspect-[1.35]">
@@ -126,20 +134,20 @@ function CaseStudyCard({ study }: { study: CaseStudy }) {
             width={study.width}
             height={study.height}
             sizes="(max-width: 809px) 100vw, (max-width: 1379px) 750px, 810px"
-            className="absolute inset-0 block h-full w-full rounded-[inherit] object-cover object-center"
+            className="meiker-image-zoom meiker-image-zoom--subtle absolute inset-0 block h-full w-full rounded-[inherit] object-cover object-center"
           />
         </div>
 
         {/* .framer-1h50kji — content wrapper pinned to the bottom-right */}
         <div className="absolute right-0 z-[1] flex flex-none flex-col items-end justify-end gap-[10px] bottom-[15px] w-[96%] pt-[25px] pr-[15px] pb-0 pl-0 md:bottom-[30px] md:w-full md:pr-[30px]">
           {/* .framer-447zbu */}
-          <div className="relative z-[3] flex w-full max-w-[400px] flex-none flex-col items-start gap-[52px] rounded-[10px] bg-[var(--fileon-white)] p-[10px] md:p-[25px]">
+          <div className={cn("relative z-[3] flex w-full max-w-[400px] flex-none flex-col items-start gap-[38px] rounded-[30px] p-[18px] shadow-[0_10px_28px_rgba(70,19,18,0.12)] md:gap-[52px] md:p-[25px]", study.tone === "coral" ? "bg-[var(--fileon-coral)]" : "bg-[var(--fileon-brisa)]")}>
             {/* .framer-zobqex */}
             <div className="relative flex w-full flex-none flex-col items-start gap-[15px] md:gap-[30px]">
               <p className={cn(PRESET_MONO, "w-full text-[var(--fileon-body)]")}>{study.eyebrow}</p>
               {/* .framer-1ls4xu1 */}
               <div className="relative flex w-full flex-none flex-col items-start gap-[5px] md:gap-[12px]">
-                <h6 className="w-full font-[family-name:var(--fileon-font-serif)] text-[22px] leading-[135%] font-normal tracking-[0em] text-[var(--fileon-ink)] xl:text-[24px]">
+                <h6 className="w-full font-[family-name:var(--fileon-font-serif)] text-[22px] leading-[135%] font-normal tracking-[0em] text-[var(--fileon-heading)] xl:text-[24px]">
                   {study.title}
                 </h6>
                 <p className={cn(PRESET_BODY, "w-full text-balance")}>{study.description}</p>
@@ -170,7 +178,7 @@ function CaseStudyCard({ study }: { study: CaseStudy }) {
  */
 export function CaseStudiesSection() {
   return (
-    <section className="relative flex w-full flex-none flex-col items-center justify-center gap-[10px] bg-[var(--fileon-bg-warm)] px-[20px] pt-[40px] pb-[80px] md:px-[30px] md:pt-[50px] md:pb-[100px] xl:pt-[65px] xl:pb-[130px]">
+    <section className="relative flex w-full flex-none flex-col items-center justify-center gap-[10px] bg-[var(--fileon-bg)] px-[20px] pt-[40px] pb-[80px] md:px-[30px] md:pt-[50px] md:pb-[100px] xl:pt-[65px] xl:pb-[130px]">
       {/* .framer-12ie2k0 — container */}
       <div className="relative flex w-full max-w-[1300px] flex-none items-center justify-center gap-[10px]">
         {/* .framer-1eb3dsu — content */}
@@ -178,84 +186,34 @@ export function CaseStudiesSection() {
           {/* .framer-x6hghb — content wrapper */}
           <div className="relative flex w-full flex-none flex-col items-start gap-[40px] md:gap-[50px] xl:flex-row xl:justify-between xl:gap-0">
             {/* .framer-19fzg5e — sticky title & button panel */}
-            <div className="relative z-[1] flex w-full flex-none flex-col items-start gap-[30px] rounded-[10px] bg-[var(--fileon-white)] p-[20px] md:gap-[40px] md:p-[30px] xl:sticky xl:top-[20px] xl:w-px xl:max-w-[480px] xl:flex-[1_0_0] xl:gap-[256px]">
+            <div className="relative z-[1] flex w-full flex-none flex-col items-start gap-[30px] rounded-[34px] bg-[var(--fileon-brisa)] p-[24px] md:gap-[40px] md:p-[32px] xl:sticky xl:top-[20px] xl:w-px xl:max-w-[480px] xl:flex-[1_0_0] xl:gap-[256px]">
               {/* .framer-17fr8xt — title wrapper */}
               <div className="relative flex w-full flex-none flex-col items-start gap-[10px] md:max-w-[550px] xl:max-w-none">
                 {/* Section Title 01 */}
                 <div className="relative flex w-min flex-none items-center justify-start gap-[10px]">
-                  <div className="relative h-[10px] w-[10px] flex-none overflow-hidden bg-[var(--fileon-ink)]" />
-                  <p className={cn(PRESET_MONO, "relative w-auto flex-none whitespace-pre text-black")}>
-                    case studies
+                  <div className="relative h-[10px] w-[10px] flex-none overflow-hidden bg-[var(--fileon-coral)]" />
+                  <p className={cn(PRESET_MONO, "relative w-auto flex-none whitespace-pre text-[var(--fileon-cacao)]")}>
+                    resultados que protegen
                   </p>
                 </div>
 
                 {/* .framer-5vzw1o — title & sub title */}
                 <div className="relative flex w-full flex-none flex-col items-start gap-[10px] md:gap-[15px] xl:gap-[24px]">
-                  <h2 className="w-full font-[family-name:var(--fileon-font-serif)] text-[38px] leading-[120%] font-normal tracking-[0em] text-balance text-[var(--fileon-ink)] md:text-[46px] xl:text-[56px]">
-                    Results that Build{" "}
-                    <span className="text-[var(--fileon-black-50)]">Trust</span>
+                  <h2 className="w-full font-[family-name:var(--fileon-font-serif)] text-[38px] leading-[120%] font-normal tracking-[0em] text-balance text-[var(--fileon-heading)] md:text-[46px] xl:text-[56px]">
+                    Decisiones que construyen{" "}
+                    <span className="text-[var(--fileon-black-50)]">confianza</span>
                   </h2>
                   <p className={cn(PRESET_BODY, "w-full text-balance")}>
-                    Explore how strategic legal counsel helped clients overcome challenges and
-                    achieve successful outcomes
+                    Conoce cómo una estrategia legal clara ayuda a proteger decisiones importantes y hacer crecer tu
+                    negocio.
                   </p>
                 </div>
               </div>
 
               {/* Secondary Button 01 */}
-              <Link
-                href="/case-studies"
-                className="group relative flex h-min w-min cursor-pointer items-center justify-center gap-[14px] overflow-hidden rounded-[50px] bg-[var(--fileon-ink)] py-[6px] pr-[6px] pl-[24px] no-underline"
-              >
-                {/* .framer-176aqmi — title wrapper (masks the label swap, one line tall) */}
-                <div className="relative flex h-[24px] w-min flex-none flex-col items-start overflow-hidden">
-                  {/* .framer-yu6vuw (incoming) and .framer-1h58870 (resting) trade places */}
-                  <div className={cn("flex flex-col -translate-y-[24px] group-hover:translate-y-0", HOVER_MOTION)}>
-                    <p className={cn(PRESET_BUTTON, "h-[24px] whitespace-pre text-[var(--fileon-white)]")}>
-                      View all case studies
-                    </p>
-                    <p className={cn(PRESET_BUTTON, "h-[24px] whitespace-pre text-[var(--fileon-white)]")}>
-                      View all case studies
-                    </p>
-                  </div>
-                </div>
-
-                {/* .framer-1d5hfen — icon wrapper */}
-                <div className="relative flex h-[35px] w-[35px] flex-none items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-[var(--fileon-white)]">
-                  <div className="relative h-[18px] w-[18px] flex-none">
-                    {/* .framer-dswrox — incoming icon */}
-                    <span
-                      className={cn(
-                        "absolute inset-0 block -translate-x-[20px] translate-y-[20px] group-hover:translate-x-0 group-hover:translate-y-0",
-                        HOVER_MOTION,
-                      )}
-                    >
-                      <Image
-                        src={`${ASSETS}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`}
-                        alt="Icon"
-                        width={18}
-                        height={18}
-                        className="block h-full w-full object-contain object-center"
-                      />
-                    </span>
-                    {/* .framer-13sriid — resting icon */}
-                    <span
-                      className={cn(
-                        "absolute inset-0 block group-hover:translate-x-[20px] group-hover:-translate-y-[20px]",
-                        HOVER_MOTION,
-                      )}
-                    >
-                      <Image
-                        src={`${ASSETS}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`}
-                        alt="Icon"
-                        width={18}
-                        height={18}
-                        className="block h-full w-full object-contain object-center"
-                      />
-                    </span>
-                  </div>
-                </div>
-              </Link>
+              <MotionArrowButton href="/servicios" variant="coral">
+                Ver todos los servicios
+              </MotionArrowButton>
             </div>
 
             {/* .framer-4wpycy — card wrapper */}

@@ -1,18 +1,17 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
 
-import Link from "next/link";
 
 import { Reveal } from "@/components/sites/fileon-framer-website-846bcc9f/shared/Reveal";
+import { MotionArrowButton } from "@/components/sites/fileon-framer-website-846bcc9f/shared/MotionArrowButton";
 import { cn } from "@/lib/utils";
 
 const ASSETS = "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/images";
 
 const CARD_ILLUSTRATION = `${ASSETS}/y0aoDt88F21BV1gXi4qELBus.svg`;
-const CARD_ONE_BACKGROUND = `${ASSETS}/K7uBCQ3LbwXzrWYQFm5zt3VusU.png`;
+const CARD_ONE_BACKGROUND = "/meiker/images/agreement.jpg";
 const STAT_ICON = `${ASSETS}/MfOB64mcIPl4UU1zU4e1ipbMGSs.svg`;
-const BUTTON_ARROW_ICON = `${ASSETS}/EYDLAZGki3fWmXGqR28GepT0H40.svg`;
-const CARD_TWO_BACKGROUND = `${ASSETS}/Bj7BRyFPI2wxg0fmPoj7fzHMZY.png`;
+const CARD_TWO_BACKGROUND = "/meiker/images/team-meeting.jpg";
 
 /** .framer-styles-preset-n4ys0b — Geist Mono 14px / 150%, uppercase, 0em. */
 const MONO_LABEL =
@@ -31,62 +30,10 @@ const BODY_TEXT =
  * re-expressed here as transforms so they can actually animate — same timing
  * the sibling sections use.
  */
-const HOVER_MOTION = "transition-transform duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]";
 
 /** Primary Button 01 — pill CTA whose label and arrow swap places on hover (xl only). */
 function GuidanceButton() {
-  return (
-    <Link
-      href="/contact"
-      data-framer-name="Primary Button 01"
-      className="group relative flex h-min w-min cursor-pointer flex-row items-center justify-center gap-[14px] overflow-hidden rounded-[50px] bg-[var(--fileon-white,#ffffff)] py-[6px] pr-[6px] pl-[24px] no-underline"
-    >
-      {/* Title Wrapper — .framer-176aqmi */}
-      <div className="relative flex h-[24px] w-min flex-none flex-col items-start justify-start overflow-hidden p-0">
-        {/* .framer-yu6vuw (parked above) and .framer-1h58870 trade places on hover */}
-        <div className={cn("flex flex-col -translate-y-[24px] xl:group-hover:translate-y-0", HOVER_MOTION)}>
-          <p className="h-[24px] text-left font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-medium tracking-[0em] whitespace-pre text-black">
-            Get guidance
-          </p>
-          <p className="h-[24px] text-left font-[family-name:var(--fileon-font-sans)] text-[16px] leading-[150%] font-medium tracking-[0em] whitespace-pre text-black">
-            Get guidance
-          </p>
-        </div>
-      </div>
-
-      {/* Icon Wrapper — .framer-1d5hfen */}
-      <div className="relative flex aspect-square h-[35px] w-[35px] flex-none flex-col items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-black">
-        <div className="relative aspect-square h-[18px] w-[18px] flex-none">
-          {/* Icon — .framer-dswrox (parked bottom-left) */}
-          <span
-            className={cn(
-              "absolute inset-0 block -translate-x-[20px] translate-y-[20px] xl:group-hover:translate-x-0 xl:group-hover:translate-y-0",
-              HOVER_MOTION,
-            )}
-          >
-            <img
-              src={BUTTON_ARROW_ICON}
-              alt="Icon"
-              className="block h-full w-full object-contain object-center"
-            />
-          </span>
-          {/* Icon — .framer-13sriid (resting, exits top-right) */}
-          <span
-            className={cn(
-              "absolute inset-0 block xl:group-hover:translate-x-[20px] xl:group-hover:-translate-y-[20px]",
-              HOVER_MOTION,
-            )}
-          >
-            <img
-              src={BUTTON_ARROW_ICON}
-              alt="Icon"
-              className="block h-full w-full object-contain object-center"
-            />
-          </span>
-        </div>
-      </div>
-    </Link>
-  );
+  return <MotionArrowButton href="/contacto" variant="coral">Quiero mi asesoría gratis</MotionArrowButton>;
 }
 
 /**
@@ -104,7 +51,7 @@ export function GuidanceSection() {
   return (
     <section
       data-framer-name="Guidance Section"
-      className="relative flex h-min w-full flex-none flex-row items-center justify-center gap-[10px] overflow-hidden bg-[var(--fileon-bg-warm,#eeece6)] px-[20px] py-[80px] md:px-[30px] md:py-[100px] xl:py-[130px]"
+      className="relative flex h-min w-full flex-none flex-row items-center justify-center gap-[10px] overflow-hidden bg-[var(--fileon-bg,#fffaf4)] px-[20px] py-[80px] md:px-[30px] md:py-[100px] xl:py-[130px]"
     >
       {/* Container — .framer-8cqs8l */}
       <div className="relative flex h-min w-px max-w-[1300px] flex-1 shrink-0 basis-0 flex-row items-center justify-center gap-[10px] overflow-visible p-0">
@@ -116,11 +63,11 @@ export function GuidanceSection() {
             <Reveal className="relative h-auto w-auto flex-none" fromScale={1}>
               <div className="relative flex h-min w-min flex-none flex-row items-center justify-start gap-[10px] overflow-visible p-0">
                 {/* Icon — .framer-18gvpqs */}
-                <div className="relative h-[10px] w-[10px] flex-none overflow-hidden bg-[var(--fileon-ink,#191818)]" />
+                <div className="relative h-[10px] w-[10px] flex-none overflow-hidden bg-[var(--fileon-coral)]" />
                 {/* Title — .framer-uioks9 */}
                 <div className="relative h-auto w-auto flex-none">
-                  <p className={cn(MONO_LABEL, "text-left whitespace-pre text-black")}>
-                    Join us today
+                  <p className={cn(MONO_LABEL, "text-left whitespace-pre text-[var(--fileon-cacao)]")}>
+                    Hablemos de tu negocio
                   </p>
                 </div>
               </div>
@@ -128,9 +75,9 @@ export function GuidanceSection() {
 
             {/* Title — .framer-8ko8pp / preset-1x3pol9 */}
             <div className="relative h-auto w-full flex-none [text-wrap:balance]">
-              <h2 className="text-left font-[family-name:var(--fileon-font-serif)] text-[38px] leading-[120%] font-normal tracking-[0em] text-[var(--fileon-ink,#191818)] md:text-[46px] xl:text-[56px]">
-                Ready to discuss your legal{" "}
-                <span className="text-[var(--fileon-black-50)]">matter?</span>
+              <h2 className="text-left font-[family-name:var(--fileon-font-serif)] text-[38px] leading-[120%] font-normal tracking-[0em] text-[var(--fileon-heading)] md:text-[46px] xl:text-[56px]">
+                Protege hoy{" "}
+                <span className="text-[var(--fileon-black-50)]">lo que construiste.</span>
               </h2>
             </div>
           </div>
@@ -138,19 +85,19 @@ export function GuidanceSection() {
           {/* Card Wrapper — .framer-17h4u94 */}
           <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[20px] overflow-visible p-0 xl:flex-row xl:items-center xl:gap-[10px]">
             {/* Guidance Card 01 — .framer-1s0wz9w */}
-            <div className="relative flex h-min w-full flex-none flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[10px] p-[20px] md:flex-row md:p-[50px] xl:w-px xl:max-w-[645px] xl:flex-1 xl:shrink-0 xl:basis-0 xl:gap-[10px] xl:p-[60px]">
+            <div className="relative flex h-min w-full flex-none flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[32px] p-[20px] md:flex-row md:p-[50px] xl:w-px xl:max-w-[645px] xl:flex-1 xl:shrink-0 xl:basis-0 xl:gap-[10px] xl:p-[60px]">
               {/* Content Wrapper — .framer-1k0j0mj */}
-              <div className="relative z-[3] flex h-min w-full flex-none flex-col items-start justify-start gap-[30px] overflow-visible rounded-[10px] bg-[var(--fileon-white,#ffffff)] p-[20px] md:w-px md:flex-1 md:shrink-0 md:basis-0 md:items-center md:gap-[40px] md:p-[30px]">
+              <div className="relative z-[3] flex h-min w-full flex-none flex-col items-start justify-start gap-[30px] overflow-visible rounded-[32px] bg-[var(--fileon-white,#ffffff)] p-[20px] md:w-px md:flex-1 md:shrink-0 md:basis-0 md:items-center md:gap-[40px] md:p-[30px]">
                 {/* Short Description — .framer-4e06ta */}
                 <div className="relative h-auto w-full flex-none [text-wrap:balance]">
                   <p
                     className={cn(
                       BODY_TEXT,
-                      "text-left text-[var(--fileon-body,#575757)] md:text-center",
+                      "text-left text-[var(--fileon-body,#614c49)] md:text-center",
                     )}
                   >
-                    Schedule a confidential consultation and receive experienced legal
-                    guidance tailored to your situation
+                    Agenda tu asesoría gratuita y descubre qué necesita tu negocio para operar y crecer con seguridad
+                    jurídica.
                   </p>
                 </div>
 
@@ -158,15 +105,15 @@ export function GuidanceSection() {
                 <div className="relative flex h-min w-full flex-none flex-col items-center justify-center gap-[60px] overflow-clip p-0">
                   {/* Text Wrapper — .framer-16ggogz */}
                   <Reveal className="relative h-auto w-auto flex-none" fromScale={0.7}>
-                    <div className="relative flex h-min w-min flex-none flex-row items-center justify-center gap-[14px] overflow-visible rounded-[40px] bg-[var(--fileon-bg-warm,#eeece6)] px-[10px] py-[5px] md:gap-[94px] md:py-[14px] md:pr-[20px] md:pl-[14px]">
+                    <div className="relative flex h-min w-min flex-none flex-row items-center justify-center gap-[14px] overflow-visible rounded-[24px] bg-[var(--fileon-brisa)] px-[10px] py-[5px] md:gap-[94px] md:py-[14px] md:pr-[20px] md:pl-[14px]">
                       {/* Title wrapper — .framer-r23w66 */}
                       <div className="relative flex h-min w-min flex-none flex-row items-center justify-start gap-[5px] overflow-visible p-0">
                         {/* Round — .framer-1jns2fs */}
-                        <div className="relative aspect-square h-auto w-[12px] flex-none overflow-visible rounded-[100px] bg-black" />
+                        <div className="relative aspect-square h-auto w-[12px] flex-none overflow-visible rounded-[100px] bg-[var(--fileon-coral)]" />
                         {/* Title — .framer-fgiepx */}
                         <div className="relative h-auto w-auto flex-none">
-                          <p className={cn(MONO_LABEL, "text-center whitespace-pre text-black")}>
-                            CASE FILE 024
+                          <p className={cn(MONO_LABEL, "text-center whitespace-pre text-[var(--fileon-cacao)]")}>
+                            CASO MEIKER 024
                           </p>
                         </div>
                       </div>
@@ -175,10 +122,10 @@ export function GuidanceSection() {
                         <p
                           className={cn(
                             MONO_LABEL,
-                            "text-center whitespace-pre text-[var(--fileon-body,#575757)]",
+                            "text-center whitespace-pre text-[var(--fileon-body,#614c49)]",
                           )}
                         >
-                          OPEN
+                          DISPONIBLE
                         </p>
                       </div>
                     </div>
@@ -200,7 +147,7 @@ export function GuidanceSection() {
               </div>
 
               {/* Card background — .framer-1ip0zlr */}
-              <div className="absolute top-0 left-0 z-[1] h-full w-full flex-none overflow-clip rounded-[10px]">
+              <div className="absolute top-0 left-0 z-[1] h-full w-full flex-none overflow-clip rounded-[32px]">
                 <div className="absolute inset-0 rounded-[inherit]">
                   <img
                     src={CARD_ONE_BACKGROUND}
@@ -213,7 +160,7 @@ export function GuidanceSection() {
 
             {/* Guidance Card 02 — .framer-1eg85v3 */}
             <Reveal className="w-full xl:w-px xl:flex-1 xl:shrink-0 xl:basis-0" fromScale={0.2}>
-              <div className="relative flex h-min w-full flex-none flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[10px] p-[20px] md:flex-row md:p-[50px] xl:max-w-[645px] xl:gap-[10px] xl:p-[30px]">
+            <div className="relative flex h-min w-full flex-none flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[32px] p-[20px] md:flex-row md:p-[50px] xl:max-w-[645px] xl:gap-[10px] xl:p-[30px]">
                 {/* Content Wrapper — .framer-1spep3 */}
                 <div className="relative z-[3] flex h-min w-full flex-none flex-col items-start justify-start gap-[60px] overflow-visible p-0 md:w-px md:flex-1 md:shrink-0 md:basis-0 md:gap-[120px] xl:gap-[290px]">
                   {/* Number & Short Description — .framer-177pfw3 */}
@@ -241,8 +188,7 @@ export function GuidanceSection() {
                     {/* Short Description — .framer-1dhrivo */}
                     <div className="relative h-auto w-full flex-none [text-wrap:balance]">
                       <p className={cn(BODY_TEXT, "text-left text-[var(--fileon-white,#ffffff)]")}>
-                        Matter Resolution Rate Focused on practical solutions and favorable
-                        outcomes.
+                        Tasa de resolución. Nos enfocamos en soluciones prácticas y resultados favorables.
                       </p>
                     </div>
                   </div>
@@ -254,7 +200,7 @@ export function GuidanceSection() {
                 </div>
 
                 {/* Card background — .framer-1gmpozz */}
-                <div className="absolute top-0 left-0 z-[1] h-full w-full flex-none overflow-clip rounded-[10px]">
+                <div className="absolute top-0 left-0 z-[1] h-full w-full flex-none overflow-clip rounded-[32px]">
                   <div className="absolute inset-0 rounded-[inherit]">
                     <img
                       src={CARD_TWO_BACKGROUND}
@@ -275,7 +221,7 @@ export function GuidanceSection() {
                     >
                       <path
                         d="M27.3132 0L0 40H263.317V0H27.3132Z"
-                        fill="var(--fileon-bg-warm,#eeece6)"
+                        fill="var(--fileon-bg,#fffaf4)"
                       />
                     </svg>
                   </div>

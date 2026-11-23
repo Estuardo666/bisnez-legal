@@ -1,15 +1,13 @@
 /* eslint-disable @next/next/no-img-element */
-import Link from "next/link";
-
 import { Reveal } from "@/components/sites/fileon-framer-website-846bcc9f/shared/Reveal";
+import { MotionArrowButton } from "@/components/sites/fileon-framer-website-846bcc9f/shared/MotionArrowButton";
 import { cn } from "@/lib/utils";
 
 const ASSETS = "/sites/fileon-framer-website-846bcc9f/root-8a5edab2/images";
 
-const ARROW_ICON = `${ASSETS}/SZd9EedUwnpfottuX47mDHqgqXQ.svg`;
 const CARD_DECOR = `${ASSETS}/zoNG0ibxoQksMZwzIIlEHHYDc.svg`;
-const CARD_BACKDROP = `${ASSETS}/K7uBCQ3LbwXzrWYQFm5zt3VusU.png`;
-const SIDE_IMAGE = `${ASSETS}/88hBRcmrYUi2R6q0IcPzDOWF0A.png`;
+const CARD_BACKDROP = "/meiker/images/founders.jpg";
+const SIDE_IMAGE = "/meiker/images/advisor-portrait.jpg";
 
 /** `.framer-styles-preset-n4ys0b` — Geist Mono 400, 14px / 150%, uppercase. */
 const EYEBROW_TEXT =
@@ -31,72 +29,9 @@ const CARD_TITLE_TEXT =
 const BODY_TEXT =
   "font-[family-name:var(--fileon-font-sans)] text-[16px] font-normal leading-[150%] tracking-[0em] text-left text-[var(--fileon-body)]";
 
-/** `.framer-styles-preset-1pwzd39` — Manrope 500, 16px / 150%, white. */
-const BUTTON_TEXT =
-  "font-[family-name:var(--fileon-font-sans)] text-[16px] font-medium leading-[150%] tracking-[0em] text-left text-[var(--fileon-white)] whitespace-pre";
-
-/**
- * The CSS dump encodes the button's label/icon swap as instant `position` swaps
- * (Framer tweens them from JS, so no duration/easing survives into the stylesheet).
- * They are re-expressed here as transforms so they can actually animate — same
- * timing the sibling sections use.
- */
-const HOVER_MOTION = "transition-transform duration-[400ms] ease-[cubic-bezier(0.44,0,0.56,1)]";
-
 /** `.framer-1r2Ll.framer-1vlt3ha` — pill CTA whose label and arrow swap places on hover. */
 function ViewPricingButton() {
-  return (
-    // name="Secondary Button 01" .framer-1vlt3ha
-    <Link
-      href="/#pricing"
-      className="group relative flex h-min w-min cursor-pointer flex-none flex-row items-center justify-center gap-[14px] overflow-hidden rounded-[50px] bg-[var(--fileon-ink)] py-[6px] pr-[6px] pl-[24px] no-underline"
-    >
-      {/* name="Title Wrapper" .framer-176aqmi (overflow hidden, one line tall) */}
-      <div className="relative flex h-[24px] w-min flex-none flex-col items-start justify-start overflow-hidden">
-        {/* .framer-yu6vuw (parked above) and .framer-1h58870 trade places on hover */}
-        <div className={cn("flex flex-col -translate-y-[24px] group-hover:translate-y-0", HOVER_MOTION)}>
-          <p className={cn(BUTTON_TEXT, "h-[24px]")}>View pricing</p>
-          <p className={cn(BUTTON_TEXT, "h-[24px]")}>View pricing</p>
-        </div>
-      </div>
-
-      {/* name="Icon Wrapper" .framer-1d5hfen */}
-      <div className="relative flex aspect-[1] h-[35px] w-[35px] flex-none flex-col items-center justify-center gap-[10px] overflow-hidden rounded-[100px] bg-[var(--fileon-white)]">
-        <div className="relative aspect-[1] h-[18px] w-[18px] flex-none">
-          {/* name="Icon" .framer-dswrox — parked bottom-left, slides in on hover */}
-          <span
-            className={cn(
-              "absolute inset-0 block -translate-x-[20px] translate-y-[20px] group-hover:translate-x-0 group-hover:translate-y-0",
-              HOVER_MOTION,
-            )}
-          >
-            <img
-              src={ARROW_ICON}
-              alt="Icon"
-              width={18}
-              height={18}
-              className="block h-full w-full object-contain object-center"
-            />
-          </span>
-          {/* name="Icon" .framer-13sriid — resting arrow, exits top-right on hover */}
-          <span
-            className={cn(
-              "absolute inset-0 block group-hover:translate-x-[20px] group-hover:-translate-y-[20px]",
-              HOVER_MOTION,
-            )}
-          >
-            <img
-              src={ARROW_ICON}
-              alt="Icon"
-              width={18}
-              height={18}
-              className="block h-full w-full object-contain object-center"
-            />
-          </span>
-        </div>
-      </div>
-    </Link>
-  );
+  return <MotionArrowButton href="/#pricing" variant="coral">Ver servicios</MotionArrowButton>;
 }
 
 export function ExpertiseSection() {
@@ -105,7 +40,7 @@ export function ExpertiseSection() {
     <section
       className={cn(
         "relative flex w-full flex-none flex-col items-center justify-start gap-[10px] overflow-hidden",
-        "bg-[var(--fileon-bg-warm)]",
+        "bg-[var(--fileon-bg)]",
         "px-[20px] pt-[80px] pb-[40px]",
         "md:px-[30px] md:pt-[100px] md:pb-[50px]",
         "xl:pt-[130px] xl:pb-[65px]",
@@ -131,7 +66,7 @@ export function ExpertiseSection() {
             {/* name="Title & Button Wrapper" .framer-m1z951 */}
             <div
               className={cn(
-                "relative flex h-min w-full flex-none flex-col items-start justify-start overflow-visible rounded-[10px] bg-[var(--fileon-white)]",
+                "relative flex h-min w-full flex-none flex-col items-start justify-start overflow-visible rounded-[32px] bg-[var(--fileon-white)]",
                 "gap-[30px] p-[20px]",
                 "md:gap-[40px] md:p-[30px]",
                 "xl:gap-[125px]",
@@ -144,10 +79,10 @@ export function ExpertiseSection() {
                   {/* name="Section Title 01" .framer-1gnz6fr */}
                   <div className="relative flex h-min w-min flex-none flex-row items-center justify-start gap-[10px]">
                     {/* name="Icon" .framer-18gvpqs */}
-                    <div className="relative h-[10px] w-[10px] flex-none overflow-hidden bg-[var(--fileon-ink)]" />
+                    <div className="relative h-[10px] w-[10px] flex-none overflow-hidden bg-[var(--fileon-coral)]" />
                     {/* name="Title" .framer-uioks9 */}
                     <div className="relative h-auto w-auto flex-none">
-                      <p className={cn(EYEBROW_TEXT, "text-[#000000]")}>Why choose us</p>
+                      <p className={cn(EYEBROW_TEXT, "text-[var(--fileon-cacao)]")}>por qué elegir Meiker</p>
                     </div>
                   </div>
                 </Reveal>
@@ -156,16 +91,16 @@ export function ExpertiseSection() {
                 <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] md:gap-[15px] xl:gap-[24px]">
                   {/* name="Title " .framer-sldt6v */}
                   <div className="relative h-auto w-full flex-none [text-wrap:balance]">
-                    <h2 className={cn(H2_TEXT, "text-[var(--fileon-ink)]")}>
-                      Your Trusted Legal Partners{" "}
-                      <span className="text-[var(--fileon-black-50)]">Always</span>
+                    <h2 className={cn(H2_TEXT, "text-[var(--fileon-heading)]")}>
+                      Entendemos la estrategia legal detrás de tu marca,{" "}
+                      <span className="text-[var(--fileon-black-50)]">no solo ingresamos un trámite</span>
                     </h2>
                   </div>
                   {/* name="Short Description" .framer-1gpszmk */}
                   <div className="relative h-auto w-full flex-none [text-wrap:balance]">
                     <p className={BODY_TEXT}>
-                      We treat every case as a turning point, not just a file. From first consultation to final outcome,
-                      we provide clear guidance and strong strategy
+                      Tratamos cada asunto como una decisión importante para tu negocio. Desde la primera consulta
+                      hasta el resultado, te damos claridad, estrategia y acompañamiento.
                     </p>
                   </div>
                 </div>
@@ -180,7 +115,7 @@ export function ExpertiseSection() {
             {/* name="Expertise Card Wrapper" .framer-1rkb943 */}
             <div
               className={cn(
-                "relative flex h-min w-full flex-none flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[10px] p-[30px]",
+                "relative flex h-min w-full flex-none flex-col items-center justify-center gap-[20px] overflow-hidden rounded-[32px] p-[30px]",
                 "md:flex-row",
                 "xl:gap-[10px]",
               )}
@@ -189,23 +124,23 @@ export function ExpertiseSection() {
               <Reveal
                 fromScale={0.92}
                 className={cn(
-                  "relative z-[3] flex h-min w-full flex-none flex-col items-start justify-start gap-[50px] overflow-visible rounded-[10px] bg-[var(--fileon-white)] p-[20px]",
+                  "relative z-[3] flex h-min w-full flex-none flex-col items-start justify-start gap-[50px] overflow-visible rounded-[32px] bg-[var(--fileon-white)] p-[20px]",
                   "md:w-px md:flex-1 md:basis-0 md:gap-[76px] md:p-[25px]",
                 )}
               >
                 {/* name="Number" .framer-zjgoiq */}
                 <div className="relative h-auto w-full flex-none [word-break:break-word] whitespace-pre-wrap [overflow-wrap:break-word]">
-                  <h4 className={cn(H4_TEXT, "text-left text-[#000000]")}>$24.8M</h4>
+                  <h4 className={cn(H4_TEXT, "text-left text-[var(--fileon-heading)]")}>+150</h4>
                 </div>
                 {/* name="Title Wrapper" .framer-qwp3ld */}
                 <div className="relative flex h-min w-full flex-none flex-col items-start justify-start gap-[5px]">
                   {/* name="Title" .framer-a78gi5 */}
                   <div className="relative h-auto w-full flex-none [word-break:break-word] whitespace-pre-wrap [overflow-wrap:break-word]">
-                    <p className={cn(CARD_TITLE_TEXT, "text-left text-[#000000]")}>Value Recovered</p>
+                  <p className={cn(CARD_TITLE_TEXT, "text-left text-[var(--fileon-cacao)]")}>Marcas registradas</p>
                   </div>
                   {/* name="Short Description" .framer-ek62vz */}
                   <div className="relative h-auto w-full flex-none [text-wrap:balance]">
-                    <p className={BODY_TEXT}>Total compensation secured through successful cases</p>
+                    <p className={BODY_TEXT}>Marcas y negocios acompañados por Meiker</p>
                   </div>
                 </div>
               </Reveal>
@@ -215,7 +150,7 @@ export function ExpertiseSection() {
                 fromScale={0.92}
                 delay={120}
                 className={cn(
-                  "relative z-[3] flex h-min w-full flex-none flex-col items-center justify-start gap-[75px] overflow-visible rounded-[10px] bg-[var(--fileon-white)] px-[20px] pt-[100px] pb-[20px]",
+                  "relative z-[3] flex h-min w-full flex-none flex-col items-center justify-start gap-[75px] overflow-visible rounded-[32px] bg-[var(--fileon-white)] px-[20px] pt-[100px] pb-[20px]",
                   "md:w-px md:flex-1 md:basis-0 md:gap-[76px] md:px-[25px] md:pt-[116px] md:pb-[25px]",
                 )}
               >
@@ -223,11 +158,11 @@ export function ExpertiseSection() {
                 <div className="relative z-[5] flex h-min w-full flex-none flex-col items-center justify-center gap-[20px] md:gap-[38px]">
                   {/* name="Number" .framer-1c83sex */}
                   <div className="relative h-auto w-full flex-none [word-break:break-word] whitespace-pre-wrap [overflow-wrap:break-word]">
-                    <h4 className={cn(H4_TEXT, "text-center text-[#000000]")}>10k+</h4>
+                    <h4 className={cn(H4_TEXT, "text-center text-[var(--fileon-heading)]")}>100%</h4>
                   </div>
                   {/* name="Title" .framer-om4hjl */}
                   <div className="relative h-auto w-full flex-none [word-break:break-word] whitespace-pre-wrap [overflow-wrap:break-word]">
-                    <p className={cn(CARD_TITLE_TEXT, "text-center text-[#000000]")}>Active clients</p>
+                    <p className={cn(CARD_TITLE_TEXT, "text-center text-[var(--fileon-cacao)]")}>Procesos claros</p>
                   </div>
                 </div>
 
@@ -245,7 +180,7 @@ export function ExpertiseSection() {
               </Reveal>
 
               {/* .framer-1sfp1uo — photographic backdrop behind both cards */}
-              <div className="absolute top-0 left-0 z-[1] h-full w-full flex-none overflow-hidden rounded-[10px]">
+              <div className="absolute top-0 left-0 z-[1] h-full w-full flex-none overflow-hidden rounded-[32px]">
                 <span className="absolute inset-0 rounded-[inherit]">
                   <img
                     src={CARD_BACKDROP}
@@ -261,13 +196,13 @@ export function ExpertiseSection() {
           {/* name="Image Wrapper" .framer-1h30b3z */}
           <div
             className={cn(
-              "relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] overflow-hidden rounded-[10px]",
+              "relative flex h-min w-full flex-none flex-col items-start justify-start gap-[10px] overflow-hidden rounded-[32px]",
               "xl:w-px xl:flex-1 xl:basis-0",
             )}
           >
             {/* .framer-1g1ikih */}
             <Reveal fromScale={1.25} delay={120} className="w-full">
-              <div className="relative aspect-[1.16667] h-auto w-full flex-none overflow-hidden rounded-[10px] md:aspect-[1.5] xl:aspect-auto xl:h-[795px]">
+              <div className="relative aspect-[1.16667] h-auto w-full flex-none overflow-hidden rounded-[32px] md:aspect-[1.5] xl:aspect-auto xl:h-[795px]">
                 <span className="absolute inset-0 rounded-[inherit]">
                   <img
                     src={SIDE_IMAGE}

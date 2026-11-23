@@ -1,0 +1,11 @@
+.chrome*/
+.edge*/
+edge-shot.png
+screenshot-test*.png
+chrome-test.pdf
+
+# Never upload secrets or work files
+.env*
+docs/
+scripts/
+.claude/

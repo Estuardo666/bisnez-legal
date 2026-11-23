@@ -1,0 +1,106 @@
+<section name="Hero Section" .framer-1r9gta0>
+  <div name="Container" .framer-1ai8l3r>
+    <div name="Content" .framer-17l4w27>
+      <div name="Text &amp; Button Wrapper" .framer-pkqjjz>
+        <div name="Text &amp; Short Description" .framer-czzf3s>
+          <div name="Icon &amp; Text Wrapper" .framer-secfu9>
+            <div>
+              <div name="Icon" .framer-ynliqq>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/iB8AIgN4g8VTFqSdS9MqIgbF0ps.svg?width=25&amp;height=25" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <div name="Text" .framer-iwg7ya style="transform:none">
+              <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                » 4.9/5 Average Client Rating
+          <div>
+            <div name="Short Description" .framer-168booa style="transform:none">
+              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » Providing
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » strategic
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » legal
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » counsel
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » and
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » representation
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » for
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » businesses,
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » organizations,
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » and
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » individuals
+          <div>
+            <div name="Short Description" .framer-168booa style="transform:none">
+              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                » Providing strategic legal counsel and representation for businesses, organizations, and individuals
+        » !--$-->
+        <div>
+          <div .framer-13mebrk-container style="will-change:transform;opacity:0;transform:translateY(24px) scale(0.8)">
+            » !--$-->
+            <a name="Primary Button 01" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-1vlt3ha.framer-6jvsg7 href="./contact" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+              <div name="Title Wrapper" .framer-176aqmi>
+                <div name="Title" .framer-yu6vuw style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                    » Book free consultaion
+                <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                    » Book free consultaion
+              <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                <div name="Icon" .framer-dswrox>
+                  <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                    <img src="https://framerusercontent.com/images/EYDLAZGki3fWmXGqR28GepT0H40.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Icon" .framer-13sriid>
+                  <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                    <img src="https://framerusercontent.com/images/EYDLAZGki3fWmXGqR28GepT0H40.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            » !--/$-->
+        <div>
+          <div .framer-13mebrk-container style="opacity:1;transform:none">
+            » !--$-->
+            <a name="Primary Button 02" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-mpuqe.framer-6jvsg7 href="./contact" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+              <div name="Title Wrapper" .framer-176aqmi>
+                <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                    » Book free consultaion
+              <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                <div name="Icon" .framer-13sriid>
+                  <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                    <img src="https://framerusercontent.com/images/EYDLAZGki3fWmXGqR28GepT0H40.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            » !--/$-->
+        » !--/$-->
+      <div>
+        <div name="Title &amp; Icon Wrapper" .framer-qqqjou style="will-change:transform;opacity:0.6;transform:scale(0.4)">
+          <div name="Title" .framer-1amm0pi style="transform:none">
+            <p .framer-styles-preset-15wn7d style="--framer-text-alignment:left;--framer-text-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+              » Rights
+          <div name="Icon" .framer-vk337o>
+            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+              <img src="https://framerusercontent.com/images/1nSGlc9BFW8GOnDZlHhuYvggB5Q.svg?width=200&amp;height=200" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+      <div>
+        <div name="Title &amp; Icon Wrapper" .framer-qqqjou style="opacity:1;transform:none">
+          <div name="Title" .framer-1amm0pi style="transform:none">
+            <p .framer-styles-preset-15wn7d style="--framer-text-alignment:left;--framer-text-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+              » Rights
+          <div name="Icon" .framer-vk337o>
+            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+              <img src="https://framerusercontent.com/images/1nSGlc9BFW8GOnDZlHhuYvggB5Q.svg?width=200&amp;height=200" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+  <div>
+    <div .framer-e2ufmy style="will-change:transform;opacity:1;transform:perspective(1200px) scale(1.25)">
+      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+        <img src="https://framerusercontent.com/images/ekQrJGgkG0Af5PGzyISVjhyzbM.png?width=3000&amp;height=1850" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+  <div>
+    <div .framer-e2ufmy style="opacity:1;transform:none">
+      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+        <img src="https://framerusercontent.com/images/ekQrJGgkG0Af5PGzyISVjhyzbM.png?width=3000&amp;height=1850" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+  <div name="Linear" .framer-1px8044>
+  <div name="Vector " .framer-17bv7vd style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230)) /* {&quot;name&quot;:&quot;Section background&quot;} */;color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230)) /* {&quot;name&quot;:&quot;Section background&quot;} */">
+    <div style="width:100%;height:100%;aspect-ratio:inherit">
+      <svg style="width:100%;height:100%;">
+          [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 266 42"><use href="#svg-861746129_169"/></svg>
+        <use href="#svg-861746129_169">

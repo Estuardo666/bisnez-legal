@@ -1,0 +1,13 @@
+<section name="Video Section" .framer-1bnzmru>
+  <div name="Container" .framer-48a5oi>
+    <div name="Content" .framer-1kv82k5>
+      <div>
+        <div .framer-dotorp-container style="will-change:transform;opacity:0.6;transform:scale(0.4)">
+          » !--$-->
+          <video src="https://framerusercontent.com/assets/Aa9VhrfiSGs0BMTmIIWVUTVY.mp4" style="cursor:auto;width:100%;height:100%;border-radius:0px;display:block;object-fit:cover;background-color:rgba(0, 0, 0, 0);object-position:50% 50%">
+          » !--/$-->
+      <div>
+        <div .framer-dotorp-container style="opacity:1;transform:none">
+          » !--$-->
+          <video src="https://framerusercontent.com/assets/Aa9VhrfiSGs0BMTmIIWVUTVY.mp4" style="cursor:auto;width:100%;height:100%;border-radius:0px;display:block;object-fit:cover;background-color:rgba(0, 0, 0, 0);object-position:50% 50%">
+          » !--/$-->

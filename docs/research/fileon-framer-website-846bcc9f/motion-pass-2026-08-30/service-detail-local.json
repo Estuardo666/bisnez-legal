@@ -1,0 +1,3448 @@
+{
+  "url": "http://localhost:3001/services/corporate-legal-advisory-copy-4",
+  "records": [
+    {
+      "label": "t0",
+      "scrollY": 0,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContacto←",
+          "className": "relative z-20 bg-[var(--fileon-bg)] px-5 py-5 md:px-10 xl:px-[70px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 74
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "",
+          "rect": {
+            "x": 70,
+            "y": 20,
+            "width": 34,
+            "height": 34
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Detalle del servicioRegistro de marcaProtegemos el nombre, el logotipo y la identidad de tu negocio mediante un proceso claro ante el SENADI.Agendar asesoría↗+150↗Marcas registrada",
+          "className": "mx-auto grid max-w-[1300px] gap-3 lg:grid-cols-2",
+          "rect": {
+            "x": 70,
+            "y": 74,
+            "width": 1300,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Registro de marca",
+          "className": "mt-6 max-w-[590px] text-[40px] font-medium leading-[1.15] tracking-[-0.055em] md:text-[52px] lg:text-[64px] lg:leading-[1.15]",
+          "rect": {
+            "x": 105,
+            "y": 149.5,
+            "width": 574,
+            "height": 73.59375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "64px",
+          "lineHeight": "73.6px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 726,
+            "y": 74,
+            "width": 644,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Tu marca es un activo del negocio",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Búsqueda y análisis de viabilidadAntes de presentar la solicitud revisamos antecedentes y posibles similitudes que puedan generar observaciones u oposiciones. Este análisis permite",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Búsqueda y análisis de viabilidad",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Solicitud y gestión ante el SENADIPreparamos la documentación, presentamos la solicitud y damos seguimiento al expediente. Si la autoridad requiere información adicional, te explic",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Solicitud y gestión ante el SENADI",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": 1360.359375,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 2616.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "0",
+            "transform": "matrix(1, 0, 0, 1, 0, 12)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 0,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t120",
+      "scrollY": 0,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContacto←",
+          "className": "relative z-20 bg-[var(--fileon-bg)] px-5 py-5 md:px-10 xl:px-[70px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 74
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "",
+          "rect": {
+            "x": 70,
+            "y": 20,
+            "width": 34,
+            "height": 34
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Detalle del servicioRegistro de marcaProtegemos el nombre, el logotipo y la identidad de tu negocio mediante un proceso claro ante el SENADI.Agendar asesoría↗+150↗Marcas registrada",
+          "className": "mx-auto grid max-w-[1300px] gap-3 lg:grid-cols-2",
+          "rect": {
+            "x": 70,
+            "y": 74,
+            "width": 1300,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Registro de marca",
+          "className": "mt-6 max-w-[590px] text-[40px] font-medium leading-[1.15] tracking-[-0.055em] md:text-[52px] lg:text-[64px] lg:leading-[1.15]",
+          "rect": {
+            "x": 105,
+            "y": 149.5,
+            "width": 574,
+            "height": 73.59375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "64px",
+          "lineHeight": "73.6px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 726,
+            "y": 74,
+            "width": 644,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Tu marca es un activo del negocio",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Búsqueda y análisis de viabilidadAntes de presentar la solicitud revisamos antecedentes y posibles similitudes que puedan generar observaciones u oposiciones. Este análisis permite",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Búsqueda y análisis de viabilidad",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Solicitud y gestión ante el SENADIPreparamos la documentación, presentamos la solicitud y damos seguimiento al expediente. Si la autoridad requiere información adicional, te explic",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Solicitud y gestión ante el SENADI",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": 1360.359375,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 2606.097412109375,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "0.881209",
+            "transform": "matrix(1, 0, 0, 1, 0, 1.4255)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "running",
+          "currentTime": 499.9930000000057,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t360",
+      "scrollY": 0,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContacto←",
+          "className": "relative z-20 bg-[var(--fileon-bg)] px-5 py-5 md:px-10 xl:px-[70px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 74
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "",
+          "rect": {
+            "x": 70,
+            "y": 20,
+            "width": 34,
+            "height": 34
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Detalle del servicioRegistro de marcaProtegemos el nombre, el logotipo y la identidad de tu negocio mediante un proceso claro ante el SENADI.Agendar asesoría↗+150↗Marcas registrada",
+          "className": "mx-auto grid max-w-[1300px] gap-3 lg:grid-cols-2",
+          "rect": {
+            "x": 70,
+            "y": 74,
+            "width": 1300,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Registro de marca",
+          "className": "mt-6 max-w-[590px] text-[40px] font-medium leading-[1.15] tracking-[-0.055em] md:text-[52px] lg:text-[64px] lg:leading-[1.15]",
+          "rect": {
+            "x": 105,
+            "y": 149.5,
+            "width": 574,
+            "height": 73.59375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "64px",
+          "lineHeight": "73.6px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 726,
+            "y": 74,
+            "width": 644,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Tu marca es un activo del negocio",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Búsqueda y análisis de viabilidadAntes de presentar la solicitud revisamos antecedentes y posibles similitudes que puedan generar observaciones u oposiciones. Este análisis permite",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Búsqueda y análisis de viabilidad",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Solicitud y gestión ante el SENADIPreparamos la documentación, presentamos la solicitud y damos seguimiento al expediente. Si la autoridad requiere información adicional, te explic",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Solicitud y gestión ante el SENADI",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": 1360.359375,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 2604.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t900",
+      "scrollY": 0,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContacto←",
+          "className": "relative z-20 bg-[var(--fileon-bg)] px-5 py-5 md:px-10 xl:px-[70px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 74
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "",
+          "rect": {
+            "x": 70,
+            "y": 20,
+            "width": 34,
+            "height": 34
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Detalle del servicioRegistro de marcaProtegemos el nombre, el logotipo y la identidad de tu negocio mediante un proceso claro ante el SENADI.Agendar asesoría↗+150↗Marcas registrada",
+          "className": "mx-auto grid max-w-[1300px] gap-3 lg:grid-cols-2",
+          "rect": {
+            "x": 70,
+            "y": 74,
+            "width": 1300,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Registro de marca",
+          "className": "mt-6 max-w-[590px] text-[40px] font-medium leading-[1.15] tracking-[-0.055em] md:text-[52px] lg:text-[64px] lg:leading-[1.15]",
+          "rect": {
+            "x": 105,
+            "y": 149.5,
+            "width": 574,
+            "height": 73.59375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "64px",
+          "lineHeight": "73.6px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 726,
+            "y": 74,
+            "width": 644,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Tu marca es un activo del negocio",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Búsqueda y análisis de viabilidadAntes de presentar la solicitud revisamos antecedentes y posibles similitudes que puedan generar observaciones u oposiciones. Este análisis permite",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Búsqueda y análisis de viabilidad",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Solicitud y gestión ante el SENADIPreparamos la documentación, presentamos la solicitud y damos seguimiento al expediente. Si la autoridad requiere información adicional, te explic",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Solicitud y gestión ante el SENADI",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": 1360.359375,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 2604.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "t1800",
+      "scrollY": 0,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "header",
+          "text": "meikerlegalInicioNosotrosServiciosContacto←",
+          "className": "relative z-20 bg-[var(--fileon-bg)] px-5 py-5 md:px-10 xl:px-[70px]",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 74
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "relative",
+          "top": "0px",
+          "background": "rgb(255, 250, 244)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "",
+          "rect": {
+            "x": 70,
+            "y": 20,
+            "width": 34,
+            "height": 34
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Detalle del servicioRegistro de marcaProtegemos el nombre, el logotipo y la identidad de tu negocio mediante un proceso claro ante el SENADI.Agendar asesoría↗+150↗Marcas registrada",
+          "className": "mx-auto grid max-w-[1300px] gap-3 lg:grid-cols-2",
+          "rect": {
+            "x": 70,
+            "y": 74,
+            "width": 1300,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h1",
+          "text": "Registro de marca",
+          "className": "mt-6 max-w-[590px] text-[40px] font-medium leading-[1.15] tracking-[-0.055em] md:text-[52px] lg:text-[64px] lg:leading-[1.15]",
+          "rect": {
+            "x": 105,
+            "y": 149.5,
+            "width": 574,
+            "height": 73.59375
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "64px",
+          "lineHeight": "73.6px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 726,
+            "y": 74,
+            "width": 644,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Tu marca es un activo del negocio",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 902,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Búsqueda y análisis de viabilidadAntes de presentar la solicitud revisamos antecedentes y posibles similitudes que puedan generar observaciones u oposiciones. Este análisis permite",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Búsqueda y análisis de viabilidad",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1045.453125,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Solicitud y gestión ante el SENADIPreparamos la documentación, presentamos la solicitud y damos seguimiento al expediente. Si la autoridad requiere información adicional, te explic",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Solicitud y gestión ante el SENADI",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1188.90625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": 1360.359375,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 2604.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-500-early",
+      "scrollY": 500,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Detalle del servicioRegistro de marcaProtegemos el nombre, el logotipo y la identidad de tu negocio mediante un proceso claro ante el SENADI.Agendar asesoría↗+150↗Marcas registrada",
+          "className": "mx-auto grid max-w-[1300px] gap-3 lg:grid-cols-2",
+          "rect": {
+            "x": 70,
+            "y": -426,
+            "width": 1300,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 726,
+            "y": -426,
+            "width": 644,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": 402,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 402,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Tu marca es un activo del negocio",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 402,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Búsqueda y análisis de viabilidadAntes de presentar la solicitud revisamos antecedentes y posibles similitudes que puedan generar observaciones u oposiciones. Este análisis permite",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 545.453125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Búsqueda y análisis de viabilidad",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 545.453125,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Solicitud y gestión ante el SENADIPreparamos la documentación, presentamos la solicitud y damos seguimiento al expediente. Si la autoridad requiere información adicional, te explic",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 688.90625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Solicitud y gestión ante el SENADI",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 688.90625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": 860.359375,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Seguimiento claro durante todo el procesoTe mantenemos al tanto de los avances importantes y de cualquier novedad que requiera una decisión. Nuestro objetivo es que conozcas el est",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1453.765625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Seguimiento claro durante todo el proceso",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1453.765625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 2104.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-500-settled",
+      "scrollY": 500,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "section",
+          "text": "Detalle del servicioRegistro de marcaProtegemos el nombre, el logotipo y la identidad de tu negocio mediante un proceso claro ante el SENADI.Agendar asesoría↗+150↗Marcas registrada",
+          "className": "mx-auto grid max-w-[1300px] gap-3 lg:grid-cols-2",
+          "rect": {
+            "x": 70,
+            "y": -426,
+            "width": 1300,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 726,
+            "y": -426,
+            "width": 644,
+            "height": 700
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": 402,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 402,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Tu marca es un activo del negocio",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 402,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Búsqueda y análisis de viabilidadAntes de presentar la solicitud revisamos antecedentes y posibles similitudes que puedan generar observaciones u oposiciones. Este análisis permite",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 545.453125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Búsqueda y análisis de viabilidad",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 545.453125,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Solicitud y gestión ante el SENADIPreparamos la documentación, presentamos la solicitud y damos seguimiento al expediente. Si la autoridad requiere información adicional, te explic",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 688.90625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Solicitud y gestión ante el SENADI",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 688.90625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": 860.359375,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Seguimiento claro durante todo el procesoTe mantenemos al tanto de los avances importantes y de cualquier novedad que requiera una decisión. Nuestro objetivo es que conozcas el est",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1453.765625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Seguimiento claro durante todo el proceso",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1453.765625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 2104.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-900-early",
+      "scrollY": 900,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": 2,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 2,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Tu marca es un activo del negocio",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 2,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Búsqueda y análisis de viabilidadAntes de presentar la solicitud revisamos antecedentes y posibles similitudes que puedan generar observaciones u oposiciones. Este análisis permite",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 145.453125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Búsqueda y análisis de viabilidad",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 145.453125,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Solicitud y gestión ante el SENADIPreparamos la documentación, presentamos la solicitud y damos seguimiento al expediente. Si la autoridad requiere información adicional, te explic",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 288.90625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Solicitud y gestión ante el SENADI",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 288.90625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": 460.359375,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Seguimiento claro durante todo el procesoTe mantenemos al tanto de los avances importantes y de cualquier novedad que requiera una decisión. Nuestro objetivo es que conozcas el est",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1053.765625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Seguimiento claro durante todo el proceso",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1053.765625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Protección que puede crecer contigoUna marca registrada tiene una vigencia de diez años y puede renovarse. A medida que tu empresa evoluciona, también podemos ayudarte con vigilanc",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1197.21875,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Protección que puede crecer contigo",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1197.21875,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 1704.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-900-settled",
+      "scrollY": 900,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": 2,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 2,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Tu marca es un activo del negocio",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 2,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Búsqueda y análisis de viabilidadAntes de presentar la solicitud revisamos antecedentes y posibles similitudes que puedan generar observaciones u oposiciones. Este análisis permite",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 145.453125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Búsqueda y análisis de viabilidad",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 145.453125,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Solicitud y gestión ante el SENADIPreparamos la documentación, presentamos la solicitud y damos seguimiento al expediente. Si la autoridad requiere información adicional, te explic",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 288.90625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Solicitud y gestión ante el SENADI",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 288.90625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": 460.359375,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Seguimiento claro durante todo el procesoTe mantenemos al tanto de los avances importantes y de cualquier novedad que requiera una decisión. Nuestro objetivo es que conozcas el est",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1053.765625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Seguimiento claro durante todo el proceso",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1053.765625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Protección que puede crecer contigoUna marca registrada tiene una vigencia de diez años y puede renovarse. A medida que tu empresa evoluciona, también podemos ayudarte con vigilanc",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 1197.21875,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Protección que puede crecer contigo",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 1197.21875,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 1704.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-1400-early",
+      "scrollY": 1400,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": -498,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": -39.640625,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Seguimiento claro durante todo el procesoTe mantenemos al tanto de los avances importantes y de cualquier novedad que requiera una decisión. Nuestro objetivo es que conozcas el est",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 553.765625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Seguimiento claro durante todo el proceso",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 553.765625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Protección que puede crecer contigoUna marca registrada tiene una vigencia de diez años y puede renovarse. A medida que tu empresa evoluciona, también podemos ayudarte con vigilanc",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 697.21875,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Protección que puede crecer contigo",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 697.21875,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 1204.671875,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 1204.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-1400-settled",
+      "scrollY": 1400,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": -498,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "object-cover",
+          "rect": {
+            "x": 180,
+            "y": -39.640625,
+            "width": 1080,
+            "height": 529.40625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "absolute",
+          "top": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Seguimiento claro durante todo el procesoTe mantenemos al tanto de los avances importantes y de cualquier novedad que requiera una decisión. Nuestro objetivo es que conozcas el est",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 553.765625,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Seguimiento claro durante todo el proceso",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 553.765625,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "section",
+          "text": "Protección que puede crecer contigoUna marca registrada tiene una vigencia de diez años y puede renovarse. A medida que tu empresa evoluciona, también podemos ayudarte con vigilanc",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": 697.21875,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "Protección que puede crecer contigo",
+          "className": "text-[27px] font-medium leading-[1.2] tracking-[-0.035em]",
+          "rect": {
+            "x": 180,
+            "y": 697.21875,
+            "width": 1080,
+            "height": 32.390625
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "27px",
+          "lineHeight": "32.4px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 1204.671875,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 1204.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-2200-early",
+      "scrollY": 2200,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": -1298,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Protección que puede crecer contigoUna marca registrada tiene una vigencia de diez años y puede renovarse. A medida que tu empresa evoluciona, también podemos ayudarte con vigilanc",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": -102.78125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 404.671875,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 404.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-2200-settled",
+      "scrollY": 2200,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": -1298,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "section",
+          "text": "Protección que puede crecer contigoUna marca registrada tiene una vigencia de diez años y puede renovarse. A medida que tu empresa evoluciona, también podemos ayudarte con vigilanc",
+          "className": "mb-9",
+          "rect": {
+            "x": 180,
+            "y": -102.78125,
+            "width": 1080,
+            "height": 107.453125
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 404.671875,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 404.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-2278-early",
+      "scrollY": 2278,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": -1376,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 326.671875,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 326.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "scroll-2278-settled",
+      "scrollY": 2278,
+      "pageHeight": 3278,
+      "candidates": [
+        {
+          "tag": "article",
+          "text": "Tu marca es un activo del negocioRegistrar tu marca te permite construir valor con una identidad que realmente te pertenece. En Meiker acompañamos a emprendedores y empresas desde ",
+          "className": "mx-auto mt-20 max-w-[1080px] md:mt-28 xl:mt-32",
+          "rect": {
+            "x": 180,
+            "y": -1376,
+            "width": 1080,
+            "height": 1430.671875
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "img",
+          "text": "",
+          "className": "h-10 w-10",
+          "rect": {
+            "x": 70,
+            "y": 326.671875,
+            "width": 40,
+            "height": 40
+          },
+          "opacity": "1",
+          "transform": "none",
+          "clipPath": "none",
+          "position": "static",
+          "top": "auto",
+          "background": "rgba(0, 0, 0, 0)",
+          "fontSize": "16px",
+          "lineHeight": "24px"
+        }
+      ],
+      "animations": [
+        {
+          "target": {
+            "tag": "div",
+            "text": "meikerAbogados que sí saben de negocios. Protegemos tu marca y los activos que le dan valor a tu empresa.hola@meiker.legalExploraInicioNosotrosServiciosContactoEquipoSolucionesRegi",
+            "className": "animate-[meiker-fade-in_700ms_ease-out_both]",
+            "rect": {
+              "x": 70,
+              "y": 326.671875,
+              "width": 1300,
+              "height": 255.03125
+            },
+            "opacity": "1",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)",
+            "clipPath": "none",
+            "position": "static",
+            "top": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "lineHeight": "24px"
+          },
+          "playState": "finished",
+          "currentTime": 700,
+          "timing": {
+            "delay": 0,
+            "direction": "normal",
+            "duration": 700,
+            "easing": "linear",
+            "endDelay": 0,
+            "fill": "both",
+            "iterationStart": 0,
+            "iterations": 1
+          },
+          "keyframes": [
+            {
+              "offset": 0,
+              "opacity": "0",
+              "transform": "translateY(12px)",
+              "easing": "ease-out"
+            },
+            {
+              "offset": 1,
+              "opacity": "1",
+              "transform": "translateY(0px)",
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

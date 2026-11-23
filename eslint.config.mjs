@@ -12,6 +12,10 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Agent worktrees hold throwaway copies of the source tree.
+    ".claude/worktrees/**",
+    // Research capture scripts are one-off browser dumps, not app code.
+    "docs/research/**",
   ]),
 ]);
 

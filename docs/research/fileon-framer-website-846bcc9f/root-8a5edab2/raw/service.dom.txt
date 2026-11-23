@@ -1,0 +1,342 @@
+<section name="Service Section" .framer-ikil37>
+  <div name="Container" .framer-aqhzhd>
+    <div name="Content" .framer-155a8ec>
+      <div name="Title &amp; Button Wrapper" .framer-1o51td5>
+        <div name="Title Wrapper" .framer-17ctnff>
+          <div>
+            <div .framer-6u9j84-container style="will-change:transform;opacity:0;transform:translateX(-80px)">
+              <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+                <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                    » our services
+          <div>
+            <div .framer-6u9j84-container style="opacity:1;transform:none">
+              <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+                <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                    » our services
+          <div>
+            <div name="Title " .framer-1lcosrt style="transform:none">
+              <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » Experienced
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » Counsel
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » For
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                  » Critical
+                <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                  <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                    » Decisions
+          <div>
+            <div name="Title " .framer-1lcosrt style="transform:none">
+              <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                » Experienced Counsel For Critical
+                <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                  » Decisions
+        » !--$-->
+        <div>
+          <div .framer-sbjvti-container style="will-change:transform;opacity:0;transform:translateY(24px) scale(0.8)">
+            » !--$-->
+            <a name="Secondary Button 01" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-12ea8fe.framer-6jvsg7 href="./services" style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+              <div name="Title Wrapper" .framer-176aqmi>
+                <div name="Title" .framer-yu6vuw style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                    » All services
+                <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                    » All services
+              <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                <div name="Icon" .framer-dswrox>
+                  <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                    <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                <div name="Icon" .framer-13sriid>
+                  <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                    <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            » !--/$-->
+        <div>
+          <div .framer-sbjvti-container style="opacity:1;transform:none">
+            » !--$-->
+            <a name="Secondary Button 02" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-1p3mvgb.framer-6jvsg7 href="./services" style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+              <div name="Title Wrapper" .framer-176aqmi>
+                <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                  <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                    » All services
+              <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                <div name="Icon" .framer-13sriid>
+                  <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                    <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            » !--/$-->
+        » !--/$-->
+      <div name="Card Wrapper" .framer-m44lov>
+        <div .framer-11tvwl3>
+          » !--$-->
+          <div .framer-1fwn0km>
+            » !--$-->
+            <div>
+              <div .framer-13e1vi1-container style="will-change:transform;opacity:0;transform:translateY(70px)">
+                » !--$-->
+                <a name="Desktop Service Card 02" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-13qerki.framer-1ke8zdv href="./services/corporate-legal-advisory" style="background-color:var(--token-2994410f-e656-4942-8360-f0cae7bde7d3, rgb(247, 247, 242));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 01.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/kSZxPjbuz7uX9eNP9yMuitis.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Corporate Legal Advisory
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 01" .framer-1EOMP.framer-u2fmbh.framer-v-u2fmbh style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            <div>
+              <div .framer-13e1vi1-container style="opacity:1;transform:none">
+                » !--$-->
+                <a name="Phone Service Card" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-1clm7ew.framer-1ke8zdv href="./services/corporate-legal-advisory" style="background-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 01.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/kSZxPjbuz7uX9eNP9yMuitis.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Corporate Legal Advisory
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 02" .framer-1EOMP.framer-u2fmbh.framer-v-kf5sw0 style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            <div>
+              <div .framer-13e1vi1-container style="opacity:1;transform:none">
+                » !--$-->
+                <a name="Tablet Service Card" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-a61ylr.framer-1ke8zdv href="./services/corporate-legal-advisory" style="background-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 01.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/kSZxPjbuz7uX9eNP9yMuitis.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Corporate Legal Advisory
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 02" .framer-1EOMP.framer-u2fmbh.framer-v-kf5sw0 style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            » !--/$-->
+          <div .framer-1fwn0km>
+            » !--$-->
+            <div>
+              <div .framer-13e1vi1-container style="will-change:transform;opacity:0;transform:translateY(70px)">
+                » !--$-->
+                <a name="Desktop Service Card 02" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-13qerki.framer-1ke8zdv href="./services/employment-law-services" style="background-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 02.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/oqf1jpX2WEylAGtqU4zCaEBDX2g.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Employment Law Services
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 01" .framer-1EOMP.framer-u2fmbh.framer-v-u2fmbh style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            <div>
+              <div .framer-13e1vi1-container style="opacity:1;transform:none">
+                » !--$-->
+                <a name="Phone Service Card" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-1clm7ew.framer-1ke8zdv href="./services/employment-law-services" style="background-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 02.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/oqf1jpX2WEylAGtqU4zCaEBDX2g.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Employment Law Services
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 02" .framer-1EOMP.framer-u2fmbh.framer-v-kf5sw0 style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            <div>
+              <div .framer-13e1vi1-container style="opacity:1;transform:none">
+                » !--$-->
+                <a name="Tablet Service Card" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-a61ylr.framer-1ke8zdv href="./services/employment-law-services" style="background-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 02.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/oqf1jpX2WEylAGtqU4zCaEBDX2g.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Employment Law Services
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 02" .framer-1EOMP.framer-u2fmbh.framer-v-kf5sw0 style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            » !--/$-->
+          <div .framer-1fwn0km>
+            » !--$-->
+            <div>
+              <div .framer-13e1vi1-container style="will-change:transform;opacity:0;transform:translateY(70px)">
+                » !--$-->
+                <a name="Desktop Service Card 02" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-13qerki.framer-1ke8zdv href="./services/corporate-legal-advisory-copy-4" style="background-color:var(--token-9efb0e8f-7f86-4db2-ba44-9bd6b6344b43, rgb(228, 226, 220));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 03.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/vOwtLdLYHDQN05D1lD0ys3YnE.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Corporate Legal Advisory Copy 4
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 01" .framer-1EOMP.framer-u2fmbh.framer-v-u2fmbh style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            <div>
+              <div .framer-13e1vi1-container style="opacity:1;transform:none">
+                » !--$-->
+                <a name="Phone Service Card" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-1clm7ew.framer-1ke8zdv href="./services/corporate-legal-advisory-copy-4" style="background-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 03.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/vOwtLdLYHDQN05D1lD0ys3YnE.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Corporate Legal Advisory Copy 4
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 02" .framer-1EOMP.framer-u2fmbh.framer-v-kf5sw0 style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            <div>
+              <div .framer-13e1vi1-container style="opacity:1;transform:none">
+                » !--$-->
+                <a name="Tablet Service Card" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-a61ylr.framer-1ke8zdv href="./services/corporate-legal-advisory-copy-4" style="background-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 03.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/vOwtLdLYHDQN05D1lD0ys3YnE.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Corporate Legal Advisory Copy 4
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 02" .framer-1EOMP.framer-u2fmbh.framer-v-kf5sw0 style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            » !--/$-->
+          <div .framer-1fwn0km>
+            » !--$-->
+            <div>
+              <div .framer-13e1vi1-container style="will-change:transform;opacity:0;transform:translateY(70px)">
+                » !--$-->
+                <a name="Desktop Service Card 02" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-13qerki.framer-1ke8zdv href="./services/dispute-resolution-support" style="background-color:var(--token-2fe567bf-ab7f-4e3e-92bc-d5a7509e6f67, rgb(208, 206, 200));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 04.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/lX9i5KUe1EOeeADRLuyXNbIBbo.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Dispute Resolution Support
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 01" .framer-1EOMP.framer-u2fmbh.framer-v-u2fmbh style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            <div>
+              <div .framer-13e1vi1-container style="opacity:1;transform:none">
+                » !--$-->
+                <a name="Phone Service Card" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-1clm7ew.framer-1ke8zdv href="./services/dispute-resolution-support" style="background-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 04.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/lX9i5KUe1EOeeADRLuyXNbIBbo.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Dispute Resolution Support
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 02" .framer-1EOMP.framer-u2fmbh.framer-v-kf5sw0 style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            <div>
+              <div .framer-13e1vi1-container style="opacity:1;transform:none">
+                » !--$-->
+                <a name="Tablet Service Card" .framer-Nvm25.framer-wCAV8.framer-skHRN.framer-1bmj3q8.framer-v-a61ylr.framer-1ke8zdv href="./services/dispute-resolution-support" style="background-color:var(--token-beccef53-0b99-4616-be2a-abca28e3458f, rgb(238, 236, 230));width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                  <div name="Number" .framer-ohfb30 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » 04.
+                  <div name="Title &amp; Icon Wrapper" .framer-gqj0mz>
+                    <div name="Title &amp; Icon" .framer-tf79k2>
+                      <div name="Icon " .framer-1uqsbff>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/lX9i5KUe1EOeeADRLuyXNbIBbo.svg?width=45&amp;height=45" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <div name="Title" .framer-1j1oevh style="--extracted-1lwpl3i:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <h5 .framer-styles-preset-1lcxu9v style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1lwpl3i, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                          » Dispute Resolution Support
+                    <div .framer-11ne1q1-container>
+                      <div name="Icon 02" .framer-1EOMP.framer-u2fmbh.framer-v-kf5sw0 style="--border-bottom-width:1px;--border-color:var(--token-41dd3dff-4577-4eb8-965e-e44ed0603475, rgb(190, 190, 190));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radiu">
+                        <div name="Icon " .framer-1yk0gix>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/FIszeMQLivTjqTsp12DiTTrvDU.svg?width=29&amp;height=29" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                » !--/$-->
+            » !--/$-->
+          » !--/$-->

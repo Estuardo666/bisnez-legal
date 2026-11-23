@@ -1,0 +1,643 @@
+<footer name="Footer" .framer-1ds5rgd>
+  <div>
+    <div .framer-15d65kj-container>
+      <div>
+        <footer name="Desktop" .framer-YxtmQ.framer-nkSep.framer-EPYMF.framer-JWZBi.framer-c03et1.framer-v-c03et1 style="background-color:var(--token-a05ac567-0a7f-4b45-bd73-8562b89f9696, rgb(37, 35, 30));width:100%">
+          <div name="Container" .framer-zuie9h>
+            <div name="Content" .framer-1ne4ek3>
+              <div name="Content Wrappere" .framer-1ezr5ty>
+                <div name="Logo &amp; Menu Wrapper" .framer-2nznk>
+                  <div name="Logo &amp; Form Wrapper" .framer-1oassly style="will-change:transform;opacity:0;transform:translateY(60px)">
+                    <div name="Logo Wrapper" .framer-1wj8tu3>
+                      » !--$-->
+                      <a name="Logo" .framer-1n1dizr.framer-1m0x37x href="./">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/utKg9oPJRMxck3Dy2pvYHESR90.svg?width=153&amp;height=42" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                      <div name="Short Description" .framer-1v5quko style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                          » Providing trusted legal counsel built on integrity, experience, and lasting client relationships
+                    <form .framer-1uxegkr>
+                      <label .framer-36mzd9>
+                        <div .framer-hl3qok style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                            » email
+                        <div .framer-form-text-input.framer-form-input-wrapper.framer-ipz5mx style="--framer-input-background:var(--token-f4a60c84-9658-4eea-86b0-b16094542f1e, rgb(51, 51, 51));--framer-input-border-radius-bottom-left:45px;--framer-input-border-radius-bottom-right:45px;--framer-input-border-radius-top-left:45px;--framer-input-border-radius-top-right:45px;--framer-input-font-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-input-icon-mask-image:">
+                          <input .framer-form-input.framer-form-input-empty>
+                      <div .framer-1784zt-container style="will-change:transform;opacity:0;transform:translateY(-50%) translateY(24px) scale(0.8)">
+                        <button name="Submit 01" .framer-sfuKG.framer-asup8l.framer-v-asup8l style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px;opacity:1">
+                          <div name="Icon" .framer-1k76zbf style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                            <div name="Icon " .framer-1sny2l5>
+                              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                                <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                            <div name="Icon " .framer-1j3idy5>
+                              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                                <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                  <div name="Menu Wrapper" .framer-crmzxd style="will-change:transform;opacity:0;transform:translateY(60px)">
+                    <div name="Menu Wrapper 01" .framer-5uz67t style="--border-bottom-width:0px;--border-color:var(--token-fae7250e-111a-4c62-9d64-6f0d8f86ac0e, rgba(255, 255, 255, 0.1));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:0px">
+                      <div name="Title" .framer-5yckbm style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                          » main pages
+                      <div name="Menu Wrapper" .framer-80hdxl>
+                        » !--$-->
+                        <div .framer-heuo9n-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Home
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-fhjvm9-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./about">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » About
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-13ev2gh-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./services">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Services
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-1quywl7-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./services/corporate-legal-advisory">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Service details
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-16mne98-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./contact">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Contact
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                    <div name="Menu Wrapper 02" .framer-8jrm5g style="--border-bottom-width:0px;--border-color:var(--token-fae7250e-111a-4c62-9d64-6f0d8f86ac0e, rgba(255, 255, 255, 0.1));--border-left-width:0px;--border-right-width:1px;--border-style:solid;--border-top-width:0px">
+                      <div name="Title" .framer-prahfp style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                          » More pages
+                      <div name="Menu Wrapper" .framer-15cvtr5>
+                        » !--$-->
+                        <div .framer-1jcw3pk-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./blogs">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Blogs
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-1l32r6p-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./blogs/understanding-contract-risks-before-signing-agreements">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Blog details
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-1cwbm1a-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./case-studies">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Case studies
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-67dohq-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./case-studies/corporate-dispute">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Case details
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-2z5iqd-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./teams">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Teams
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                    <div name="Menu Wrapper 03" .framer-mlew4b style="--border-bottom-width:0px;--border-color:var(--token-fae7250e-111a-4c62-9d64-6f0d8f86ac0e, rgba(255, 255, 255, 0.1));--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px">
+                      <div name="Title" .framer-zlzy6p style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                          » Utility pages
+                      <div name="Menu Wrapper" .framer-2fu5sp>
+                        » !--$-->
+                        <div .framer-1tnoy7k-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./teams/michael-carter">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Team Details
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-1wyhoxs-container>
+                          » !--$-->
+                          <a name="Footer Menu 01" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-1g7w5n.framer-1d3ls7u href="./404">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » 404
+                            <div name="Line" .framer-1djgmhj style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255))">
+                          » !--/$-->
+                        » !--/$-->
+                <div name="Icon &amp; Text Wrapper" .framer-gbmktv>
+                  <div name="Icon Wrapper" .framer-1jygl8f>
+                    <div .framer-1qvrudw-container>
+                      » !--$-->
+                      <a name="Footer Icon  01" .framer-qizcN.framer-1lct7eb.framer-v-1lct7eb.framer-hjrhrr href="https://www.facebook.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div name="Icon" .framer-17pmyfo style="transform:translateX(-50%)">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/TyZt7YLLn48LTCi1q8cmT84AsJY.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Icon" .framer-19wnodi>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/TyZt7YLLn48LTCi1q8cmT84AsJY.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                    <div .framer-kg645w-container>
+                      » !--$-->
+                      <a name="Footer Icon  01" .framer-qizcN.framer-1lct7eb.framer-v-1lct7eb.framer-hjrhrr href="https://x.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div name="Icon" .framer-17pmyfo style="transform:translateX(-50%)">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/33rDQXnqeELgyzGqFx8c83lHke4.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Icon" .framer-19wnodi>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/33rDQXnqeELgyzGqFx8c83lHke4.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                    <div .framer-10at9ez-container>
+                      » !--$-->
+                      <a name="Footer Icon  01" .framer-qizcN.framer-1lct7eb.framer-v-1lct7eb.framer-hjrhrr href="https://www.linkedin.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div name="Icon" .framer-17pmyfo style="transform:translateX(-50%)">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/qB5792DCcdXcm8D6OLNC7qMYFE.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Icon" .framer-19wnodi>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/qB5792DCcdXcm8D6OLNC7qMYFE.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                    <div .framer-1h1l7tr-container>
+                      » !--$-->
+                      <a name="Footer Icon  01" .framer-qizcN.framer-1lct7eb.framer-v-1lct7eb.framer-hjrhrr href="https://www.youtube.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div name="Icon" .framer-17pmyfo style="transform:translateX(-50%)">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/xCMwW363AKtSqExMnUWduaSHA.svg?width=21&amp;height=21" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Icon" .framer-19wnodi>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/xCMwW363AKtSqExMnUWduaSHA.svg?width=21&amp;height=21" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                  <div name="Text" .framer-tzfsp5 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));transform:none">
+                    <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                      » Copyright &amp; Design by
+                      » !--$-->
+                      <a .framer-styles-preset-1wpt64j href="https://reddevs.com/">
+                        » ©RedDevs
+                      » !--/$--> - Powered by&nbsp;Framer - 2026
+              <div .framer-jm8pxf style="will-change:transform;opacity:0.6;transform:scale(0.4)">
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/ACEm6wUhdzkFJDn8PlaTr4gkZc.svg?width=918&amp;height=167" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+      <div>
+        <footer name="Tablet" .framer-YxtmQ.framer-nkSep.framer-EPYMF.framer-JWZBi.framer-c03et1.framer-v-1xqlqm2 style="background-color:var(--token-a05ac567-0a7f-4b45-bd73-8562b89f9696, rgb(37, 35, 30));width:100%">
+          <div name="Container" .framer-zuie9h>
+            <div name="Content" .framer-1ne4ek3>
+              <div name="Content Wrappere" .framer-1ezr5ty>
+                <div name="Logo &amp; Menu Wrapper" .framer-2nznk>
+                  <div name="Logo &amp; Form Wrapper" .framer-1oassly style="will-change:transform;opacity:0;transform:translateY(60px)">
+                    <div name="Logo Wrapper" .framer-1wj8tu3>
+                      » !--$-->
+                      <a name="Logo" .framer-1n1dizr.framer-1m0x37x href="./">
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/utKg9oPJRMxck3Dy2pvYHESR90.svg?width=153&amp;height=42" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                      <div name="Short Description" .framer-1v5quko style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                          » Providing trusted legal counsel built on integrity, experience, and lasting client relationships
+                    <form .framer-1uxegkr>
+                      <label .framer-36mzd9>
+                        <div .framer-hl3qok style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                            » email
+                        <div .framer-form-text-input.framer-form-input-wrapper.framer-ipz5mx style="--framer-input-background:var(--token-f4a60c84-9658-4eea-86b0-b16094542f1e, rgb(51, 51, 51));--framer-input-border-radius-bottom-left:45px;--framer-input-border-radius-bottom-right:45px;--framer-input-border-radius-top-left:45px;--framer-input-border-radius-top-right:45px;--framer-input-font-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-input-icon-mask-image:">
+                          <input .framer-form-input.framer-form-input-empty>
+                      <div .framer-1784zt-container style="will-change:transform;opacity:0;transform:translateY(-50%) translateY(24px) scale(0.8)">
+                        <button name="Submit 02" .framer-sfuKG.framer-asup8l.framer-v-wntz26 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px;opacity:1">
+                          <div name="Icon" .framer-1k76zbf style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                            <div name="Icon " .framer-1j3idy5>
+                              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                                <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                      <input style="position:absolute;transform:scale(0)">
+                  <div name="Menu Wrapper" .framer-crmzxd style="will-change:transform;opacity:0;transform:translateY(60px)">
+                    <div name="Menu Wrapper 01" .framer-5uz67t style="--border-bottom-width:0px;--border-color:var(--token-fae7250e-111a-4c62-9d64-6f0d8f86ac0e, rgba(255, 255, 255, 0.1));--border-left-width:0px;--border-right-width:1px;--border-style:solid;--border-top-width:0px">
+                      <div name="Title" .framer-5yckbm style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                          » main pages
+                      <div name="Menu Wrapper" .framer-80hdxl>
+                        » !--$-->
+                        <div .framer-heuo9n-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Home
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-fhjvm9-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./about">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » About
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-13ev2gh-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./services">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Services
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-1quywl7-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./services/corporate-legal-advisory">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Service details
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-16mne98-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./contact">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Contact
+                          » !--/$-->
+                        » !--/$-->
+                    <div name="Menu Wrapper 02" .framer-8jrm5g style="--border-bottom-width:0px;--border-color:var(--token-fae7250e-111a-4c62-9d64-6f0d8f86ac0e, rgba(255, 255, 255, 0.1));--border-left-width:0px;--border-right-width:1px;--border-style:solid;--border-top-width:0px">
+                      <div name="Title" .framer-prahfp style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                          » More pages
+                      <div name="Menu Wrapper" .framer-15cvtr5>
+                        » !--$-->
+                        <div .framer-1jcw3pk-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./blogs">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Blogs
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-1l32r6p-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./blogs/understanding-contract-risks-before-signing-agreements">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Blog details
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-1cwbm1a-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./case-studies">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Case studies
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-67dohq-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./case-studies/corporate-dispute">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Case details
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-2z5iqd-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./teams">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Teams
+                          » !--/$-->
+                        » !--/$-->
+                    <div name="Menu Wrapper 03" .framer-mlew4b style="--border-bottom-width:0px;--border-color:var(--token-fae7250e-111a-4c62-9d64-6f0d8f86ac0e, rgba(255, 255, 255, 0.1));--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px">
+                      <div name="Title" .framer-zlzy6p style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                          » Utility pages
+                      <div name="Menu Wrapper" .framer-2fu5sp>
+                        » !--$-->
+                        <div .framer-1tnoy7k-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./teams/michael-carter">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » Team Details
+                          » !--/$-->
+                        » !--/$-->
+                        » !--$-->
+                        <div .framer-1wyhoxs-container>
+                          » !--$-->
+                          <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./404">
+                            <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                                » 404
+                          » !--/$-->
+                        » !--/$-->
+                <div name="Icon &amp; Text Wrapper" .framer-gbmktv>
+                  <div name="Icon Wrapper" .framer-1jygl8f>
+                    <div .framer-1qvrudw-container>
+                      » !--$-->
+                      <a name="Footer Icon  02" .framer-qizcN.framer-1lct7eb.framer-v-dh9v63.framer-hjrhrr href="https://www.facebook.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div name="Icon" .framer-19wnodi>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/TyZt7YLLn48LTCi1q8cmT84AsJY.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                    <div .framer-kg645w-container>
+                      » !--$-->
+                      <a name="Footer Icon  02" .framer-qizcN.framer-1lct7eb.framer-v-dh9v63.framer-hjrhrr href="https://x.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div name="Icon" .framer-19wnodi>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/33rDQXnqeELgyzGqFx8c83lHke4.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                    <div .framer-10at9ez-container>
+                      » !--$-->
+                      <a name="Footer Icon  02" .framer-qizcN.framer-1lct7eb.framer-v-dh9v63.framer-hjrhrr href="https://www.linkedin.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div name="Icon" .framer-19wnodi>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/qB5792DCcdXcm8D6OLNC7qMYFE.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                    <div .framer-1h1l7tr-container>
+                      » !--$-->
+                      <a name="Footer Icon  02" .framer-qizcN.framer-1lct7eb.framer-v-dh9v63.framer-hjrhrr href="https://www.youtube.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                        <div name="Icon" .framer-19wnodi>
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/xCMwW363AKtSqExMnUWduaSHA.svg?width=21&amp;height=21" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                      » !--/$-->
+                  <div name="Text" .framer-tzfsp5 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));transform:none">
+                    <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                      » Copyright &amp; Design by
+                      » !--$-->
+                      <a .framer-styles-preset-1wpt64j href="https://reddevs.com/">
+                        » ©RedDevs
+                      » !--/$--> - Powered by&nbsp;Framer - 2026
+              <div .framer-jm8pxf style="opacity:1;transform:none">
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/ACEm6wUhdzkFJDn8PlaTr4gkZc.svg?width=918&amp;height=167" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+  <div>
+    <div .framer-15d65kj-container>
+      <footer name="Phone" .framer-YxtmQ.framer-nkSep.framer-EPYMF.framer-JWZBi.framer-c03et1.framer-v-u56gxa style="background-color:var(--token-a05ac567-0a7f-4b45-bd73-8562b89f9696, rgb(37, 35, 30));width:100%">
+        <div name="Container" .framer-zuie9h>
+          <div name="Content" .framer-1ne4ek3>
+            <div name="Content Wrappere" .framer-1ezr5ty>
+              <div name="Logo &amp; Menu Wrapper" .framer-2nznk>
+                <div name="Logo &amp; Form Wrapper" .framer-1oassly style="will-change:transform;opacity:0;transform:translateY(60px)">
+                  <div name="Logo Wrapper" .framer-1wj8tu3>
+                    » !--$-->
+                    <a name="Logo" .framer-1n1dizr.framer-1m0x37x href="./">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/utKg9oPJRMxck3Dy2pvYHESR90.svg?width=153&amp;height=42" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                    » !--/$-->
+                    <div name="Short Description" .framer-1v5quko style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                        » Providing trusted legal counsel built on integrity, experience, and lasting client relationships
+                  <form .framer-1uxegkr>
+                    <label .framer-36mzd9>
+                      <div .framer-hl3qok style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                        <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                          » email
+                      <div .framer-form-text-input.framer-form-input-wrapper.framer-ipz5mx style="--framer-input-background:var(--token-f4a60c84-9658-4eea-86b0-b16094542f1e, rgb(51, 51, 51));--framer-input-border-radius-bottom-left:45px;--framer-input-border-radius-bottom-right:45px;--framer-input-border-radius-top-left:45px;--framer-input-border-radius-top-right:45px;--framer-input-font-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-input-icon-mask-image:">
+                        <input .framer-form-input.framer-form-input-empty>
+                    <div .framer-1784zt-container style="will-change:transform;opacity:0;transform:translateY(-50%) translateY(24px) scale(0.8)">
+                      <button name="Submit 02" .framer-sfuKG.framer-asup8l.framer-v-wntz26 style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px;opacity:1">
+                        <div name="Icon" .framer-1k76zbf style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                          <div name="Icon " .framer-1j3idy5>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon " style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                    <input style="position:absolute;transform:scale(0)">
+                <div name="Menu Wrapper" .framer-crmzxd style="will-change:transform;opacity:0;transform:translateY(60px)">
+                  <div name="Menu Wrapper 01" .framer-5uz67t style="--border-bottom-width:0px;--border-color:var(--token-fae7250e-111a-4c62-9d64-6f0d8f86ac0e, rgba(255, 255, 255, 0.1));--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px">
+                    <div name="Title" .framer-5yckbm style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                        » main pages
+                    <div name="Menu Wrapper" .framer-80hdxl>
+                      » !--$-->
+                      <div .framer-heuo9n-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Home
+                        » !--/$-->
+                      » !--/$-->
+                      » !--$-->
+                      <div .framer-fhjvm9-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./about">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » About
+                        » !--/$-->
+                      » !--/$-->
+                      » !--$-->
+                      <div .framer-13ev2gh-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./services">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Services
+                        » !--/$-->
+                      » !--/$-->
+                      » !--$-->
+                      <div .framer-1quywl7-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./services/corporate-legal-advisory">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Service details
+                        » !--/$-->
+                      » !--/$-->
+                      » !--$-->
+                      <div .framer-16mne98-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./contact">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Contact
+                        » !--/$-->
+                      » !--/$-->
+                  <div name="Menu Wrapper 02" .framer-8jrm5g style="--border-bottom-width:0px;--border-color:var(--token-fae7250e-111a-4c62-9d64-6f0d8f86ac0e, rgba(255, 255, 255, 0.1));--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px">
+                    <div name="Title" .framer-prahfp style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                        » More pages
+                    <div name="Menu Wrapper" .framer-15cvtr5>
+                      » !--$-->
+                      <div .framer-1jcw3pk-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./blogs">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Blogs
+                        » !--/$-->
+                      » !--/$-->
+                      » !--$-->
+                      <div .framer-1l32r6p-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./blogs/understanding-contract-risks-before-signing-agreements">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Blog details
+                        » !--/$-->
+                      » !--/$-->
+                      » !--$-->
+                      <div .framer-1cwbm1a-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./case-studies">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Case studies
+                        » !--/$-->
+                      » !--/$-->
+                      » !--$-->
+                      <div .framer-67dohq-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./case-studies/corporate-dispute">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Case details
+                        » !--/$-->
+                      » !--/$-->
+                      » !--$-->
+                      <div .framer-2z5iqd-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./teams">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Teams
+                        » !--/$-->
+                      » !--/$-->
+                  <div name="Menu Wrapper 03" .framer-mlew4b style="--border-bottom-width:0px;--border-color:var(--token-fae7250e-111a-4c62-9d64-6f0d8f86ac0e, rgba(255, 255, 255, 0.1));--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px">
+                    <div name="Title" .framer-zlzy6p style="--extracted-r6o4lv:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)))">
+                        » Utility pages
+                    <div name="Menu Wrapper" .framer-2fu5sp>
+                      » !--$-->
+                      <div .framer-1tnoy7k-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./teams/michael-carter">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » Team Details
+                        » !--/$-->
+                      » !--/$-->
+                      » !--$-->
+                      <div .framer-1wyhoxs-container>
+                        » !--$-->
+                        <a name="Footer Menu 02" .framer-tgBbI.framer-nkSep.framer-1g7w5n.framer-v-ororwe.framer-1d3ls7u href="./404">
+                          <div .framer-1vu2yud style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                              » 404
+                        » !--/$-->
+                      » !--/$-->
+              <div name="Icon &amp; Text Wrapper" .framer-gbmktv>
+                <div name="Icon Wrapper" .framer-1jygl8f>
+                  <div .framer-1qvrudw-container>
+                    » !--$-->
+                    <a name="Footer Icon  02" .framer-qizcN.framer-1lct7eb.framer-v-dh9v63.framer-hjrhrr href="https://www.facebook.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                      <div name="Icon" .framer-19wnodi>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/TyZt7YLLn48LTCi1q8cmT84AsJY.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                    » !--/$-->
+                  <div .framer-kg645w-container>
+                    » !--$-->
+                    <a name="Footer Icon  02" .framer-qizcN.framer-1lct7eb.framer-v-dh9v63.framer-hjrhrr href="https://x.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                      <div name="Icon" .framer-19wnodi>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/33rDQXnqeELgyzGqFx8c83lHke4.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                    » !--/$-->
+                  <div .framer-10at9ez-container>
+                    » !--$-->
+                    <a name="Footer Icon  02" .framer-qizcN.framer-1lct7eb.framer-v-dh9v63.framer-hjrhrr href="https://www.linkedin.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                      <div name="Icon" .framer-19wnodi>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/qB5792DCcdXcm8D6OLNC7qMYFE.svg?width=15&amp;height=15" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                    » !--/$-->
+                  <div .framer-1h1l7tr-container>
+                    » !--$-->
+                    <a name="Footer Icon  02" .framer-qizcN.framer-1lct7eb.framer-v-dh9v63.framer-hjrhrr href="https://www.youtube.com/" style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));height:100%;width:100%;border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                      <div name="Icon" .framer-19wnodi>
+                        <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                          <img src="https://framerusercontent.com/images/xCMwW363AKtSqExMnUWduaSHA.svg?width=21&amp;height=21" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                    » !--/$-->
+                <div name="Text" .framer-tzfsp5 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));transform:none">
+                  <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                    » Copyright &amp; Design by
+                    » !--$-->
+                    <a .framer-styles-preset-1wpt64j href="https://reddevs.com/">
+                      » ©RedDevs
+                    » !--/$--> - Powered by&nbsp;Framer - 2026
+            <div .framer-jm8pxf style="opacity:1;transform:none">
+              <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                <img src="https://framerusercontent.com/images/ACEm6wUhdzkFJDn8PlaTr4gkZc.svg?width=918&amp;height=167" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">

@@ -1,0 +1,150 @@
+<section name="Brand Section" .framer-y50asw>
+  <div name="Container" .framer-cbgqmy>
+    <div name="Content" .framer-y5cgb6>
+      <div>
+        <div name="Ticker" .framer-x5ylsz style="display:flex;position:relative">
+          <ul style="display:flex;position:relative;list-style-type:none;padding:0;margin:0;justify-content:flex-start;flex-direction:row;gap:45px;opacity:0;align-items:center;width:100%;height:100%;max-height:100%;max-width:100%;transform:translateX(-45px)">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-16j18q9>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/scVS81Jnx30x2b0MzSKkkpPt59M.svg?width=112&amp;height=27" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-1g8ydx1>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1wyxwsx>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/yKkNXPXw2oAHCMTnwpu5Rt0xTU.svg?width=112&amp;height=26" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-8ptgw1>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-7f9by0>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/G59izM35Hm0ZwRLSQEqeoEvbd0.svg?width=95&amp;height=38" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-197w2lf>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1s3il9e>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/89mgXsqMGFihSdS6ogYtaQNdww.svg?width=112&amp;height=29" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-dg4zjq>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1ni0a8v>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/uPDvqu8x2Yzj9a8ZESzrVwAlA4.svg?width=74&amp;height=29" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-1magdnl>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1qkiphm>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/scVS81Jnx30x2b0MzSKkkpPt59M.svg?width=112&amp;height=27" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-w91dyo>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-h8ktcc>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/yKkNXPXw2oAHCMTnwpu5Rt0xTU.svg?width=112&amp;height=26" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-thsqc3>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-kwu82q>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/G59izM35Hm0ZwRLSQEqeoEvbd0.svg?width=95&amp;height=38" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+      <div>
+        <div name="Ticker" .framer-x5ylsz style="display:flex;position:relative">
+          <ul style="display:flex;position:relative;list-style-type:none;padding:0;margin:0;justify-content:flex-start;flex-direction:row;gap:20px;opacity:0;align-items:center;width:100%;height:100%;max-height:100%;max-width:100%;transform:translateX(-20px)">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-16j18q9>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/scVS81Jnx30x2b0MzSKkkpPt59M.svg?width=112&amp;height=27" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-1g8ydx1>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1wyxwsx>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/yKkNXPXw2oAHCMTnwpu5Rt0xTU.svg?width=112&amp;height=26" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-8ptgw1>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-7f9by0>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/G59izM35Hm0ZwRLSQEqeoEvbd0.svg?width=95&amp;height=38" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-197w2lf>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1s3il9e>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/89mgXsqMGFihSdS6ogYtaQNdww.svg?width=112&amp;height=29" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-dg4zjq>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1ni0a8v>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/uPDvqu8x2Yzj9a8ZESzrVwAlA4.svg?width=74&amp;height=29" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-1magdnl>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1qkiphm>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/scVS81Jnx30x2b0MzSKkkpPt59M.svg?width=112&amp;height=27" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-w91dyo>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-h8ktcc>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/yKkNXPXw2oAHCMTnwpu5Rt0xTU.svg?width=112&amp;height=26" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-thsqc3>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-kwu82q>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/G59izM35Hm0ZwRLSQEqeoEvbd0.svg?width=95&amp;height=38" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+      <div>
+        <div name="Ticker" .framer-x5ylsz style="display:flex;position:relative">
+          <ul style="display:flex;position:relative;list-style-type:none;padding:0;margin:0;justify-content:flex-start;flex-direction:row;gap:30px;opacity:0;align-items:center;width:100%;height:100%;max-height:100%;max-width:100%;transform:translateX(-30px)">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-16j18q9>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/scVS81Jnx30x2b0MzSKkkpPt59M.svg?width=112&amp;height=27" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-1g8ydx1>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1wyxwsx>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/yKkNXPXw2oAHCMTnwpu5Rt0xTU.svg?width=112&amp;height=26" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-8ptgw1>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-7f9by0>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/G59izM35Hm0ZwRLSQEqeoEvbd0.svg?width=95&amp;height=38" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-197w2lf>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1s3il9e>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/89mgXsqMGFihSdS6ogYtaQNdww.svg?width=112&amp;height=29" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-dg4zjq>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1ni0a8v>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/uPDvqu8x2Yzj9a8ZESzrVwAlA4.svg?width=74&amp;height=29" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-1magdnl>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-1qkiphm>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/scVS81Jnx30x2b0MzSKkkpPt59M.svg?width=112&amp;height=27" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-w91dyo>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-h8ktcc>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/yKkNXPXw2oAHCMTnwpu5Rt0xTU.svg?width=112&amp;height=26" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Line" .framer-thsqc3>
+            <li style="flex-grow:0;flex-shrink:0;position:relative;height:fit-content;width:fit-content;transform:none">
+              <div name="Logo" .framer-kwu82q>
+                <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                  <img src="https://framerusercontent.com/images/G59izM35Hm0ZwRLSQEqeoEvbd0.svg?width=95&amp;height=38" alt="Logo" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">

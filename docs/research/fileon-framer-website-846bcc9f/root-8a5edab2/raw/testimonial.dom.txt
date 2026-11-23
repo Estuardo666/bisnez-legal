@@ -1,0 +1,281 @@
+<section name="Testimonial Section" .framer-gh5ywg>
+  <div name="Container" .framer-ch5065>
+    <div name="Content" .framer-1fr4hfw>
+      <div>
+        <div .framer-1b4wja6-container style="will-change:transform;opacity:0;transform:translateX(-80px)">
+          <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+            <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+            <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+              <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                » Clients review
+      <div>
+        <div .framer-1b4wja6-container style="opacity:1;transform:none">
+          <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+            <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+            <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+              <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                » Clients review
+      <div .framer-1t8ubb4-container>
+        » !--$-->
+        <section .framer-slideshow.framer-slideshow-axis-x style="display:flex;flex-direction:row;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:0px;list-style-type:none;text-indent:none;user-select:none">
+          <div style="width:100%;height:100%;margin:0;padding:inherit;position:absolute;inset:0;overflow:hidden;border-radius:0;user-select:none;perspective:1200px">
+            <ul style="display:flex;flex-direction:row;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:0;list-style-type:none;text-indent:none;gap:10px;transform:translateX(calc(var(--framer-dir-multiplier, -1) * (0% + 0px)));cursor:auto;user-select:none">
+              <li style="display:contents">
+                <div .framer-qvhe8h-container style="flex-shrink:0;user-select:none;width:100%;height:100%;will-change:transform;opacity:0.2;transform:translateX(190px) scale(0.6) rotateY(80deg)">
+                  <div name="Desktop Testimonial Card" .framer-CgaEi.framer-AUcQy.framer-nkSep.framer-wCAV8.framer-18mp0iy.framer-v-18mp0iy style="width:100%">
+                    <div name="Title" .framer-1vdm178 style="--extracted-1eung3n:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1eung3n, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » From consultation to resolution, the firm's professionalism and attention to detail exceeded our expectations. Their advice helped us make informed decisions and achieve a favorable outcome
+                    <div name="Icon &amp;  Designation Wrapper" .framer-ku5xxj>
+                      <div name="Icon &amp; Text Wrapper" .framer-1gvgjbw>
+                        <div name="Icon Wrapper" .framer-u15ce7>
+                          <div name="Icon" .framer-14xs9tp>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-s109oa>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-18bdm2t>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-rnjvaq>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-6txhw6>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/ofLbu5mL76J5YREgU64729IO7F8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Text" .framer-1anzu2a style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                            » 4.8/5 Verified Rating
+                      <div name="Line" .framer-12smitu style="background-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169))">
+                      <div name="Image &amp; Designation Wrapper" .framer-hy7jpf>
+                        <div .framer-1bx9873 style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/amzAiW9uC662kw3FTeOzQFBAhlE.png?width=512&amp;height=512" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Author Name &amp; Designation" .framer-hxzqas>
+                          <div name="Author Name " .framer-10hyyi1 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                              » Michael Reynolds
+                          <div name="Designation" .framer-z3m8bs style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » Founder, Reynolds Holdings
+                    <div name="Icon" .framer-1ddk9ke>
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/c7l9SnoBhlRXHwyD9o41pd04tw.svg?width=140&amp;height=140" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <li style="display:contents">
+                <div .framer-149cvbv-container style="flex-shrink:0;user-select:none;width:100%;height:100%;will-change:transform;opacity:0.2;transform:translateX(190px) scale(0.6) rotateY(80deg)">
+                  <div name="Desktop Testimonial Card" .framer-CgaEi.framer-AUcQy.framer-nkSep.framer-wCAV8.framer-18mp0iy.framer-v-18mp0iy style="width:100%">
+                    <div name="Title" .framer-1vdm178 style="--extracted-1eung3n:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1eung3n, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » We were impressed by the firm's responsiveness, legal expertise, and professionalism, helping us make informed decisions and move forward with confidence throughout every step.
+                    <div name="Icon &amp;  Designation Wrapper" .framer-ku5xxj>
+                      <div name="Icon &amp; Text Wrapper" .framer-1gvgjbw>
+                        <div name="Icon Wrapper" .framer-u15ce7>
+                          <div name="Icon" .framer-14xs9tp>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-s109oa>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-18bdm2t>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-rnjvaq>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-6txhw6>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/ofLbu5mL76J5YREgU64729IO7F8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Text" .framer-1anzu2a style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                            » 4.8/5 Verified Rating
+                      <div name="Line" .framer-12smitu style="background-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169))">
+                      <div name="Image &amp; Designation Wrapper" .framer-hy7jpf>
+                        <div .framer-1bx9873 style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/amzAiW9uC662kw3FTeOzQFBAhlE.png?width=512&amp;height=512" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Author Name &amp; Designation" .framer-hxzqas>
+                          <div name="Author Name " .framer-10hyyi1 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                              » Michael Reynolds
+                          <div name="Designation" .framer-z3m8bs style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » Founder, Reynolds Holdings
+                    <div name="Icon" .framer-1ddk9ke>
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/c7l9SnoBhlRXHwyD9o41pd04tw.svg?width=140&amp;height=140" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              <li style="display:contents">
+                <div .framer-oo9345-container style="flex-shrink:0;user-select:none;width:100%;height:100%;will-change:transform;opacity:0.2;transform:translateX(190px) scale(0.6) rotateY(80deg)">
+                  <div name="Desktop Testimonial Card" .framer-CgaEi.framer-AUcQy.framer-nkSep.framer-wCAV8.framer-18mp0iy.framer-v-18mp0iy style="width:100%">
+                    <div name="Title" .framer-1vdm178 style="--extracted-1eung3n:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1eung3n, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Every interaction reflected the firm's commitment to excellence, attention to detail, strategic guidance, and client satisfaction, giving us confidence throughout the entire process.
+                    <div name="Icon &amp;  Designation Wrapper" .framer-ku5xxj>
+                      <div name="Icon &amp; Text Wrapper" .framer-1gvgjbw>
+                        <div name="Icon Wrapper" .framer-u15ce7>
+                          <div name="Icon" .framer-14xs9tp>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-s109oa>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-18bdm2t>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-rnjvaq>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-6txhw6>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/ofLbu5mL76J5YREgU64729IO7F8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Text" .framer-1anzu2a style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                            » 4.8/5 Verified Rating
+                      <div name="Line" .framer-12smitu style="background-color:var(--token-3d2824e3-ff8b-4934-8622-c9127bfe503b, rgb(169, 169, 169))">
+                      <div name="Image &amp; Designation Wrapper" .framer-hy7jpf>
+                        <div .framer-1bx9873 style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/amzAiW9uC662kw3FTeOzQFBAhlE.png?width=512&amp;height=512" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Author Name &amp; Designation" .framer-hxzqas>
+                          <div name="Author Name " .framer-10hyyi1 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                              » Michael Reynolds
+                          <div name="Designation" .framer-z3m8bs style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » Founder, Reynolds Holdings
+                    <div name="Icon" .framer-1ddk9ke>
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/c7l9SnoBhlRXHwyD9o41pd04tw.svg?width=140&amp;height=140" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+          <fieldset .framer--slideshow-controls style="display:flex;justify-content:space-between;align-items:center;position:absolute;pointer-events:none;user-select:none;top:0;left:0;right:0;bottom:0;border:0;padding:0;margin:0">
+            <div style="position:absolute;display:flex;flex-direction:row;justify-content:center;gap:10px;opacity:0;align-items:center;inset:20px;top:unset;left:0;right:unset;bottom:0">
+              <button style="border:none;display:block;place-content:center;place-items:center;overflow:hidden;background:transparent;cursor:default;margin:0;padding:0;background-color:rgba(0, 0, 0, 0.2);width:55px;height:55px;border-radius:100px;pointer-events:none;transform:none">
+                <img src="https://framerusercontent.com/images/LLYmLXau2Lwn5kDwpjdouVnLKR8.svg?width=55&amp;height=55" alt="Back Arrow">
+              <button style="border:none;display:block;place-content:center;place-items:center;overflow:hidden;background:transparent;cursor:default;margin:0;padding:0;background-color:rgba(0, 0, 0, 0.2);width:55px;height:55px;border-radius:100px;pointer-events:none;transform:none">
+                <img src="https://framerusercontent.com/images/Qdd8KYVqqFLz8k349mORNdnHbe8.svg?width=55&amp;height=55" alt="Next Arrow">
+        » !--/$-->
+      <div .framer-12k4dxy-container>
+        » !--$-->
+        <section .framer-slideshow.framer-slideshow-axis-x style="display:flex;flex-direction:row;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:0px;list-style-type:none;text-indent:none;user-select:none">
+          <div style="width:100%;height:100%;margin:0;padding:inherit;position:absolute;inset:0;overflow:hidden;border-radius:0;user-select:none;perspective:1200px">
+            <ul style="display:flex;flex-direction:row;width:100%;height:100%;max-width:100%;max-height:100%;place-items:center;margin:0;padding:0;list-style-type:none;text-indent:none;gap:10px;transform:translateX(calc(var(--framer-dir-multiplier, -1) * (0% + 0px)));cursor:auto;user-select:none">
+              <li style="display:contents">
+                <div .framer-t8qdoq-container style="flex-shrink:0;user-select:none;width:100%;height:100%">
+                  <div name="Tablet Testimonial Card" .framer-CgaEi.framer-AUcQy.framer-nkSep.framer-wCAV8.framer-18mp0iy.framer-v-joxeqt style="width:100%">
+                    <div name="Title" .framer-1vdm178 style="--extracted-1eung3n:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1eung3n, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Professional guidance delivered informed decisions and favorable legal outcomes.
+                    <div name="Icon &amp;  Designation Wrapper" .framer-ku5xxj>
+                      <div name="Icon &amp; Text Wrapper" .framer-1gvgjbw>
+                        <div name="Icon Wrapper" .framer-u15ce7>
+                          <div name="Icon" .framer-14xs9tp>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-s109oa>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-18bdm2t>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-rnjvaq>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-6txhw6>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/ofLbu5mL76J5YREgU64729IO7F8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Text" .framer-1anzu2a style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                            » 4.8/5 Verified Rating
+                      <div name="Image &amp; Designation Wrapper" .framer-hy7jpf>
+                        <div .framer-1bx9873 style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/amzAiW9uC662kw3FTeOzQFBAhlE.png?width=512&amp;height=512" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Author Name &amp; Designation" .framer-hxzqas>
+                          <div name="Author Name " .framer-10hyyi1 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                              » Michael Reynolds
+                          <div name="Designation" .framer-z3m8bs style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » Founder, Reynolds Holdings
+              <li style="display:contents">
+                <div .framer-ss8wzq-container style="flex-shrink:0;user-select:none;width:100%;height:100%">
+                  <div name="Tablet Testimonial Card" .framer-CgaEi.framer-AUcQy.framer-nkSep.framer-wCAV8.framer-18mp0iy.framer-v-joxeqt style="width:100%">
+                    <div name="Title" .framer-1vdm178 style="--extracted-1eung3n:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1eung3n, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Professional guidance delivered informed decisions and favorable legal outcomes.
+                    <div name="Icon &amp;  Designation Wrapper" .framer-ku5xxj>
+                      <div name="Icon &amp; Text Wrapper" .framer-1gvgjbw>
+                        <div name="Icon Wrapper" .framer-u15ce7>
+                          <div name="Icon" .framer-14xs9tp>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-s109oa>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-18bdm2t>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-rnjvaq>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-6txhw6>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/ofLbu5mL76J5YREgU64729IO7F8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Text" .framer-1anzu2a style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                            » 4.8/5 Verified Rating
+                      <div name="Image &amp; Designation Wrapper" .framer-hy7jpf>
+                        <div .framer-1bx9873 style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/amzAiW9uC662kw3FTeOzQFBAhlE.png?width=512&amp;height=512" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Author Name &amp; Designation" .framer-hxzqas>
+                          <div name="Author Name " .framer-10hyyi1 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                              » Michael Reynolds
+                          <div name="Designation" .framer-z3m8bs style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » Founder, Reynolds Holdings
+              <li style="display:contents">
+                <div .framer-17w5xcb-container style="flex-shrink:0;user-select:none;width:100%;height:100%">
+                  <div name="Tablet Testimonial Card" .framer-CgaEi.framer-AUcQy.framer-nkSep.framer-wCAV8.framer-18mp0iy.framer-v-joxeqt style="width:100%">
+                    <div name="Title" .framer-1vdm178 style="--extracted-1eung3n:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                      <h4 .framer-styles-preset-57gyz8 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1eung3n, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                        » Professional guidance delivered informed decisions and favorable legal outcomes.
+                    <div name="Icon &amp;  Designation Wrapper" .framer-ku5xxj>
+                      <div name="Icon &amp; Text Wrapper" .framer-1gvgjbw>
+                        <div name="Icon Wrapper" .framer-u15ce7>
+                          <div name="Icon" .framer-14xs9tp>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-s109oa>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-18bdm2t>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-rnjvaq>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/9ihf1DLBVzmuEyl8rEzkmWaZm8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                          <div name="Icon" .framer-6txhw6>
+                            <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                              <img src="https://framerusercontent.com/images/ofLbu5mL76J5YREgU64729IO7F8.svg?width=22&amp;height=22" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Text" .framer-1anzu2a style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                          <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                            » 4.8/5 Verified Rating
+                      <div name="Image &amp; Designation Wrapper" .framer-hy7jpf>
+                        <div .framer-1bx9873 style="border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                          <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                            <img src="https://framerusercontent.com/images/amzAiW9uC662kw3FTeOzQFBAhlE.png?width=512&amp;height=512" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                        <div name="Author Name &amp; Designation" .framer-hxzqas>
+                          <div name="Author Name " .framer-10hyyi1 style="--extracted-1w1cjl5:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                              » Michael Reynolds
+                          <div name="Designation" .framer-z3m8bs style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » Founder, Reynolds Holdings
+          <fieldset .framer--slideshow-controls style="display:flex;justify-content:space-between;align-items:center;position:absolute;pointer-events:none;user-select:none;top:0;left:0;right:0;bottom:0;border:0;padding:0;margin:0">
+            <div style="position:absolute;display:flex;flex-direction:row;justify-content:center;gap:10px;opacity:0;align-items:center;inset:20px;top:unset;left:0;right:unset;bottom:0">
+              <button style="border:none;display:block;place-content:center;place-items:center;overflow:hidden;background:transparent;cursor:default;margin:0;padding:0;background-color:rgba(0, 0, 0, 0.2);width:40px;height:40px;border-radius:100px;pointer-events:none;transform:none">
+                <img src="https://framerusercontent.com/images/LLYmLXau2Lwn5kDwpjdouVnLKR8.svg?width=55&amp;height=55" alt="Back Arrow">
+              <button style="border:none;display:block;place-content:center;place-items:center;overflow:hidden;background:transparent;cursor:default;margin:0;padding:0;background-color:rgba(0, 0, 0, 0.2);width:40px;height:40px;border-radius:100px;pointer-events:none;transform:none">
+                <img src="https://framerusercontent.com/images/Qdd8KYVqqFLz8k349mORNdnHbe8.svg?width=55&amp;height=55" alt="Next Arrow">
+        » !--/$-->

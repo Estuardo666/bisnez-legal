@@ -1,0 +1,324 @@
+<section name="Approach Section" .framer-1veeev2>
+  <div name="Container" .framer-12ie2k0>
+    <div name="Content" .framer-1eb3dsu>
+      <div name="Content Wrapper" .framer-x6hghb>
+        <div name="Title &amp; Button Wrapper" .framer-19fzg5e>
+          <div name="Title Wrapper" .framer-17fr8xt>
+            <div>
+              <div .framer-vmanj-container style="will-change:transform;opacity:0;transform:translateX(-80px)">
+                <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+                  <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                  <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » case studies
+            <div>
+              <div .framer-vmanj-container style="opacity:1;transform:none">
+                <div name="Section Title 01" .framer-p2Eag.framer-EPYMF.framer-1gnz6fr.framer-v-1gnz6fr>
+                  <div name="Icon" .framer-18gvpqs style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                  <div name="Title" .framer-uioks9 style="--extracted-r6o4lv:var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-d779d31e-bf90-4e5e-b336-6508c026deab, rgb(0, 0, 0)))">
+                      » case studies
+            <div name="Title &amp; Sub Title" .framer-5vzw1o>
+              <div>
+                <div name="Title " .framer-1etj5nl style="transform:none">
+                  <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                    <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                      » Results
+                    <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                      » that
+                    <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                      » Build
+                    <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                    <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                      <span style="display:inline-block;opacity:0.001;filter:blur(10px);transform:translateX(0px) translateY(10px) scale(1) rotate(0deg) skewX(0deg) skewY(0deg)">
+                        » Trust
+              <div>
+                <div name="Title " .framer-1etj5nl style="transform:none">
+                  <h2 .framer-styles-preset-1x3pol9 style="--framer-text-alignment:left;--framer-text-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24))">
+                    » Results that Build
+                    <span style="--framer-text-color:var(--token-d3cd2c97-48e9-400d-98b8-7f3351ac7d7c, rgba(0, 0, 0, 0.5))">
+                      » Trust
+              <div name="Short Description" .framer-rwxljv style="transform:none">
+                <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87))">
+                  » Explore how strategic legal counsel helped clients overcome challenges and achieve successful outcomes
+          » !--$-->
+          <div>
+            <div .framer-1ab48nm-container style="will-change:transform;opacity:0;transform:translateY(24px) scale(0.8)">
+              » !--$-->
+              <a name="Secondary Button 01" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-12ea8fe.framer-6jvsg7 href="./case-studies" style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+                <div name="Title Wrapper" .framer-176aqmi>
+                  <div name="Title" .framer-yu6vuw style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                      » View all case studies
+                  <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                      » View all case studies
+                <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-dswrox>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+                  <div name="Icon" .framer-13sriid>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              » !--/$-->
+          <div>
+            <div .framer-1ab48nm-container style="opacity:1;transform:none">
+              » !--$-->
+              <a name="Secondary Button 02" .framer-1r2Ll.framer-oYnH7.framer-1vlt3ha.framer-v-1p3mvgb.framer-6jvsg7 href="./case-studies" style="background-color:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));border-bottom-left-radius:50px;border-bottom-right-radius:50px;border-top-left-radius:50px;border-top-right-radius:50px">
+                <div name="Title Wrapper" .framer-176aqmi>
+                  <div name="Title" .framer-1h58870 style="--extracted-r6o4lv:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                    <p .framer-styles-preset-1pwzd39 style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255)))">
+                      » View all case studies
+                <div name="Icon Wrapper" .framer-1d5hfen style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:100px;border-bottom-right-radius:100px;border-top-left-radius:100px;border-top-right-radius:100px">
+                  <div name="Icon" .framer-13sriid>
+                    <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                      <img src="https://framerusercontent.com/images/SZd9EedUwnpfottuX47mDHqgqXQ.svg?width=18&amp;height=18" alt="Icon" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:contain">
+              » !--/$-->
+          » !--/$-->
+        <div name="Card Wrapper" .framer-4wpycy>
+          <div .framer-1r2muwo>
+            » !--$-->
+            <div .framer-gwxslr>
+              » !--$-->
+              <div>
+                <div .framer-17p5lej-container>
+                  » !--$-->
+                  <a name="Desktop Case Studies Card " .framer-yopFD.framer-EPYMF.framer-wCAV8.framer-nkSep.framer-1sv8yk3.framer-v-1sv8yk3.framer-17kiawe href="./case-studies/corporate-dispute" style="width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                    <div .framer-1d75bo1 style="will-change:transform;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;opacity:1;transform:perspective(1200px) scale(1.25)">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/1cHrjp5K6KglQzCNss20hhllKs.png?width=812&amp;height=568" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+                    <div name="Content Wrapper" .framer-1h50kji style="will-change:transform;opacity:0.2;transform:translateX(190px) scale(0.6) rotateY(80deg)">
+                      <div name="Content " .framer-447zbu style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                        <div name="Title Wrapper" .framer-zobqex>
+                          <div name="Text" .framer-11pncob style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » 1/ Corporate Law
+                          <div name="Title &amp; Short Description" .framer-1ls4xu1>
+                            <div name="Title" .framer-xrjxrb style="--extracted-1w1cjl5:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24)))">
+                                » Corporate Dispute
+                            <div name="Short Description" .framer-agnnb6 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                                » Represented a growing business in a complex commercial dispute, securing a favorable resolution while protecting long-term business interests.
+                      <div name="Group " .framer-9e137u style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */;color:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */">
+                        <div style="width:100%;height:100%;aspect-ratio:inherit">
+                          <svg style="width:100%;height:100%;">
+                              [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 193 38"><use href="#svg1808347523_896"/></svg>
+                            <use href="#svg1808347523_896">
+                  » !--/$-->
+              <div>
+                <div .framer-17p5lej-container>
+                  » !--$-->
+                  <a name="Phone Case Studies Card " .framer-yopFD.framer-EPYMF.framer-wCAV8.framer-nkSep.framer-1sv8yk3.framer-v-1a16kr2.framer-17kiawe href="./case-studies/corporate-dispute" style="width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                    <div .framer-1d75bo1 style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;opacity:1;transform:none">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/1cHrjp5K6KglQzCNss20hhllKs.png?width=812&amp;height=568" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+                    <div name="Content Wrapper" .framer-1h50kji style="opacity:1;transform:none">
+                      <div name="Content " .framer-447zbu style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                        <div name="Title Wrapper" .framer-zobqex>
+                          <div name="Text" .framer-11pncob style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » 1/ Corporate Law
+                          <div name="Title &amp; Short Description" .framer-1ls4xu1>
+                            <div name="Title" .framer-xrjxrb style="--extracted-1w1cjl5:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24)))">
+                                » Corporate Dispute
+                            <div name="Short Description" .framer-agnnb6 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                                » Represented a growing business in a complex commercial dispute, securing a favorable resolution while protecting long-term business interests.
+                      <div name="Group " .framer-9e137u style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */;color:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */">
+                        <div style="width:100%;height:100%;aspect-ratio:inherit">
+                          <svg style="width:100%;height:100%;">
+                              [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 193 38"><use href="#svg1808347523_896"/></svg>
+                            <use href="#svg1808347523_896">
+                  » !--/$-->
+              <div>
+                <div .framer-17p5lej-container>
+                  » !--$-->
+                  <a name="Tablet Case Studies Card " .framer-yopFD.framer-EPYMF.framer-wCAV8.framer-nkSep.framer-1sv8yk3.framer-v-7ekoq0.framer-17kiawe href="./case-studies/corporate-dispute" style="width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                    <div .framer-1d75bo1 style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;opacity:1;transform:none">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/1cHrjp5K6KglQzCNss20hhllKs.png?width=812&amp;height=568" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+                    <div name="Content Wrapper" .framer-1h50kji style="opacity:1;transform:none">
+                      <div name="Content " .framer-447zbu style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                        <div name="Title Wrapper" .framer-zobqex>
+                          <div name="Text" .framer-11pncob style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » 1/ Corporate Law
+                          <div name="Title &amp; Short Description" .framer-1ls4xu1>
+                            <div name="Title" .framer-xrjxrb style="--extracted-1w1cjl5:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24)))">
+                                » Corporate Dispute
+                            <div name="Short Description" .framer-agnnb6 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                                » Represented a growing business in a complex commercial dispute, securing a favorable resolution while protecting long-term business interests.
+                      <div name="Group " .framer-9e137u style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */;color:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */">
+                        <div style="width:100%;height:100%;aspect-ratio:inherit">
+                          <svg style="width:100%;height:100%;">
+                              [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 193 38"><use href="#svg1808347523_896"/></svg>
+                            <use href="#svg1808347523_896">
+                  » !--/$-->
+              » !--/$-->
+            <div .framer-gwxslr>
+              » !--$-->
+              <div>
+                <div .framer-17p5lej-container>
+                  » !--$-->
+                  <a name="Desktop Case Studies Card " .framer-yopFD.framer-EPYMF.framer-wCAV8.framer-nkSep.framer-1sv8yk3.framer-v-1sv8yk3.framer-17kiawe href="./case-studies/real-estate-law" style="width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                    <div .framer-1d75bo1 style="will-change:transform;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;opacity:1;transform:perspective(1200px) scale(1.25)">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/L4RmATyJykuXVAMJnBgwKowz29k.png?width=812&amp;height=568" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+                    <div name="Content Wrapper" .framer-1h50kji style="will-change:transform;opacity:0.2;transform:translateX(190px) scale(0.6) rotateY(80deg)">
+                      <div name="Content " .framer-447zbu style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                        <div name="Title Wrapper" .framer-zobqex>
+                          <div name="Text" .framer-11pncob style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » 2/ Corporate Law
+                          <div name="Title &amp; Short Description" .framer-1ls4xu1>
+                            <div name="Title" .framer-xrjxrb style="--extracted-1w1cjl5:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24)))">
+                                » Real Estate Law
+                            <div name="Short Description" .framer-agnnb6 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                                » Successfully resolved a property ownership conflict through strategic legal representation and careful case preparation.
+                      <div name="Group " .framer-9e137u style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */;color:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */">
+                        <div style="width:100%;height:100%;aspect-ratio:inherit">
+                          <svg style="width:100%;height:100%;">
+                              [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 193 38"><use href="#svg1808347523_896"/></svg>
+                            <use href="#svg1808347523_896">
+                  » !--/$-->
+              <div>
+                <div .framer-17p5lej-container>
+                  » !--$-->
+                  <a name="Phone Case Studies Card " .framer-yopFD.framer-EPYMF.framer-wCAV8.framer-nkSep.framer-1sv8yk3.framer-v-1a16kr2.framer-17kiawe href="./case-studies/real-estate-law" style="width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                    <div .framer-1d75bo1 style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;opacity:1;transform:none">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/L4RmATyJykuXVAMJnBgwKowz29k.png?width=812&amp;height=568" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+                    <div name="Content Wrapper" .framer-1h50kji style="opacity:1;transform:none">
+                      <div name="Content " .framer-447zbu style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                        <div name="Title Wrapper" .framer-zobqex>
+                          <div name="Text" .framer-11pncob style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » 2/ Corporate Law
+                          <div name="Title &amp; Short Description" .framer-1ls4xu1>
+                            <div name="Title" .framer-xrjxrb style="--extracted-1w1cjl5:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24)))">
+                                » Real Estate Law
+                            <div name="Short Description" .framer-agnnb6 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                                » Successfully resolved a property ownership conflict through strategic legal representation and careful case preparation.
+                      <div name="Group " .framer-9e137u style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */;color:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */">
+                        <div style="width:100%;height:100%;aspect-ratio:inherit">
+                          <svg style="width:100%;height:100%;">
+                              [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 193 38"><use href="#svg1808347523_896"/></svg>
+                            <use href="#svg1808347523_896">
+                  » !--/$-->
+              <div>
+                <div .framer-17p5lej-container>
+                  » !--$-->
+                  <a name="Tablet Case Studies Card " .framer-yopFD.framer-EPYMF.framer-wCAV8.framer-nkSep.framer-1sv8yk3.framer-v-7ekoq0.framer-17kiawe href="./case-studies/real-estate-law" style="width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                    <div .framer-1d75bo1 style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;opacity:1;transform:none">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/L4RmATyJykuXVAMJnBgwKowz29k.png?width=812&amp;height=568" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+                    <div name="Content Wrapper" .framer-1h50kji style="opacity:1;transform:none">
+                      <div name="Content " .framer-447zbu style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                        <div name="Title Wrapper" .framer-zobqex>
+                          <div name="Text" .framer-11pncob style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » 2/ Corporate Law
+                          <div name="Title &amp; Short Description" .framer-1ls4xu1>
+                            <div name="Title" .framer-xrjxrb style="--extracted-1w1cjl5:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24)))">
+                                » Real Estate Law
+                            <div name="Short Description" .framer-agnnb6 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                                » Successfully resolved a property ownership conflict through strategic legal representation and careful case preparation.
+                      <div name="Group " .framer-9e137u style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */;color:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */">
+                        <div style="width:100%;height:100%;aspect-ratio:inherit">
+                          <svg style="width:100%;height:100%;">
+                              [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 193 38"><use href="#svg1808347523_896"/></svg>
+                            <use href="#svg1808347523_896">
+                  » !--/$-->
+              » !--/$-->
+            <div .framer-gwxslr>
+              » !--$-->
+              <div>
+                <div .framer-17p5lej-container>
+                  » !--$-->
+                  <a name="Desktop Case Studies Card " .framer-yopFD.framer-EPYMF.framer-wCAV8.framer-nkSep.framer-1sv8yk3.framer-v-1sv8yk3.framer-17kiawe href="./case-studies/employment-law" style="width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                    <div .framer-1d75bo1 style="will-change:transform;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;opacity:1;transform:perspective(1200px) scale(1.25)">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/mxgPf2wfnMIMiICGG7TLPGuxpo4.png?width=812&amp;height=568" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+                    <div name="Content Wrapper" .framer-1h50kji style="will-change:transform;opacity:0.2;transform:translateX(190px) scale(0.6) rotateY(80deg)">
+                      <div name="Content " .framer-447zbu style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                        <div name="Title Wrapper" .framer-zobqex>
+                          <div name="Text" .framer-11pncob style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » 3/ Corporate Law
+                          <div name="Title &amp; Short Description" .framer-1ls4xu1>
+                            <div name="Title" .framer-xrjxrb style="--extracted-1w1cjl5:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24)))">
+                                » Employment Law
+                            <div name="Short Description" .framer-agnnb6 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                                » Provided legal guidance in a workplace dispute, helping the client achieve a fair, good and favorable outcome for all ages and culture
+                      <div name="Group " .framer-9e137u style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */;color:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */">
+                        <div style="width:100%;height:100%;aspect-ratio:inherit">
+                          <svg style="width:100%;height:100%;">
+                              [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 193 38"><use href="#svg1808347523_896"/></svg>
+                            <use href="#svg1808347523_896">
+                  » !--/$-->
+              <div>
+                <div .framer-17p5lej-container>
+                  » !--$-->
+                  <a name="Phone Case Studies Card " .framer-yopFD.framer-EPYMF.framer-wCAV8.framer-nkSep.framer-1sv8yk3.framer-v-1a16kr2.framer-17kiawe href="./case-studies/employment-law" style="width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                    <div .framer-1d75bo1 style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;opacity:1;transform:none">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/mxgPf2wfnMIMiICGG7TLPGuxpo4.png?width=812&amp;height=568" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+                    <div name="Content Wrapper" .framer-1h50kji style="opacity:1;transform:none">
+                      <div name="Content " .framer-447zbu style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                        <div name="Title Wrapper" .framer-zobqex>
+                          <div name="Text" .framer-11pncob style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » 3/ Corporate Law
+                          <div name="Title &amp; Short Description" .framer-1ls4xu1>
+                            <div name="Title" .framer-xrjxrb style="--extracted-1w1cjl5:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24)))">
+                                » Employment Law
+                            <div name="Short Description" .framer-agnnb6 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                                » Provided legal guidance in a workplace dispute, helping the client achieve a fair, good and favorable outcome for all ages and culture
+                      <div name="Group " .framer-9e137u style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */;color:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */">
+                        <div style="width:100%;height:100%;aspect-ratio:inherit">
+                          <svg style="width:100%;height:100%;">
+                              [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 193 38"><use href="#svg1808347523_896"/></svg>
+                            <use href="#svg1808347523_896">
+                  » !--/$-->
+              <div>
+                <div .framer-17p5lej-container>
+                  » !--$-->
+                  <a name="Tablet Case Studies Card " .framer-yopFD.framer-EPYMF.framer-wCAV8.framer-nkSep.framer-1sv8yk3.framer-v-7ekoq0.framer-17kiawe href="./case-studies/employment-law" style="width:100%;border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                    <div .framer-1d75bo1 style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px;opacity:1;transform:none">
+                      <div style="position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0">
+                        <img src="https://framerusercontent.com/images/mxgPf2wfnMIMiICGG7TLPGuxpo4.png?width=812&amp;height=568" alt="Image" style="display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover">
+                    <div name="Content Wrapper" .framer-1h50kji style="opacity:1;transform:none">
+                      <div name="Content " .framer-447zbu style="background-color:var(--token-11ace084-7921-4937-a889-769e30d45713, rgb(255, 255, 255));border-bottom-left-radius:10px;border-bottom-right-radius:10px;border-top-left-radius:10px;border-top-right-radius:10px">
+                        <div name="Title Wrapper" .framer-zobqex>
+                          <div name="Text" .framer-11pncob style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                            <p .framer-styles-preset-n4ys0b style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                              » 3/ Corporate Law
+                          <div name="Title &amp; Short Description" .framer-1ls4xu1>
+                            <div name="Title" .framer-xrjxrb style="--extracted-1w1cjl5:var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <h6 .framer-styles-preset-1hf31ua style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1w1cjl5, var(--token-c6bc2161-37d8-43b0-99b8-d61c2d0c6151, rgb(25, 24, 24)))">
+                                » Employment Law
+                            <div name="Short Description" .framer-agnnb6 style="--extracted-r6o4lv:var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87));--framer-link-text-color:rgb(0, 153, 255);--framer-link-text-decoration:underline;transform:none">
+                              <p .framer-styles-preset-c36khm style="--framer-text-alignment:left;--framer-text-color:var(--extracted-r6o4lv, var(--token-01c63642-8c6d-46a5-809a-9d18550fd5f4, rgb(87, 87, 87)))">
+                                » Provided legal guidance in a workplace dispute, helping the client achieve a fair, good and favorable outcome for all ages and culture
+                      <div name="Group " .framer-9e137u style="image-rendering:pixelated;flex-shrink:0;fill:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */;color:var(--token-8e229806-21b6-435e-849c-2422c9834df1, rgba(255, 255, 255, 0.45)) /* {&quot;name&quot;:&quot;White Copy&quot;} */">
+                        <div style="width:100%;height:100%;aspect-ratio:inherit">
+                          <svg style="width:100%;height:100%;">
+                              [SVG] <svg style="width:100%;height:100%;" viewBox="0 0 193 38"><use href="#svg1808347523_896"/></svg>
+                            <use href="#svg1808347523_896">
+                  » !--/$-->
+              » !--/$-->
+            » !--/$-->
